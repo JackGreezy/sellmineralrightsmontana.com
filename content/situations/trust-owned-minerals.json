@@ -1,0 +1,72 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "status": "written",
+ "metaTitle": "Selling Trust-Owned Mineral Rights in Montana",
+ "metaDescription": "Trustee managing Montana mineral rights inside a family trust? A retired operator explains fiduciary valuation duties, beneficiary considerations, and how a trust sale works.",
+ "heroLead": "A trustee's obligation with mineral rights goes beyond deciding to sell or hold, it means documenting why that choice serves the beneficiaries, and that starts with a real number.",
+ "intro": [
+  "Montana families put a lot of things into trusts, ranches, mineral rights, sometimes both together as a single package meant to stay in the family. If you're serving as trustee for one of these and the trust holds oil and gas minerals, you're managing an asset that doesn't behave like the trust's other holdings. It doesn't have a daily price. It may or may not be producing. And unlike a stock or bond, there's no simple statement to hand beneficiaries showing what it's currently worth.",
+  "As trustee, you have a fiduciary duty to manage trust assets prudently, which for minerals usually means understanding what's actually owned, whether it's producing income consistent with the trust's purpose, and whether holding or selling better serves the beneficiaries given the trust's terms and their needs."
+ ],
+ "sections": [
+  {
+   "heading": "What prudent management of trust minerals looks like",
+   "paragraphs": [
+    "The starting point is the same as any trust asset: know what you have. Pull the division order if the trust has one, confirm the legal description and county, and establish whether the interest is currently producing, leased-but-undrilled, or dormant. From there, a documented valuation, ideally more than one data point, whether that's a formal appraisal, a documented cash offer, or both, gives you something defensible to reference if beneficiaries ever question the decision.",
+    "This matters more with mineral interests than most trust assets because the value swings meaningfully with commodity prices and drilling activity, sometimes within a single year. A number that looked fair eighteen months ago may not reflect current conditions, which is worth checking periodically even if the trust isn't actively considering a sale."
+   ]
+  },
+  {
+   "heading": "When holding makes sense versus when selling does",
+   "paragraphs": [
+    "If the trust's purpose includes generating income for beneficiaries and the minerals are producing steadily, holding them can align well with that mandate, functioning similarly to any income-producing trust asset. If the trust document calls for eventual distribution of principal to beneficiaries, or if the minerals are non-producing and unlikely to generate near-term income, converting them to cash may better serve the trust's actual purpose than holding an illiquid, hard-to-value asset indefinitely.",
+    "Some trusts specifically instruct the trustee to keep mineral interests in the family; others are silent and leave it to the trustee's judgment. Either way, documenting the reasoning, and the valuation behind it, protects you as trustee regardless of which direction you choose."
+   ]
+  },
+  {
+   "heading": "Multiple beneficiaries and competing preferences",
+   "paragraphs": [
+    "It's common for beneficiaries to disagree, one wants to keep the family minerals for sentimental reasons, another wants their share converted to cash sooner. As trustee, your obligation runs to the trust's terms and the interests of all beneficiaries collectively, not to any one beneficiary's preference. A clear, documented valuation helps here too, since it gives everyone the same real number to react to instead of competing guesses about what the minerals might be worth.",
+    "If the trust allows partial distribution or division of the interest among beneficiaries who want different outcomes, that's sometimes a workable middle path, though it does mean more paperwork and eventually multiple smaller interests rather than one trust holding."
+   ]
+  },
+  {
+   "heading": "Working with a trustee on a mineral review",
+   "paragraphs": [
+    "Send the trust's division order or the deed identifying the mineral interest, along with the county and legal description. I'll give you a documented valuation you can use for trust accounting or a beneficiary discussion, and if the trust decides to sell, I can walk through the process directly with you and whatever attorney or accountant the trust works with."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need a formal appraisal, or is a documented cash offer enough for trust records?",
+   "answer": "It depends on your state's trust accounting requirements and what the trust document specifies, but a documented cash offer tied to actual royalty or lease data is often accepted as reasonable supporting evidence, sometimes alongside a formal appraisal. Your trust attorney or accountant can confirm what's required for this specific trust."
+  },
+  {
+   "question": "Can I sell only part of the trust's mineral interest instead of all of it?",
+   "answer": "Yes, if the trust document allows it. Partial sales are common when a trustee wants to generate some liquidity while keeping a portion of the interest for continued income or family connection."
+  },
+  {
+   "question": "What if beneficiaries disagree about whether to sell?",
+   "answer": "Your duty as trustee is to the trust's terms and the collective interest of all beneficiaries, not any single preference. A documented, defensible valuation helps ground that decision in facts rather than competing opinions."
+  },
+  {
+   "question": "How often should trust-owned minerals be reevaluated?",
+   "answer": "There's no fixed rule, but checking in periodically, especially after any major activity nearby or a commodity price shift, keeps the trust's records current and helps you respond quickly if a sale or lease decision needs to be made."
+  },
+  {
+   "question": "Can a successor trustee pick up where a prior trustee left off on valuing trust minerals?",
+   "answer": "Yes, and it is common. A successor trustee inherits the same fiduciary duty and can request an updated valuation at any point, especially if the prior review is more than a year or two old or commodity conditions have shifted since."
+  }
+ ],
+ "wordCount": 894,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightsmontana-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

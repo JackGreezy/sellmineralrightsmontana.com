@@ -1,0 +1,67 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What Are Mineral Rights? A Montana Owner's Guide",
+ "metaDescription": "Understand what owning Montana mineral rights actually means, from split estate to royalty mechanics, explained by a retired E&P engineer before you sell or lease.",
+ "heroLead": "Owning minerals in Montana rarely means owning the ground itself, and that distinction confuses more sellers than anything else I explain.",
+ "intro": [
+  "Mineral rights are the legal right to whatever's beneath the surface, oil, gas, coal, and other subsurface resources, separate from ownership of the surface land itself. In Montana, especially on ground that was homesteaded or patented decades ago, it's extremely common for the mineral estate to have been split from the surface estate at some point, meaning you can own the minerals under a section of land you've never set foot on, while someone else entirely owns and farms the surface.",
+  "This split, called split estate, is the foundation for almost everything else about how Montana mineral ownership works: who gets contacted for a lease, who receives royalty checks if a well is drilled, and who has to be dealt with separately if there's ever a dispute over surface access for drilling equipment."
+ ],
+ "sections": [
+  {
+   "heading": "The mineral estate as the dominant estate",
+   "paragraphs": [
+    "Montana law, like most oil and gas states, treats the mineral estate as dominant over the surface estate, meaning the mineral owner or their lessee generally has the legal right to reasonable use of the surface to access and produce the minerals below, even if someone else owns that surface. In practice this gets negotiated through surface use agreements when a well is planned, but it's the legal backbone that makes drilling on split-estate land possible at all.",
+    "For a mineral owner, this matters mostly when a lease is being negotiated or a well gets permitted nearby, it's not something you have to actively manage day to day if you're just holding the interest. But it's useful to understand why a landman might show up asking about your minerals on land you don't otherwise have any connection to."
+   ]
+  },
+  {
+   "heading": "What owning minerals actually entitles you to",
+   "paragraphs": [
+    "Owning the full mineral estate gives you the right to lease the minerals to an operator in exchange for a bonus payment and a royalty share of future production, or to drill them yourself, though almost no individual mineral owners do that. It also gives you the right to negotiate lease terms, receive division order paperwork once a well is drilled, and collect royalty payments proportional to your ownership share within the well's spacing unit.",
+    "It does not automatically entitle you to surface access, farming rights, hunting rights, or anything above ground, those stay with whoever owns the surface unless you happen to own both. Owners sometimes assume mineral rights include some claim to the land itself; they don't, and that's worth being clear on before any conversation with a buyer or an operator."
+   ]
+  },
+  {
+   "heading": "How Montana mineral ownership commonly gets fractured",
+   "paragraphs": [
+    "A single original mineral estate, say the full interest under a 640-acre section, routinely fractures over generations through inheritance, ending up owned in small decimal percentages by a dozen or more heirs scattered across different states. That fracturing doesn't reduce the total value of the minerals, it just divides who's entitled to what share of any royalty or bonus payment. Your division order, once a well is drilled, will show your exact decimal interest based on however the original estate was divided down to you.",
+    "This is one reason Montana mineral transactions require careful title work, confirming exactly what percentage of the mineral estate a given owner actually holds, tracing back through however many inheritances or prior sales occurred."
+   ]
+  },
+  {
+   "heading": "Understanding your own mineral interest before deciding anything",
+   "paragraphs": [
+    "Before leasing or selling, it helps to know exactly what you own: full mineral rights, a royalty-only interest, or something else, and what county and legal description it applies to. Send whatever deed or division order documentation you have and I can help clarify exactly what kind of interest you hold and what that means for a lease or sale conversation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If I sell my mineral rights, do I lose my land too?",
+   "answer": "Only if you also own the surface and specifically include it in the sale. Most mineral transactions involve only the subsurface interest, the surface estate, if you own it, stays yours unless you separately agree to sell that too."
+  },
+  {
+   "question": "Can someone drill on my land without my permission if they own the minerals?",
+   "answer": "If the mineral estate is dominant and properly leased, the mineral owner or their lessee generally has a legal right to reasonable surface access, though this is typically worked out through a surface use agreement, and Montana has specific statutes governing that process."
+  },
+  {
+   "question": "What's the difference between owning mineral rights and owning a royalty interest?",
+   "answer": "Full mineral rights include the right to lease and negotiate terms with an operator. A royalty interest, discussed elsewhere on this site, is a narrower right to a share of production income without the leasing authority. Knowing which one you hold changes how a transaction works."
+  },
+  {
+   "question": "How do I find out exactly what percentage of the minerals I own?",
+   "answer": "A division order from a producing well will state your exact decimal interest. If there's no well yet, your deed and any probate or inheritance documents establish your ownership share, which I can help trace if the paperwork is unclear."
+  }
+ ],
+ "status": "written",
+ "wordCount": 887,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsmontana-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

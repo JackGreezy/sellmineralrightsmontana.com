@@ -1,0 +1,58 @@
+{
+ "slug": "hardin-mt",
+ "title": "Sell Mineral Rights in Hardin, MT",
+ "type": "city",
+ "kind": "city",
+ "county": "Big Horn",
+ "group": "Powder River MT",
+ "primaryKeyword": "sell mineral rights hardin mt",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Hardin, MT",
+ "metaDescription": "Hardin is the Big Horn County seat, next to the Crow Reservation. A retired E&P engineer explains trust versus fee title and honest Powder River Basin flank economics here.",
+ "heroLead": "Every real title question I get about Big Horn County minerals eventually routes through the courthouse in Hardin, so it's worth understanding what that office can and can't tell you.",
+ "intro": [
+  "Hardin sits right at the edge of the Crow Reservation and serves as the county seat for Big Horn County. The Clerk and Recorder's office here handles fee-title mineral records, but a meaningful share of the county's mineral ownership is Crow trust land administered separately through the Bureau of Indian Affairs. Before I discuss value with anyone near Hardin, I want to know which category their interest falls into."
+ ],
+ "sections": [
+  {
+   "heading": "Two Title Systems, One County Seat",
+   "paragraphs": [
+    "If your interest is fee-owned, the Hardin courthouse records show your full chain of title and any current lease or division order. If it's trust land, the courthouse may show little or nothing, because the interest is tracked through BIA realty records instead. I've had owners assume a thin courthouse file meant a worthless interest, when it actually meant the interest was trust land tracked elsewhere. Worth checking both before drawing conclusions."
+   ]
+  },
+  {
+   "heading": "Geology on the Powder River Basin's Western Rim",
+   "paragraphs": [
+    "Big Horn County sits on the far western edge of the Powder River Basin, where coalbed methane development in the late 1990s and 2000s put wells into the Fort Union coal seams. That activity has slowed considerably from its peak, and most producing interests near Hardin today are aged, in steady decline, rather than freshly drilled. There's no meaningful deep shale activity here comparable to the Bakken counties on the state's other side."
+   ]
+  },
+  {
+   "heading": "What I'd Check Before Making an Offer",
+   "paragraphs": [
+    "Fee-or-trust status comes first. From there, I want the recorded net revenue interest, current or historical CBM well performance nearby, and whether the operator on record is still current on payments. Given the basin's western position here, I set expectations around mature, modest production rather than active new drilling, and I'll say so directly."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does the Big Horn County Clerk and Recorder handle Crow trust mineral records?",
+   "answer": "No. The clerk and recorder in Hardin handles fee-title records. Trust minerals held for Crow tribal members or the tribe are tracked separately through the BIA, so a thin courthouse file doesn't necessarily mean a thin interest."
+  },
+  {
+   "question": "Is there current coalbed methane activity near Hardin?",
+   "answer": "There's legacy CBM production from development in the late 1990s and 2000s, mostly in steady decline now rather than new drilling. This is the quieter western edge of the Powder River Basin."
+  },
+  {
+   "question": "How do I find out if my mineral interest is Crow trust land?",
+   "answer": "Start with a title search at the Big Horn County Clerk and Recorder in Hardin. If there's Crow allotment history in your family and the courthouse record is thin, follow up with the BIA Crow Agency realty office to check trust status directly."
+  }
+ ],
+ "status": "written",
+ "wordCount": 500,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-hardin-mt.jpg",
+  "alt": "Sell Mineral Rights in Hardin, MT location",
+  "width": 1600,
+  "height": 1000
+ }
+}

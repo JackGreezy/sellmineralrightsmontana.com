@@ -1,0 +1,76 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are Montana Mineral Rights Worth?",
+ "metaDescription": "A former operations engineer explains, in plain terms, what actually drives mineral rights value in Montana, from Bakken flank position to split estate status.",
+ "heroLead": "There is no single number that answers this question honestly, and anyone who quotes you one over the phone without seeing your tract is guessing.",
+ "intro": [
+  "I spent decades on the operating side before I started buying interests directly from owners, and the question I get asked first, almost every time, is what a tract is worth. The honest answer is that value depends on a handful of specific factors, and once you understand them you can at least tell whether an offer is in a reasonable range for your situation.",
+  "This guide walks through what actually moves the number for Montana owners specifically, since our geology and land patterns are different from Texas or Oklahoma in ways that matter."
+ ],
+ "sections": [
+  {
+   "heading": "Why Position On The Play Moves The Number",
+   "paragraphs": [
+    "Montana sits on the western edge of the Bakken and Three Forks trend, and the difference between a tract near the North Dakota line in Richland or Sheridan County and one further west toward Fallon or Wibaux can be significant. Core acreage with dense, prolific horizontal wells commands a stronger multiple against current royalty income than flank acreage where wells are sparser and less predictable. Neither is worthless, but they are not priced the same way, and any buyer who quotes you the same range for both hasn't actually looked at where your tract sits.",
+    "Central Montana's older Sweetgrass Arch and Cut Bank fields are a different animal entirely, generally lower-volume, longer-life stripper production that gets valued more on steady cash flow than on drilling upside."
+   ]
+  },
+  {
+   "heading": "Producing Versus Non-Producing Minerals",
+   "paragraphs": [
+    "A producing interest with real royalty history is far easier to value than raw, undeveloped minerals with no well ever drilled on them. Producing value is typically quoted as a multiple of recent monthly or annual net royalty, adjusted for expected decline, so recent statements matter enormously here. Non-producing minerals depend almost entirely on whether the tract sits in an area operators are actively leasing, which in Montana can shift with commodity prices and drilling budgets from one year to the next.",
+    "If you haven't received a check in years and there's no active leasing nearby, value is going to reflect speculative, longer-term potential rather than anything close to current income."
+   ]
+  },
+  {
+   "heading": "Federal Versus Fee Minerals In Montana",
+   "paragraphs": [
+    "Montana has a meaningful amount of federally administered minerals, particularly where homestead-era patents severed the mineral estate from the surface, and around tribal and BLM-managed land. Federal minerals operate under different leasing rules, royalty rates, and timelines than privately held fee minerals, and that affects how a buyer prices them. It isn't automatically worse, but it typically means longer holding periods before development and different administrative overhead, which a buyer has to account for in the number they offer.",
+    "If you aren't sure whether your interest is fee or federal, your original deed or patent, along with a title search, will usually settle it."
+   ]
+  },
+  {
+   "heading": "What Actually Sets A Buyer's Offer",
+   "paragraphs": [
+    "In practice, an offer typically gets built from your decimal interest, recent net royalty if the tract is producing, an assumed decline rate based on comparable wells nearby, and a risk-adjusted multiple that reflects how confident the buyer is in future drilling. Values move with oil and gas prices and with how active operators are in your specific township and range, which is why a number that seemed low two years ago might look different today, and vice versa.",
+    "Nobody honest can hand you a firm price without seeing your decimal interest, recent statements, and county location, so treat any unsolicited number that arrives before those documents are reviewed as a starting point for conversation, rather than a real offer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can you just tell me a dollar amount per acre over the phone?",
+   "answer": "No, and you should be skeptical of anyone who does. A real number depends on your decimal interest, whether the tract is producing, and recent activity nearby, all of which take a look at your documents to assess."
+  },
+  {
+   "question": "Are non-producing minerals worth anything in Montana?",
+   "answer": "They can be, especially near active drilling areas along the Bakken flank, but the value reflects speculative future development rather than current income, so it is typically a smaller number than a producing tract."
+  },
+  {
+   "question": "Does having federal or BLM-administered minerals lower the value?",
+   "answer": "Not automatically, but it does change the timeline and administrative process, which buyers factor into what they offer. Fee and federal minerals are simply priced under different assumptions."
+  },
+  {
+   "question": "Why would two neighboring tracts get different offers?",
+   "answer": "Small differences in decimal interest, well spacing, lease terms, or which side of a unit boundary a tract falls on can produce noticeably different valuations even for adjacent land."
+  },
+  {
+   "question": "What documents should I have ready before asking for a real number?",
+   "answer": "Your deed or patent, recent royalty statements if the tract is producing, and any division order paperwork give a buyer enough to put together an informed, tract-specific offer."
+  },
+  {
+   "question": "Does an older lease with a low royalty rate hurt my value today?",
+   "answer": "It can, since a low legacy royalty rate reduces your net revenue from any given well, which flows directly into the income approach a buyer uses on producing minerals."
+  }
+ ],
+ "wordCount": 882,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightsmontana-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

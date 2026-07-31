@@ -1,0 +1,57 @@
+{
+ "slug": "westby-mt",
+ "title": "Sell Mineral Rights in Westby, MT",
+ "type": "city",
+ "kind": "city",
+ "county": "Sheridan",
+ "group": "Bakken MT",
+ "primaryKeyword": "sell mineral rights westby mt",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Westby, MT",
+ "metaDescription": "Westby, MT sits on the eastern edge of Sheridan County closest to North Dakota, with more real Bakken history than most of the county. I buy interests here.",
+ "heroLead": "Westby sits about as close to the North Dakota line as Sheridan County gets, and that geography shows up in the mineral record.",
+ "intro": [
+  "Of the towns I work in Sheridan County, Westby's position right against the state line gives it a genuinely stronger Bakken history than ground further west toward Redstone or Reserve. Operators extending the play out of the North Dakota core reached this corner of Montana first, and some of that development has held up over the years. That said, edge-of-play is still edge-of-play — the well density and net pay here don't match Williams or McKenzie County acreage across the line, and I price a Westby-area interest against its own record, not against what a neighbor's North Dakota interest might be worth.",
+  "It's a fair question to ask why the same formation performs so differently a few miles apart, and the honest answer is basin geometry — Westby just happens to sit closer to where the pay is thickest."
+ ],
+ "sections": [
+  {
+   "heading": "What's different about the border corner of the county",
+   "paragraphs": [
+    "Being first in line as the play extended west means more of the leasing and drilling that did happen in Sheridan County concentrated here and around Plentywood. I check whether your specific parcel sits inside an active unit or on ground that was leased but never drilled, because both situations exist within a few miles of each other around Westby."
+   ]
+  },
+  {
+   "heading": "Confirming the chain before I offer anything",
+   "paragraphs": [
+    "I pull the recorded deed chain from the Sheridan County Clerk and Recorder in Plentywood, check current lease status, and look at nearby well production before discussing a number."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Westby the most active part of Sheridan County?",
+   "answer": "Along with Plentywood, generally yes, given its proximity to the North Dakota core. Still thinner than the core itself, but stronger than the county's western half."
+  },
+  {
+   "question": "How do I know if my Westby-area interest is under an active lease?",
+   "answer": "I check the recorded lease of record through the Sheridan County Clerk and Recorder in Plentywood before making an offer."
+  },
+  {
+   "question": "Should I expect North Dakota-level numbers this close to the border?",
+   "answer": "No. Even right at the state line, Montana-side acreage in this county has lower well density and thinner pay than the North Dakota core. I price it honestly against its own record."
+  },
+  {
+   "question": "Why does pay quality change so much just a few miles from the state line?",
+   "answer": "Basin geometry — net pay in the Bakken and Three Forks thins moving west and north from its thickest point, and that gradient is real even over short distances."
+  }
+ ],
+ "status": "written",
+ "wordCount": 456,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-westby-mt.jpg",
+  "alt": "Sell Mineral Rights in Westby, MT location",
+  "width": 1600,
+  "height": 1000
+ }
+}

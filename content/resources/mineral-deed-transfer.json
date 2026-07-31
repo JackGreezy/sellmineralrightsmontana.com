@@ -1,0 +1,72 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Montana Mineral Deed & Title Transfer Guide",
+ "metaDescription": "How mineral deeds and title transfer actually work in Montana, including heirship, county recording, and split estate deed language, from a former engineer.",
+ "heroLead": "A mineral deed is a short document that does a lot of legal work, and getting the wording wrong can cause title problems that outlast the person who signed it.",
+ "intro": [
+  "I've reviewed enough old Montana mineral deeds over the years, some typed on a manual typewriter decades ago, to know that small drafting choices from generations back still shape what an owner can and can't do with their interest today. Understanding what a deed actually transfers, and how title moves through the county system, helps you avoid adding to that pile of confusion.",
+  "This covers the mechanics plainly, without the legalese most owners never get walked through."
+ ],
+ "sections": [
+  {
+   "heading": "What A Mineral Deed Actually Transfers",
+   "paragraphs": [
+    "A mineral deed conveys ownership of the mineral estate, meaning the right to explore for, produce, and receive royalty from oil, gas, and typically other minerals under a described tract, separate from the surface. It should include a clear legal description by section, township, and range, the type of interest conveyed such as a full or fractional mineral interest, and whether any existing lease and its royalty obligations transfer along with it. A deed that's vague on any of these points is the kind of thing that generates disputes years down the road, often after the person who signed it is no longer around to clarify intent.",
+    "Unlike a general warranty deed on a house, mineral deeds are frequently quitclaim or special warranty in form, meaning the seller only guarantees they haven't personally clouded title, not that title is perfect against every possible claim."
+   ]
+  },
+  {
+   "heading": "Recording It Right In The County Clerk's Office",
+   "paragraphs": [
+    "Once signed and notarized, a mineral deed needs to be recorded with the clerk and recorder in the Montana county where the property sits, which is what makes the transfer part of the public record and puts future buyers, operators, and title examiners on notice of the new ownership. Recording isn't optional if you want the transfer to hold up cleanly; an unrecorded deed can create real problems if the same interest ever gets conveyed or claimed by someone else afterward.",
+    "After recording, it's the new owner's responsibility, or the buyer's in most transactions, to notify the operator's division order department so future royalty checks go to the right place instead of continuing to the seller's name."
+   ]
+  },
+  {
+   "heading": "Heirship And Probate Complications",
+   "paragraphs": [
+    "When an owner passes away without a deed already transferring their interest, ownership generally moves through their estate, either formal probate or, for smaller Montana estates, a simplified affidavit process. Until that's completed and recorded, the operator typically won't issue a new division order, and any sale has to work through the estate rather than around it. This is where a lot of the family-land situations I see in Montana get complicated, minerals split among three or four siblings or cousins none of whom have formally cleared title, sometimes going back two generations.",
+    "If you're in that position, a title attorney can usually map out the shortest path to clean, sellable title faster than trying to piece it together from old paperwork on your own."
+   ]
+  },
+  {
+   "heading": "Split Estate Deeds And Surface Use Language",
+   "paragraphs": [
+    "When minerals and surface are held by different owners, which is common across Montana due to homestead-era severances, a mineral deed should be clear that it conveys minerals only, with no claim to the surface. Some older deeds include surface use language granting the mineral owner reasonable access to explore and produce, which matters if the tract is ever leased, since that access right typically transfers with the minerals. If your minerals sit under BLM-administered surface, the transfer of a fee mineral interest doesn't touch the federal surface estate at all, those remain entirely separate ownership chains.",
+    "Knowing which situation applies to your tract before drafting a deed avoids ambiguity that could otherwise sit unresolved for years."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need a lawyer to transfer a mineral deed in Montana?",
+   "answer": "It isn't legally required for a straightforward transfer, but for anything involving heirship, split estate language, or an existing lease, having an attorney review the deed is a reasonable safeguard against ambiguity."
+  },
+  {
+   "question": "What's the difference between a quitclaim and warranty mineral deed?",
+   "answer": "A quitclaim conveys whatever interest the seller has without guaranteeing clear title, while a warranty deed includes some level of assurance against title defects. Mineral deeds often fall somewhere between the two."
+  },
+  {
+   "question": "How long does county recording take in Montana?",
+   "answer": "It varies by county clerk and recorder office, but most straightforward mineral deeds are recorded within a few days to a couple of weeks after submission."
+  },
+  {
+   "question": "My deed is unclear on whether it includes surface rights. What do I do?",
+   "answer": "Have a title professional or attorney review the exact language, since ambiguous surface access clauses in split estate situations are a common source of later disputes."
+  },
+  {
+   "question": "What happens if a mineral deed is never recorded?",
+   "answer": "The transfer may still be valid between the parties, but an unrecorded deed leaves the door open for competing claims and creates real problems if the interest is ever sold or leased again."
+  }
+ ],
+ "wordCount": 867,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsmontana-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "out-of-state-owners",
+ "title": "Out-of-State Owners",
+ "type": "situation",
+ "note": "absentee owners managing from afar",
+ "status": "written",
+ "metaTitle": "Out-of-State Owner? Selling Montana Mineral Rights Remotely",
+ "metaDescription": "Live outside Montana but own minerals here? A retired operator explains how absentee owners verify a real offer, handle title work remotely, and close without a trip.",
+ "heroLead": "You don't have to fly to Montana to sell what you own here, but you do have to know what you're signing before you sign it from three states away.",
+ "intro": [
+  "A large share of Montana mineral owners I talk to don't live anywhere near the acreage. Families moved for work generations ago, kids inherited a piece of the old homestead and settled in Seattle or Minneapolis or Texas, and the minerals just stayed on the books in Montana while the people scattered. That distance makes the whole process feel murkier than it needs to be, no way to drive out and look at the well, no local contact to call, just paperwork arriving from a state you may not have visited in years.",
+  "The mechanics of selling don't actually require being local. Everything runs through documentation, title work, and a closing that can happen entirely by mail or overnight courier. What matters more for an out-of-state owner is knowing how to tell a legitimate offer from a lowball mailer, and understanding what to verify before signing anything."
+ ],
+ "sections": [
+  {
+   "heading": "Why absentee owners get worse offers, and how to avoid it",
+   "paragraphs": [
+    "Buyers who blanket-mail out-of-state owners often bank on the fact that someone three time zones away can't easily verify local activity, drive by the well, or call a neighbor to check the story. That gap gets exploited with mailers quoting flat, unverified numbers, sometimes well below what the interest would fetch from a buyer actually checking current royalty statements and nearby drilling activity. Distance from the property is not a reason to accept a worse number, it just means you need to lean harder on documentation instead of local knowledge.",
+    "The fix is straightforward: ask for the same documentation you'd want if you lived next door. What operator, what well, what's the recent production history, what's happening on adjacent acreage. A legitimate buyer answers those questions directly instead of just pushing you toward signing."
+   ]
+  },
+  {
+   "heading": "Handling title and closing remotely",
+   "paragraphs": [
+    "Mineral deeds get recorded at the county clerk and recorder's office where the minerals sit, and that recording doesn't require your physical presence in Montana. Closing documents are typically notarized wherever you happen to live, most banks, UPS stores, and shipping centers offer notary service, and then mailed back for recording. I've closed deals with owners who've genuinely never set foot in the state their minerals are in, and the process works the same as it would for a local seller.",
+    "The one thing that does slow down remote closings is incomplete or unclear title, an old deed with a maiden name that doesn't match current ID, an estate that was never formally probated, records split across a name change. None of that is unique to being out of state, but it's worth flagging early since it can add a few weeks to the title work regardless of where you live."
+   ]
+  },
+  {
+   "heading": "Verifying who you're dealing with from a distance",
+   "paragraphs": [
+    "Before signing anything, ask for a Montana business address or registered agent, ask how the buyer arrived at their number, and don't be afraid to ask for the offer in writing with time to have someone review it, an attorney, a family member who's local, whoever you trust. A legitimate buyer won't pressure you to sign same-day over the phone. If someone's pushing urgency, that's the biggest red flag regardless of how far away you live from the acreage.",
+    "It's also worth checking whether other family members received similar mailers, sometimes an entire heir group scattered across the country gets the same offer, and comparing notes among relatives can tell you a lot about whether a number is fair."
+   ]
+  },
+  {
+   "heading": "Starting the process from out of state",
+   "paragraphs": [
+    "Send whatever documentation you have by mail, email, or scan, division order, old deed, probate paperwork, doesn't matter the format. I'll walk you through what your minerals are actually worth based on real activity in that county, not a mailer formula, and handle the closing paperwork so it works whether you're in Billings or three thousand miles away."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to travel to Montana to sell my minerals?",
+   "answer": "No. Deeds are recorded at the county level and documents are typically notarized wherever you live, then mailed for recording. Owners routinely close a sale without ever visiting the state."
+  },
+  {
+   "question": "How do I know an out-of-state offer isn't a scam?",
+   "answer": "Ask for specifics: the operator name, well information, and how the buyer arrived at their number. A legitimate buyer answers directly and doesn't pressure you to sign quickly. Verifying against a division order or courthouse record is always a reasonable ask."
+  },
+  {
+   "question": "My grandmother's deed has her maiden name and I've never updated anything. Is that a problem?",
+   "answer": "It can slow down title work, but it's a routine fix, usually a probate document or affidavit connecting the names. It's more common than you'd think and doesn't kill a deal, it just adds some time."
+  },
+  {
+   "question": "Can I split the sale process among siblings who live in different states?",
+   "answer": "Yes. Each heir can typically handle their own documentation and closing independently, even from different states, as long as everyone's decimal interest is clearly established."
+  }
+ ],
+ "wordCount": 886,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-out-of-state-owners-sellmineralrightsmontana-com.jpg",
+  "alt": "Out-of-State Owners mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

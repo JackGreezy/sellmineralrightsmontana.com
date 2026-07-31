@@ -1,0 +1,72 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "status": "written",
+ "metaTitle": "Selling Non-Producing Mineral Rights in Montana",
+ "metaDescription": "No wells, no royalty checks, expired lease. Non-producing Montana minerals still have value. A retired operator explains how they're priced and when to consider a sale.",
+ "heroLead": "No well, no royalty check, no lease on file. It's easy to assume that means no value. It usually doesn't mean that.",
+ "intro": [
+  "Non-producing is the category I probably field the most questions about, because it's the hardest for an owner to make sense of on their own. There's no division order to point to, no monthly check as a reference point, sometimes not even a lease history. Just a legal description in a county and a family story that somebody, sometime, owned minerals there.",
+  "Montana has a lot of acreage like this, sections that were leased once decades ago and never drilled, ground in counties without much current activity, minerals that simply sat quiet through multiple owner generations. None of that means the interest is worth nothing. It means the value comes from a different set of questions than a producing well does."
+ ],
+ "sections": [
+  {
+   "heading": "How non-producing minerals actually get valued",
+   "paragraphs": [
+    "Without a royalty history, value comes from three things: what's happening on the acreage around you, what play or formation underlies your section, and how likely it is an operator leases or drills there in a reasonable timeframe. A non-producing tract in Richland County near active Bakken development gets valued very differently than a non-producing tract in a county with no oil and gas activity in a decade. Same legal status, very different number.",
+    "This is where knowing the basins matters. If your minerals sit on the western edge of the Williston, near Elm Coulee, or in a part of the Powder River Basin where CBM activity has cycled through before, there's a real basis for pricing even without current production. If they're in a county with essentially no drilling history, the honest answer is that the value is mostly speculative, and I'll tell you that directly rather than inflate a quote."
+   ]
+  },
+  {
+   "heading": "Why some owners still choose to sell non-producing minerals",
+   "paragraphs": [
+    "Selling a non-producing interest converts an asset with uncertain, possibly distant future value into cash today. For owners who don't want to keep tracking an interest that may never pay, who inherited it as part of a larger estate, or who'd simply rather have a known amount than an open-ended maybe, that trade makes sense. It's essentially selling the optionality, the chance that drilling eventually happens, to a buyer willing to hold that patience.",
+    "Other owners prefer to hold non-producing minerals indefinitely, treating them as a long-shot asset with no carrying cost beyond occasionally checking county records. That's a reasonable choice too, particularly if there's no urgent need for the cash and some sentimental or generational reason to keep the family's original mineral ownership intact."
+   ]
+  },
+  {
+   "heading": "What buyers actually check before quoting",
+   "paragraphs": [
+    "Recent permit filings and rig activity in your township, whether any adjacent sections have been leased recently and at what bonus, what formation or play the section sits over, and whether there's any operator with stated plans in that part of the county. All of that is public record through the Montana Board of Oil and Gas Conservation and county courthouse filings, and it's exactly what I look at before putting a number on non-producing acreage rather than guessing off the county name alone.",
+    "I'd rather spend the time checking that activity than send a generic lowball offer, because non-producing doesn't mean uniform, some non-producing sections are genuinely close to seeing a well, and some genuinely aren't."
+   ]
+  },
+  {
+   "heading": "Getting a non-producing interest reviewed",
+   "paragraphs": [
+    "Send whatever documentation identifies the legal description, county, township, and section, even an old deed or tax statement is enough to start. I'll check current activity in that area and give you an honest read on what, if anything, it's realistically worth today."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If there's no well and no lease, is there really any value at all?",
+   "answer": "Sometimes yes, sometimes it's genuinely minimal. It depends on activity nearby and what formation underlies the section. Active basins with recent leasing or permitting nearby support real value even without your own production; quiet counties with no recent history often don't."
+  },
+  {
+   "question": "My family's minerals were leased once decades ago but never drilled. Does that old lease still matter?",
+   "answer": "Not directly, since leases typically expire after their primary term without drilling. But historical leasing activity can be a useful signal that operators have had past interest in the area, which is worth mentioning when getting a review."
+  },
+  {
+   "question": "Should I try to get my minerals leased before selling?",
+   "answer": "It depends on whether there's realistic near-term interest from an operator. If nothing's actively leasing nearby, waiting on a lease that may not come could tie up the decision for years. A direct sale skips that uncertainty."
+  },
+  {
+   "question": "How do I even find out what county and section my family's minerals are in?",
+   "answer": "Old deeds, tax statements, or probate records usually carry the legal description. If you're unsure, the county clerk and recorder's office where you believe the land was located can typically help trace it from a name search."
+  },
+  {
+   "question": "Does the Montana Board of Oil and Gas Conservation track my specific interest?",
+   "answer": "The board tracks wells, permits, and spacing units by legal description, not individual mineral owners directly. Once I have your township and section, I can check that public record for any recent permitting or drilling activity nearby that would bear on value."
+  }
+ ],
+ "wordCount": 902,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-sellmineralrightsmontana-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

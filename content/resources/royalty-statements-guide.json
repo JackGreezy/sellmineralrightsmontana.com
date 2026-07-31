@@ -1,0 +1,72 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read a Montana Royalty Statement",
+ "metaDescription": "A retired E&P engineer explains what each line on a Montana royalty statement means, why the check shrinks over time, and when the numbers signal a sale.",
+ "heroLead": "Most owners I talk to have a drawer full of royalty stubs they have never actually read line by line. Here is what the paper is telling you.",
+ "intro": [
+  "I ran production for a good chunk of my career before I started buying mineral interests instead of operating them, and one thing never changed: owners get a statement every month and most of them file it without reading it. That is a mistake, because the statement is the only document that tells you, in real numbers, what your interest is actually doing right now, not what a landman told you it might do ten years ago.",
+  "This is written for Montana owners specifically, because a lot of the interests up here sit on the flank of the Bakken or in older Sweetgrass Arch and Cut Bank production, and the statement math behaves differently depending on where your tract sits."
+ ],
+ "sections": [
+  {
+   "heading": "What Shows Up On The Check Stub",
+   "paragraphs": [
+    "A royalty statement is going to list a well or lease name, a production month, gross volumes of oil and gas, your decimal interest, price received, deductions, and severance and production taxes withheld before you ever see the money. Montana withholds its own production tax at the source, so the number on your stub is already net of that. If you are comparing your check to a neighbor's or to something you read online, make sure you are comparing net figures to net figures, not gross production to a net check.",
+    "The decimal interest line is the one owners skip past fastest and it is the one that matters most. That number represents your fractional share of the well after unitization, and if you inherited a piece of a larger family tract, it can look startlingly small even when the well itself is producing well."
+   ]
+  },
+  {
+   "heading": "Interest Type And Why It Matters",
+   "paragraphs": [
+    "Whether you hold a royalty interest, an overriding royalty, or a working interest changes what deductions legally apply to you. Straight royalty owners in Montana are typically shielded from post-production costs by lease language more often than not, but I have seen enough leases from the 1970s and 1980s with weak proceeds language that deductions crept in anyway. If your net number has dropped and gross production hasn't, that is the first thing worth checking against your actual lease.",
+    "Working interest owners, which is a smaller group but not a rare one on old Montana leases, see their own operating costs subtracted before anything reaches them, which is a very different statement to read than a royalty owner's."
+   ]
+  },
+  {
+   "heading": "Reading The Decline Behind The Numbers",
+   "paragraphs": [
+    "Wells on the edge of the Bakken in eastern Montana, out around Richland, Roosevelt, and McCone counties, tend to decline faster in year one and two than the type curves people quote you make it sound. A well that opened strong can be down forty to sixty percent within eighteen months, then settle into a long, shallow tail that produces modest but steady royalty for years. If your statement shows a steep drop after a hot first year, that is normal decline behavior, not a sign anything is wrong with the well.",
+    "Older Cut Bank and Sweetgrass Arch production in the northern part of the state behaves differently: shallower declines, but lower absolute volumes from the start. Knowing which kind of well sits under your tract changes how you should read a falling number."
+   ]
+  },
+  {
+   "heading": "When The Numbers Don't Match What You Expected",
+   "paragraphs": [
+    "If a check stops arriving entirely, the most common cause isn't fraud, it is a title problem: a name doesn't match county records, an heirship chain was never cleaned up, or an address change never made it to the operator's division order department. Before you assume the worst, pull your last several statements and check whether your decimal interest itself changed, which usually points to a spacing unit adjustment or a new well entering the unit.",
+    "This is also the point where a lot of owners start thinking about selling rather than continuing to track a declining, sometimes confusing income stream, and that's a reasonable thing to weigh once you actually understand what the statement is telling you."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my royalty check drop by half after the first year?",
+   "answer": "That is typical decline curve behavior for a horizontal well on the edge of the Bakken. Production is highest in the first several months and falls off quickly before settling into a longer, shallower tail."
+  },
+  {
+   "question": "What is the difference between gross and net volumes on my statement?",
+   "answer": "Gross is the well's total production; net is your decimal share after deductions and taxes. Always compare net figures when checking your numbers against someone else's, since gross tells you nothing about your actual interest."
+  },
+  {
+   "question": "Why is Montana production tax already taken out of my check?",
+   "answer": "Montana withholds oil and gas production tax at the source, so the amount on your statement is already net of that state tax, unlike some other states where you handle it separately at filing time."
+  },
+  {
+   "question": "My decimal interest changed between statements. Is that normal?",
+   "answer": "Yes, this usually happens when a new well is added to your spacing unit or a unit boundary is adjusted, which dilutes or increases each owner's fractional share depending on direction."
+  },
+  {
+   "question": "Should I still be tracking statements if I'm thinking about selling?",
+   "answer": "Recent statements are one of the first things a buyer will ask for, since they show current decimal interest and recent net revenue, which anchors any offer to real, current activity rather than guesswork."
+  }
+ ],
+ "wordCount": 949,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsmontana-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

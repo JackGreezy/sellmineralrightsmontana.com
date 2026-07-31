@@ -1,0 +1,58 @@
+{
+ "slug": "wyola-mt",
+ "title": "Sell Mineral Rights in Wyola, MT",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Big Horn",
+ "group": "Powder River MT",
+ "primaryKeyword": "sell mineral rights wyola mt",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Wyola, MT",
+ "metaDescription": "Wyola sits on the Powder River Basin's Montana edge, near Crow Reservation trust land. A retired E&P engineer explains what that means for a sale.",
+ "heroLead": "Wyola is Montana's edge of a Wyoming play, and that geography, plus reservation status, decides more about your minerals than any national headline does.",
+ "intro": [
+  "Wyola sits just off I-90 near the Wyoming line, close enough to Sheridan that most of the regional oilfield traffic passes through on its way to somewhere else. It's also within the Crow Reservation, which means ownership status matters here as much as geology does."
+ ],
+ "sections": [
+  {
+   "heading": "The Powder River Basin's Thin Montana Edge",
+   "paragraphs": [
+    "The Powder River Basin's coalbed methane boom of the 2000s reached into Big Horn and Rosebud counties, pulling gas from the Fort Union coal seams alongside a lot of produced water that had to be managed. That activity was always thinner and more marginal on the Montana side than in the basin's Wyoming core around Gillette, and it slowed well before the newer horizontal plays further south ever got going. Anyone comparing a Wyola interest to Wyoming numbers is comparing it to the wrong play."
+   ]
+  },
+  {
+   "heading": "Crow Reservation Trust and Allotted Minerals",
+   "paragraphs": [
+    "Ownership near Wyola often traces back to Crow Tribe allotments, and those interests can carry trust or restricted status requiring Bureau of Indian Affairs approval to transfer, distinct from fee minerals that move by standard deed. Checkerboard ownership is common here too, where a fee tract and a trust tract sit right next to each other with completely different transfer rules."
+   ]
+  },
+  {
+   "heading": "Reading an Offer on Wyola Minerals",
+   "paragraphs": [
+    "A fair offer here should reference the older CBM history and current decline rather than newer Wyoming-side numbers, and it should tell you upfront whether your interest needs BIA sign-off. If a buyer skips both of those and just names a number, ask them to show their work."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Wyola in the same play as Gillette, Wyoming?",
+   "answer": "It's the same basin but a much thinner, older edge of it. The Powder River Basin's core activity around Gillette has always outpaced the Montana side near Wyola, so pricing shouldn't be borrowed directly from Wyoming comparables."
+  },
+  {
+   "question": "Are my minerals trust or fee near Wyola?",
+   "answer": "Check your deed and allotment history. Many interests here trace to Crow Tribe allotments and may require Bureau of Indian Affairs approval to transfer, while neighboring fee tracts do not."
+  },
+  {
+   "question": "Why did coalbed methane activity slow down here?",
+   "answer": "The Montana side of the Powder River Basin was always more marginal than the Wyoming core, and as gas prices and water-handling costs shifted, operators focused their capital on the more productive Wyoming acreage instead."
+  }
+ ],
+ "status": "written",
+ "wordCount": 440,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-wyola-mt.jpg",
+  "alt": "Sell Mineral Rights in Wyola, MT location",
+  "width": 1600,
+  "height": 1000
+ }
+}

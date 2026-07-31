@@ -1,0 +1,68 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "status": "written",
+ "metaTitle": "Inherited Mineral Rights in Montana: Keep or Sell",
+ "metaDescription": "Just inherited Montana mineral rights? A former E&P engineer explains what to check first, how to value the interest, and when keeping versus selling actually makes sense.",
+ "heroLead": "You inherited a paper interest in something you've probably never seen, ground you may never have visited, tied to a well you didn't know existed until the letter arrived.",
+ "intro": [
+  "Inheriting mineral rights in Montana usually starts with confusion, not clarity. Maybe a parent or grandparent mentioned minerals once, decades ago, and then it never came up again until a probate attorney handed you a stack of paperwork or a small royalty check showed up with no explanation. That's normal. A lot of Montana mineral ownership sat quiet for generations before anything got drilled nearby, and heirs often have no real sense of whether what they inherited is worth keeping, selling, or just filing away.",
+  "The first job isn't deciding whether to sell. It's figuring out what you actually own, whether it's producing, and whether the county and legal description even match what you think they do. Everything after that gets easier."
+ ],
+ "sections": [
+  {
+   "heading": "Start with the paperwork, not a guess",
+   "paragraphs": [
+    "If the estate went through probate, there should be a decree of distribution or similar document identifying the specific mineral interest and its legal description. If there's also a division order, either in the deceased's name or already transferred to you, that tells you the operator, the well, and your exact decimal interest. Without those documents, the county clerk and recorder's office where the minerals sit can usually help you trace the chain of title, though it can take some legwork if the original deed is old.",
+    "I ask every inheriting owner the same first questions: what county, is there a division order, and has a royalty check ever actually arrived. The answers usually tell me within a few minutes whether we're talking about a producing interest, a leased-but-undrilled interest, or something dormant that hasn't seen activity in years, and each of those gets valued differently."
+   ]
+  },
+  {
+   "heading": "Keeping the interest: what that actually means long-term",
+   "paragraphs": [
+    "Keeping inherited minerals means staying on the hook for tracking royalty statements, filing them at tax time, responding to lease renewal offers, and eventually passing the interest down to your own heirs, possibly fractionalizing it further in the process. For some owners, especially those with a meaningful producing interest and a connection to the family land, that ongoing role is worth it. For others, particularly heirs who live out of state or inherited a small piece of a larger family holding, it becomes one more thing to manage for income that may not be large enough to justify the hassle.",
+    "There's no universally right answer here. I'd rather walk you through what the interest is actually paying, and what it's realistically worth if sold, than tell you which choice is correct. That's your call to make with real numbers in front of you."
+   ]
+  },
+  {
+   "heading": "Selling: what changes and what doesn't",
+   "paragraphs": [
+    "Selling an inherited interest converts an uncertain, sometimes confusing asset into a single, known amount, useful if the estate needs to be settled among multiple heirs, if you'd rather not deal with an asset tied to land you've never visited, or if you simply want the certainty of cash over decades of unpredictable royalty checks. It doesn't erase the history of the land or your family's connection to it, that stays regardless of who owns the minerals going forward.",
+    "Depending on how the interest is producing and where it sits relative to current drilling activity, a fair offer typically gets built from recent royalty history if there is any, or from lease and permitting activity nearby if there isn't."
+   ]
+  },
+  {
+   "heading": "Getting an inherited interest reviewed",
+   "paragraphs": [
+    "Gather whatever probate documents, division orders, or old royalty statements you have, even partial or old ones help, and send them over. I'll tell you plainly what you're looking at, what it's likely worth, and whether I think it makes more sense to hold or sell given your specific situation, no pressure either direction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I inherited minerals but have never received a royalty check. Are they worth anything?",
+   "answer": "Possibly, and it depends on whether there's an active lease, nearby drilling, or historical production that stopped. Non-producing minerals aren't automatically worthless, but they get valued differently than a currently producing interest."
+  },
+  {
+   "question": "Do I need a lawyer to transfer the mineral interest into my name before selling?",
+   "answer": "If the estate hasn't been fully probated or the deed hasn't been updated to reflect your ownership, that typically needs to happen before a sale can close cleanly. I can point you toward what's usually needed, though the legal work itself should go through an attorney or the probate process in your county."
+  },
+  {
+   "question": "Multiple siblings inherited the same interest. Do we all have to agree to sell?",
+   "answer": "Each heir typically owns their own undivided share and can generally sell their own portion independently, though it's worth coordinating so everyone understands the process and nobody's caught off guard by a new co-owner."
+  },
+  {
+   "question": "How do I find out what county my inherited minerals are actually in?",
+   "answer": "The probate decree or original deed should list a legal description including county, township, and section. If you're missing that document, the county clerk's office where you believe the family land was located can often help trace it."
+  }
+ ],
+ "wordCount": 887,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsmontana-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

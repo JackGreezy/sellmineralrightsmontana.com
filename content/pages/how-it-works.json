@@ -1,0 +1,87 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How It Works | Selling Montana Mineral Rights",
+ "metaDescription": "The step-by-step process for selling Montana mineral rights, from first contact to closing, explained plainly by a retired E&P engineer.",
+ "heroLead": "Four steps, no surprises. Here's exactly what happens from the first message to money in your account.",
+ "intro": [
+  "I built this process the way I'd want it explained to a family member, not the way it usually gets marketed. There's no pressure at any stage, and each step is designed so you know what's coming next before it happens.",
+  "This is the same sequence whether you're sitting on a producing Bakken-edge interest or a non-producing tract inherited from a relative decades ago."
+ ],
+ "sections": [
+  {
+   "heading": "Step One: Send Your Information",
+   "paragraphs": [
+    "Share your county, what you know about your interest, and, if the tract is producing, a recent royalty statement. If you're missing documents or unsure what you actually own, say so, that's a normal starting point, not a problem. I'll review what you send and let you know within a business day or two what else, if anything, I need.",
+    "This step costs nothing and commits you to nothing. Plenty of owners use it just to understand their situation better before deciding whether to move forward at all."
+   ]
+  },
+  {
+   "heading": "Step Two: I Research The Tract",
+   "paragraphs": [
+    "Using your documents along with public county and state production and title records, I research your specific section, township, and range, checking recent drilling activity, decline behavior on nearby wells, and whether your tract involves split estate or federal minerals. This is the part of the process that takes real time and expertise, and it's why the number you eventually get reflects your actual tract rather than a generic statewide guess.",
+    "If anything in the title looks unclear, an heirship gap or a legal description mismatch, I'll flag it now rather than letting it surface later at closing."
+   ]
+  },
+  {
+   "heading": "Step Three: You Get A Written Offer",
+   "paragraphs": [
+    "You'll receive a written offer with an explanation of how the number was built, well beyond a bare figure with no context. Take whatever time you need to review it, share it with family or an attorney, or ask me questions directly. There's no deadline pressure, and if the offer doesn't work for you, that's a legitimate outcome with no hard feelings.",
+    "If you'd like, I'm glad to walk through the reasoning behind the number over the phone, since I'd rather you fully understand it than just accept it on faith."
+   ]
+  },
+  {
+   "heading": "Step Four: Closing",
+   "paragraphs": [
+    "If you accept, we move to a purchase and sale agreement and a mineral deed, typically handled through a title company or attorney who manages recording with the county clerk and recorder. Documents are sent by mail or courier for signature and notarization, so you don't need to travel regardless of where you live. Funds are released once the deed is signed, notarized, and confirmed for recording.",
+    "After closing, I handle notifying the operator's division order department so future royalty, if any remains outside what you sold, continues flowing to the right place without a gap."
+   ]
+  },
+  {
+   "heading": "What Makes This Process Different In Montana",
+   "paragraphs": [
+    "A lot of the general advice about selling mineral rights online is written with Texas or Oklahoma in mind, dense core plays with straightforward title and abundant nearby sales data. Montana's land patterns, homestead-era severances, split estate, federal surface, and multi-generation heirship, mean the research step in this process takes more care here than it might elsewhere. I've built the process around that reality rather than pretending Montana works the same as everywhere else.",
+    "That's also why step two, researching your tract, sometimes takes a bit longer here than a national buyer's marketing might suggest. I'd rather take that time than hand you a number built on assumptions that don't actually fit your land."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process take start to finish?",
+   "answer": "For a tract with clean, complete documentation, a few weeks from first contact to closing is typical. Unresolved heirship or missing paperwork can extend that timeline."
+  },
+  {
+   "question": "Do I have to accept the offer once I receive it?",
+   "answer": "No. You can decline, negotiate, or simply take more time to decide. There's no obligation at any point until you sign a purchase agreement."
+  },
+  {
+   "question": "Will I need to travel to close the sale?",
+   "answer": "No, documents are handled by mail or courier with notarization, so owners anywhere in the country can complete the process without traveling to Montana."
+  },
+  {
+   "question": "What happens to my royalty checks during the process?",
+   "answer": "You continue receiving royalty as normal up until the sale closes and is recorded. After that, the buyer becomes entitled to future production from the interest sold."
+  },
+  {
+   "question": "Why does the research step take longer for some Montana tracts?",
+   "answer": "Homestead-era severances, split estate situations, and multi-generation heirship are more common here than in denser shale plays, and sorting those out properly takes real time before a number can be trusted."
+  },
+  {
+   "question": "Can the process stop at any step if I change my mind?",
+   "answer": "Yes, at every step until you sign a purchase agreement, you're free to stop, take more time, or decide selling isn't right for you, with no obligation and no cost."
+  },
+  {
+   "question": "Does the same four-step process apply to non-producing minerals?",
+   "answer": "Yes, the sequence is identical, though step two often involves more research into nearby leasing activity rather than reviewing existing royalty history, since there isn't any yet."
+  }
+ ],
+ "wordCount": 884,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightsmontana-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

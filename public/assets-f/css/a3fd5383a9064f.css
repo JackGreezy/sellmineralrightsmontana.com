@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'ForFutureSans-Regular';
+    src:
+        url("/assets-f/fonts/32372fb58ddd16.woff2") format('woff2'),
+
+        ;
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{ font-family: 'ForFutureSans-Regular'; }
+.Main { }
+body {
+    /* font-weight: 600; */
+    margin: 0 auto;
+    color: #002532;
+    font-size: 12px;
+}
+.last {margin-left: 0;}
+/* .Last:has(.changePer.neutral_changePer)::before {
+    content: none;
+    position: relative;
+    top: 4px;
+    right: 0;
+    margin-right: 8px;
+}
+.Last:has(.changePer.negative_changePer)::before {
+    content: url(arrow_negative.svg);
+    position: relative;
+    top: 4px;
+    right: 0;
+    margin-right: 8px;
+}
+.Last:has(.changePer.positive_changePer)::before {
+    content: none;
+    position: relative;
+    top: 4px;
+    right: 0;
+    margin-right: 8px;
+} */
+
+.changePer {margin-left: 20px;}
+.changePer.neutral_changePer::before {
+    content: none;
+    position: relative;
+    top: 4px;
+    right: 0;
+    margin-right: 8px;
+}
+.changePer.negative_changePer::before {
+    content: url(arrow_negative.svg);
+    position: relative;
+    top: 4px;
+    right: 0;
+    margin-right: 8px;
+}
+.changePer.positive_changePer::before {
+    content: none;
+    position: relative;
+    top: 4px;
+    /* right: 6px; */
+    margin-right: 8px;
+}
+
+span.Last {
+    margin-left: 5px;
+}

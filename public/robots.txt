@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sellmineralrightsmontana.com/sitemap.xml
+# AI: https://sellmineralrightsmontana.com/llms.txt

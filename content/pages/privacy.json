@@ -1,0 +1,87 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | Sell Montana Mineral Rights",
+ "metaDescription": "How this site collects, uses, and protects information you share when requesting a Montana mineral rights offer, explained in plain language.",
+ "heroLead": "This page explains, in plain language, what happens to the information you share when you reach out about your Montana mineral interest.",
+ "intro": [
+  "Selling mineral rights involves sharing documents that touch on your ownership, your family's estate, and sometimes financial details, and I take that seriously. This policy explains what gets collected, how it's used, and how it's protected, without the dense legal language most privacy pages default to.",
+  "If anything here is unclear, you're welcome to ask directly before sharing any documents."
+ ],
+ "sections": [
+  {
+   "heading": "What Information Gets Collected",
+   "paragraphs": [
+    "When you contact this site, I typically receive your name, contact information, county location, and whatever details you choose to share about your mineral interest, deed copies, royalty statements, or division orders. Standard website analytics, such as which pages were visited and general browser information, may also be collected automatically through the site itself, the way most websites operate.",
+    "I don't collect more than what's needed to evaluate your interest and respond to your inquiry. If a document you send includes information unrelated to your mineral interest, that information isn't used for any purpose beyond what's necessary to process your request."
+   ]
+  },
+  {
+   "heading": "How Your Information Is Used",
+   "paragraphs": [
+    "Information you provide is used to evaluate your mineral interest, research relevant county and state production or title records, prepare a written offer, and, if you choose to proceed, complete a purchase transaction. It is not sold to third parties, and it is not used for marketing purposes unrelated to your own inquiry.",
+    "If a transaction moves forward, relevant documents may be shared with a title company or attorney handling closing, since that's a necessary part of completing a real estate and mineral transfer, but only to the extent needed for that purpose."
+   ]
+  },
+  {
+   "heading": "How Information Is Protected And Retained",
+   "paragraphs": [
+    "Documents and personal information are stored securely and access is limited to what's necessary to evaluate your interest and, if applicable, complete a transaction. Information from inquiries that don't proceed to a transaction is retained only as long as reasonably necessary and can be deleted at your request.",
+    "If you'd like your information removed from my records at any point, whether or not a transaction occurred, reach out through the contact page and I'll handle that request directly and promptly."
+   ]
+  },
+  {
+   "heading": "Your Choices And Rights",
+   "paragraphs": [
+    "You control what information you share, and you're never required to provide more than you're comfortable with to have an initial conversation. You can ask what information is on file, request corrections, or request deletion at any time. This site does not use your information for automated decision-making beyond what's directly involved in preparing a mineral interest offer.",
+    "For questions about tax or legal implications tied to your documents, talk to your CPA or attorney, since this policy covers how your information is handled here, not tax or legal advice about your specific situation."
+   ]
+  },
+  {
+   "heading": "Documents Shared With Family Members Or Co-Owners",
+   "paragraphs": [
+    "Mineral interests frequently sit with multiple heirs, siblings, or other co-owners, and I understand that discussions about a shared tract sometimes involve more than one person's information. If you're reaching out on behalf of an estate or a group of heirs, only share what you're authorized to share, and let me know upfront who else may need to be part of the conversation before any transaction moves forward.",
+    "Information about co-owners you provide is used the same way as your own, strictly to evaluate the interest and, if applicable, complete a transaction, and it's never shared beyond what closing actually requires."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Will my information be sold to other companies?",
+   "answer": "No. Information you share is used to evaluate your mineral interest and, if applicable, complete a transaction. It is not sold to third parties for marketing or other unrelated purposes."
+  },
+  {
+   "question": "Who sees my royalty statements or deed if I share them?",
+   "answer": "Only what's necessary to evaluate your interest and, if a sale proceeds, to complete the transaction with a title company or attorney handling closing."
+  },
+  {
+   "question": "Can I ask for my information to be deleted?",
+   "answer": "Yes, at any time, whether or not a transaction ever took place. Reach out through the contact page and the request will be handled directly."
+  },
+  {
+   "question": "Does this site use cookies or tracking technology?",
+   "answer": "Standard website analytics may be used to understand general site usage, consistent with common practice for most websites, but this is separate from the personal documents you choose to share directly."
+  },
+  {
+   "question": "What if I'm sharing information on behalf of other heirs?",
+   "answer": "Only share what you're authorized to share, and let me know who else is involved. Their information is handled under the same protections as your own throughout the process."
+  },
+  {
+   "question": "Does this policy apply if I contact you by phone instead of the website?",
+   "answer": "Yes, the same handling and protection standards apply regardless of whether initial contact happens through the website, by phone, or by mail."
+  },
+  {
+   "question": "Will you keep my documents after a sale closes?",
+   "answer": "Records related to a completed transaction are retained as long as reasonably necessary for legal and title purposes, consistent with standard practice for real property transactions."
+  }
+ ],
+ "wordCount": 861,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightsmontana-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Montana | Direct Buyer",
+ "metaDescription": "A retired E&P engineer buys mineral rights directly from Montana owners, with honest explanations of split estate, BLM surface, and Bakken-edge value.",
+ "heroLead": "I spent decades running production before I started buying mineral interests, and I still explain every offer the way I'd want it explained to my own family.",
+ "intro": [
+  "If you own mineral rights somewhere in Montana, chances are you're dealing with one of a few situations: a royalty check that's shrinking on the flank of the Bakken, an inherited fractional interest nobody in the family fully understands, or a tract that sits under BLM-administered surface with confusing federal rules attached to it. I've spent my career around exactly these situations, first as an operations engineer, now as a direct buyer, and this site exists to explain the honest version of how mineral sales actually work in this state.",
+  "I'm not a broker shopping your interest around to strangers. I evaluate your tract myself and make a direct offer, built from your actual documents rather than a generic per-acre number pulled off a map."
+ ],
+ "sections": [
+  {
+   "heading": "Selling Mineral Rights In Montana",
+   "paragraphs": [
+    "Montana's mineral ownership landscape is genuinely different from Texas or Oklahoma, where most of the national conversation about selling minerals gets written. A lot of Montana interests trace back to homestead-era patents, sit on the edge rather than the core of a major play, and have passed through two or three generations of family without ever being cleanly retitled. None of that makes a tract unsellable, but it does mean a serious buyer needs to actually understand Montana's specific title and land patterns instead of applying a formula built for a different state.",
+    "Whether your interest is producing steady royalty from a Bakken-edge well in Richland or Roosevelt County, sitting non-producing near older Cut Bank or Sweetgrass Arch fields, or tangled up in an heirship situation nobody's addressed, I can walk through it with you honestly, including telling you when selling might not be your best option."
+   ]
+  },
+  {
+   "heading": "Why Position On The Bakken Edge Matters",
+   "paragraphs": [
+    "Montana sits on the western flank of the Bakken and Three Forks trend, not the dense core that gets most of the drilling headlines. That distinction matters enormously for value: flank acreage sees fewer wells, more inconsistent drilling activity year to year, and generally different decline behavior than core Bakken acreage across the state line. I won't quote you a number as if your Montana tract were sitting in the middle of the busiest section of North Dakota, because it usually isn't, and pretending otherwise doesn't do either of us any favors.",
+    "That honesty cuts both ways. Some Montana flank tracts have real, underappreciated value because of steady, longer-life production that doesn't show up in flashy new-well headlines, and I'll tell you when that's the case too."
+   ]
+  },
+  {
+   "heading": "Split Estate And Federal Surface, Explained Plainly",
+   "paragraphs": [
+    "A meaningful share of Montana mineral owners hold split estate interests, where the minerals and the surface above them are owned by different parties, often because a federal homestead patent reserved the minerals to the government while granting surface to a settler, or the reverse happened through a later severance. If your minerals sit under BLM-administered land, leasing and development follow federal timelines and rules that don't apply to straightforward fee minerals, and that changes how a fair offer gets built.",
+    "I'll tell you plainly whether your situation is fee or federal, what that means for value and timeline, and I won't pretend the process is simpler than it is just to get a signature faster."
+   ]
+  },
+  {
+   "heading": "How An Offer Actually Gets Built",
+   "paragraphs": [
+    "Send me your county, your decimal interest if you know it, and recent royalty statements if the tract is producing. From there I pull county and state production records, look at comparable activity nearby, and put together a written offer built specifically from your documents, not a generic range. There's no obligation to accept, and no pressure to decide on the spot.",
+    "If you're not sure where to start, that's fine too. Reach out and I'll help you figure out what you actually own before we talk numbers at all."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you buy non-producing mineral rights in Montana?",
+   "answer": "Yes, though value depends heavily on whether the tract sits near active leasing or drilling. I'll give you an honest assessment rather than a number that assumes activity that isn't actually happening near your acreage."
+  },
+  {
+   "question": "How is this different from working with a broker?",
+   "answer": "A broker markets your interest to other buyers for a fee or commission. I evaluate the tract myself and make a direct offer, which usually means a faster, simpler process with one point of contact throughout."
+  },
+  {
+   "question": "What if I only own a small inherited fractional interest?",
+   "answer": "That's common in Montana given how many mineral tracts have passed through multiple generations. Small fractional interests are still sellable, and I'll walk you through what your specific decimal represents."
+  },
+  {
+   "question": "Is there any cost or obligation to get an offer?",
+   "answer": "No. Sharing your documents and getting a written offer costs you nothing, and you're under no obligation to accept it or move forward."
+  },
+  {
+   "question": "Do you handle inherited or heirship interests?",
+   "answer": "Yes, this is common in Montana, and I can walk you through what's needed, whether that's a probate decree or an affidavit of heirship, to get your title clear enough to close."
+  }
+ ],
+ "wordCount": 887,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-sellmineralrightsmontana-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained for Montana Owners",
+ "metaDescription": "A retired operations engineer breaks down what a division order actually is, how your decimal interest gets calculated, and common Montana title snags.",
+ "heroLead": "A division order lands in your mailbox with a well name and a decimal you've never seen before, and most owners just sign it without asking where that number came from.",
+ "intro": [
+  "I spent years on the operator side preparing these things before I ever bought a mineral interest myself, so I've seen a division order from both directions. It is not a lease and it does not transfer ownership of anything, but it is the document that tells the company how to split your royalty check, and getting it wrong costs owners real money.",
+  "Montana owners run into a specific set of complications here, mostly tied to heirship and old family land that was never formally divided on paper, so this is worth understanding before you sign anything."
+ ],
+ "sections": [
+  {
+   "heading": "What A Division Order Actually Does",
+   "paragraphs": [
+    "A division order is the operator's statement of who owns what percentage of production from a specific well, and it authorizes the company to pay you according to that decimal. It is built from the title work the operator or a title company did on the spacing unit, and it is meant to match your deed, not create new rights. Signing it does not waive any claim you have to your actual mineral ownership; it simply confirms how the operator will distribute the check.",
+    "That said, if the decimal is wrong and you sign without checking, correcting it later can take months, during which your check may be held in suspense or split incorrectly."
+   ]
+  },
+  {
+   "heading": "How Your Decimal Interest Gets Calculated",
+   "paragraphs": [
+    "Your decimal comes from your net mineral acres divided by the total acreage in the spacing unit, multiplied by the royalty rate in your lease. A Montana spacing unit for a horizontal Bakken well commonly runs 1,280 acres, so even a full mineral acre or two nets you a small decimal once it's spread across the whole unit and multiple owners. This is exactly why an inherited fractional interest, say a sixteenth passed down through two generations, can look like an oddly specific, small number on the page.",
+    "If your acreage figure on the division order doesn't match your deed, that mismatch is worth catching before you sign, not after the first check arrives short."
+   ]
+  },
+  {
+   "heading": "Common Snags On Montana Titles",
+   "paragraphs": [
+    "The most frequent problem I see on Montana division orders traces back to heirship: a mineral owner passed away decades ago, the interest was never run through probate or a clean chain of title, and the family has been splitting checks informally, or not receiving them at all because the operator has the interest held in suspense under the deceased owner's name. Operators generally will not issue a division order to heirs without a probate decree, affidavit of heirship, or similar document establishing the current legal owners.",
+    "Old homestead-era severed mineral tracts add another wrinkle, since some of these were divided among multiple heirs generations back with no modern survey, leaving legal descriptions that require careful reconciliation against current county records."
+   ]
+  },
+  {
+   "heading": "What Happens If You Don't Sign",
+   "paragraphs": [
+    "You are not legally required to sign a division order to retain your ownership, but most operators will hold your royalty in suspense until you do, meaning no checks go out. If something on the form looks off, the right move is to contact the operator's division order department directly, not only sign and hope, since a wrong decimal that goes uncorrected for years can be a genuine headache to unwind.",
+    "For owners weighing a sale, a current, signed division order with a confirmed decimal is one of the cleanest pieces of proof a buyer can use to move quickly on an offer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a division order the same thing as a lease?",
+   "answer": "No. A lease grants drilling rights to an operator; a division order simply tells the operator how to split the royalty check among current owners. They are separate documents with different purposes."
+  },
+  {
+   "question": "What happens if I never sign my division order?",
+   "answer": "The operator typically holds your royalty in suspense rather than paying you, until the paperwork is resolved. Your underlying ownership isn't affected, but you won't see checks in the meantime."
+  },
+  {
+   "question": "Why is my decimal interest such a small, specific number?",
+   "answer": "It reflects your net mineral acres divided across the full spacing unit, which in Montana often runs 1,280 acres for a horizontal well, then further divided if your interest passed through multiple generations of heirs."
+  },
+  {
+   "question": "My relative passed away and the well is still under their name. What now?",
+   "answer": "The operator generally needs a probate decree or affidavit of heirship establishing current ownership before it will issue a new division order and release held funds to the rightful heirs."
+  },
+  {
+   "question": "Should I sign a division order before or after selling my minerals?",
+   "answer": "A current, accurate division order actually helps a sale move faster, since it confirms your decimal interest with documentation a buyer can rely on rather than estimate."
+  },
+  {
+   "question": "Can an operator change my decimal interest without notifying me first?",
+   "answer": "They shouldn't. A new or corrected division order should be sent for your review whenever your interest changes, whether from a new well entering the unit or a title correction, and you're entitled to ask questions before signing."
+  }
+ ],
+ "wordCount": 891,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsmontana-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

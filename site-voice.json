@@ -1,0 +1,119 @@
+{
+  "_": "This voice belongs only to sellmineralrightsmontana.com. It is a Montana split-estate record desk: measured, practical, and built around township-range descriptions, deed reservations, fee minerals, federal and tribal boundaries, spacing records, paid decimals, and a closing ledger. It is never a reusable mineral-rights voice pack.",
+  "identity": {
+    "name": "Montana split-estate record desk",
+    "domain_lock": "sellmineralrightsmontana.com",
+    "reusable": false,
+    "cadence": "locate the tract, separate the estate, read the reservation, reconcile the pay line, test the basin case, write the terms, record the deed",
+    "lexicon": ["township-range card", "split-estate line", "county instrument", "reservation clause", "spacing record", "paid decimal", "Bakken edge", "closing ledger"],
+    "avoid": ["first-person singular narration", "instant value claims", "guaranteed development", "highest-offer promises", "generic nationwide buyer copy", "reusable voice pack"]
+  },
+  "scrub": [
+    ["\\bI['’]m\\b", "Sell Mineral Rights Montana is"],
+    ["\\bI['’]ve\\b", "Sell Mineral Rights Montana has"],
+    ["\\bI['’]ll\\b", "Sell Mineral Rights Montana will"],
+    ["\\bI['’]d\\b", "Sell Mineral Rights Montana would"],
+    ["\\bmyself\\b", "directly"],
+    ["\\bmy\\b", "the record desk's"],
+    ["\\bme\\b", "the Montana record desk"],
+    ["\\bI\\b", "Sell Mineral Rights Montana"]
+  ],
+  "question_scrub": [
+    ["\\bHow do Sell Mineral Rights Montana\\b", "How do you"],
+    ["\\bDoes Sell Mineral Rights Montana\\b", "Do you"],
+    ["\\bCan Sell Mineral Rights Montana\\b", "Can you"],
+    ["\\bWhat if Sell Mineral Rights Montana\\b", "What if you"],
+    ["\\bIs Sell Mineral Rights Montana\\b", "Are you"],
+    ["\\bWill Sell Mineral Rights Montana\\b", "Will you"],
+    ["\\bShould Sell Mineral Rights Montana\\b", "Should you"],
+    ["\\bthe record desk['’]s\\b", "your"],
+    ["\\bthe Montana record desk\\b", "you"],
+    ["\\bSell Mineral Rights Montana\\b", "you"]
+  ],
+  "heroes": [
+    ["Sell Mineral Rights in Montana", "A Montana mineral review that follows the township-range description through the deed reservation, split-estate boundary, paid decimal, production record, written offer, and county recording."],
+    ["Start With the Township-Range Card", "County, section, township, range, aliquot description, depths, and ownership fraction establish the tract before an offer is compared."],
+    ["Separate Fee, Federal, and Tribal Questions", "Montana ownership can cross different record systems. Each boundary and source belongs on its own line."],
+    ["Close From the Same Ledger", "The agreement, deed, retained interest, settlement record, and recording should describe the same property and fraction."]
+  ],
+  "copy": {
+    "home_eyebrow": "MONTANA SPLIT-ESTATE DESK",
+    "home_title": "Sell Mineral Rights in Montana",
+    "home_meta": "Sell Montana mineral rights with a record-based review of ownership, paid decimal, production, basin context, written terms, and recording.",
+    "home_intro_title": "A Montana Sale Starts With the Recorded Tract",
+    "home_intro": "A Montana sale becomes easier to judge when the legal description, reservation clause, ownership fraction, paid line, producing history, basin context, and written terms stay connected to one tract.",
+    "home_situations_title": "Name the Owner Situation",
+    "home_situations_body": "Inheritance, shared title, an unsolicited offer, old probate work, or a producing statement can change which record needs attention first.",
+    "home_interests_title": "Separate the Rights Being Sold",
+    "home_interests_body": "Mineral rights, royalties, overrides, working interests, and split estates carry different rights, burdens, and documents.",
+    "home_basins_title": "Use Basin Context After the Tract Is Known",
+    "home_basins_body": "Williston and Powder River context matters after the county, formation, unit, operator, lease, and ownership fraction are identified.",
+    "home_resources_title": "Build the Record Packet",
+    "home_resources_body": "Deeds, leases, division orders, royalty statements, spacing records, and written offers answer different parts of the same sale decision.",
+    "home_locations_title": "Montana Coverage by County Instrument",
+    "home_locations_body": "The review follows the recorded tract through Billings and mineral-producing counties across Montana.",
+    "hero_cta": "Request a Montana Review",
+    "index_tagline": "Use the {title} record to connect the owner question to the township-range description, reservation clause, paid decimal, production evidence, and written next step.",
+    "detail_cta_title": "Put This Tract on the Montana Closing Ledger",
+    "detail_cta_body": "Share the county, owner name, interest type, producing status, and records already available. Do not submit bank credentials, government identification numbers, or original documents.",
+    "detail_followup": "Carry this topic back to the same legal description, reservation language, paid decimal, spacing record, production evidence, and written terms.",
+    "faq_heading": "Questions at the Split-Estate Desk",
+    "about_title": "A Montana Mineral Buyer Built Around the Recorded Tract",
+    "about_story_title": "The Township-Range Description Holds the File Together",
+    "about_story_body": "County, section, township, range, lot or aliquot description, depths, ownership fraction, reservations, and signing authority define what is actually under review.",
+    "about_scope_title": "Every Estate Boundary Gets Its Own Source",
+    "about_scope_body": "Fee, federal, tribal, state, surface, mineral, and royalty interests should not be collapsed into one assumption. Each question follows the record system responsible for it.",
+    "about_terms_title": "The Paid Decimal Must Reconcile",
+    "about_terms_body": "Division orders, lease royalty, unit participation, product volumes, deductions, taxes, suspense, and adjustments should explain the amount actually paid.",
+    "about_roles_title": "Basin Context Does Not Replace Title",
+    "about_roles_body": "The Williston or Powder River label can frame geology and activity, but it does not prove the owner fraction, development timing, or future value.",
+    "about_close_title": "The Owner Copy Matches the County Recording",
+    "about_close_body": "The final ledger keeps the agreement, deed, exact description, retained interest, title correspondence, settlement record, funding confirmation, and recording information together.",
+    "contact_title": "Request a Montana Mineral Review",
+    "contact_intro": "Share the Montana county, owner name, interest type, producing status, and the decision that needs a clearer answer. The review can start with the records already available.",
+    "contact_form_title": "Start With the Record Packet in Hand",
+    "contact_form_body": "A deed, royalty statement, division order, lease, probate paper, or legal description can identify the next useful check.",
+    "footer_tagline": "Tract located. Estate separated. Reservation read. Decimal reconciled. Terms written. Deed recorded.",
+    "privacy": "Sell Mineral Rights Montana uses submitted contact, ownership, property, production, title, lease, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold.",
+    "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, or transfers.",
+    "nf_title": "That Montana Record Is Not in This Ledger",
+    "nf_body": "Return to owner situations, interest types, basin records, guides, Montana areas, or the review form.",
+    "nf_cta": "Return to the Montana Record Desk"
+  },
+  "about_blocks": [
+    ["Locate the Tract", "County, section, township, range, lot or aliquot description, depths, formations, and ownership fraction establish the property under review."],
+    ["Read the Reservation", "The deed chain should show whether the owner holds minerals, royalty only, an override, working interest, a partial depth, or a fraction reserved from the surface."],
+    ["Separate the Estate", "Fee, federal, tribal, state, surface, mineral, and royalty questions stay on separate evidence lines until the responsible record supports each answer."],
+    ["Reconcile the Pay Line", "Division orders, lease royalty, unit participation, products, deductions, taxes, adjustments, suspense, and recent statements should explain the paid decimal."],
+    ["Record the Same Conveyance", "The offer, deed, retained-interest clause, title work, settlement record, funding confirmation, and county recording should describe the same property and fraction."]
+  ],
+  "slug_ui": {
+    "faq_kicker": "MONTANA RECORD CHECK",
+    "faq_heading": "Resolve the Record Question Before the Deed Is Written",
+    "faq_intro": "Each answer points back to a county instrument, legal description, paid line, spacing record, production record, or written term that can be checked.",
+    "related_kicker": "ADJOINING RECORD CARDS",
+    "related_heading": "Carry the Same Tract Into the Next Review",
+    "related_intro": "Keep the legal description, ownership fraction, paid decimal, and open record question from {item} visible while reviewing these {taxonomy} records.",
+    "related_action": "Open the Complete Montana Record Index"
+  },
+  "taxonomy_enrichment": {
+    "investing": [
+      ["Read {name} Through the Paid Record", "A Montana mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and any title assumption still open."],
+      ["Keep the Basin Case Separate", "Nearby wells, spacing, permits, operator activity, and a basin label can add context without proving future development. Base, downside, and upside cases need the same ownership fraction and paid decimal."],
+      ["Stress One Cash Assumption at a Time", "Production decline, prices, downtime, deductions, taxes, curtailment, and operator concentration should be tested separately so a title assumption is not hidden inside an economic forecast."],
+      ["Preserve the Underwriting Trail", "Every material number should keep its source and date. The record should state the holding period, liquidity limits, title expense, tax questions, and the event that would invalidate the original case."]
+    ],
+    "exchange-1031": [
+      ["Put {name} on the Exchange Calendar", "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, property, expected proceeds, closing date, deadlines, and proposed replacement property."],
+      ["Keep Record Work and Federal Timing Distinct", "Deed work, probate, trust authority, reservations, corrective instruments, and payor records can move on a different schedule from exchange deadlines. Each open item needs a responsible professional and written status."],
+      ["Match the Property Scope", "The sale agreement, deed, legal description, retained-interest language, settlement statement, intermediary instructions, and replacement identification should not quietly change acreage, depth, county, or ownership fraction."],
+      ["Keep a Complete Owner Copy", "The completed file should retain the agreement, recorded deed, exact description, settlement statement, intermediary instructions, identification notices, replacement documents, title correspondence, and recording information."]
+    ]
+  },
+  "form_fields": [
+    ["name", "text", "Name", true],
+    ["email", "email", "Email", true],
+    ["phone", "tel", "Phone", true],
+    ["message", "textarea", "Message", true]
+  ]
+}

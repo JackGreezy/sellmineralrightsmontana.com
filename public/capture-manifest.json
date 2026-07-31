@@ -1,0 +1,32 @@
+{
+  "src": "https://space.indragroup.com/en",
+  "host": "space.indragroup.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://space.indragroup.com/en",
+      "bytes": 402964
+    },
+    {
+      "label": "about",
+      "url": "https://space.indragroup.com/en/who-we-are-2",
+      "bytes": 385608
+    },
+    {
+      "label": "contact",
+      "url": "https://space.indragroup.com/en/contact",
+      "bytes": 366296
+    },
+    {
+      "label": "index",
+      "url": "https://space.indragroup.com/en/segments",
+      "bytes": 347043
+    },
+    {
+      "label": "slug",
+      "url": "https://space.indragroup.com/en/segments/earth-observation",
+      "bytes": 378149
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

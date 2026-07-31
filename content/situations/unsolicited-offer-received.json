@@ -1,0 +1,74 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "status": "written",
+ "metaTitle": "Got an Unsolicited Mineral Rights Offer in Montana? Read First",
+ "metaDescription": "A mailer showed up quoting a price for your Montana minerals. A retired operator explains how to check whether it's fair before signing anything back.",
+ "heroLead": "A letter shows up quoting a number for minerals you may have forgotten you owned, and the pressure to just sign and mail it back is real. Slow down for a week; it costs you nothing.",
+ "intro": [
+  "Unsolicited mineral offers are a real part of this business, and not all of them are bad faith. Some come from legitimate buyers who pull county records, see production or lease activity, and mail out standard offers to owners of record. Others are built to look official while quoting well under what the interest is worth, betting that most owners won't check. From the outside, both look almost identical: a letter with a dollar figure, a deed for you to sign, and often a deadline creating urgency.",
+  "The single best thing you can do with any unsolicited offer is treat the number as a starting point for questions, not a final answer. A legitimate offer holds up to scrutiny. One that doesn't want to be checked usually isn't a legitimate offer."
+ ],
+ "sections": [
+  {
+   "heading": "What to check before responding",
+   "paragraphs": [
+    "First, find out how the sender got your name and address, most legitimate buyers pull that from county deed records, which is normal and not itself a red flag. Second, ask what they're basing the number on, your actual decimal interest, recent production, or a flat estimate applied to everyone in the mailing. If they can't or won't explain the basis for the number, that tells you something. Third, check whether there's a real Montana business address or registered agent behind the letter, beyond a bare PO box.",
+    "It's also worth pulling your own division order or recent royalty statements if you have them, and comparing the offer against what you're actually being paid. A number that ignores your real production history, or seems disconnected from what your check stubs show, is worth questioning before you sign anything back."
+   ]
+  },
+  {
+   "heading": "Why urgency in the letter is the biggest tell",
+   "paragraphs": [
+    "Language pushing you to respond within a short window, or implying the offer expires imminently, is one of the more reliable signs of a lowball approach. Mineral values don't typically shift so fast that a real offer needs to expire in a week. If a buyer is confident in their number, giving you time to verify it and even get a second opinion shouldn't threaten the deal.",
+    "I'd rather you take that time, even if it means comparing against my own quote, than sign something under pressure you haven't had a chance to check."
+   ]
+  },
+  {
+   "heading": "Getting a second, verified number",
+   "paragraphs": [
+    "Sending me the same documentation, your division order, recent statements, or the deed identifying the interest, gets you a comparison number built from your actual production and county activity rather than a mailing-list formula. If the original offer holds up against that comparison, that's useful information too. If it doesn't, you'll know before you've signed anything.",
+    "This doesn't cost you anything and doesn't obligate you to sell to anyone. It just gives you a second data point before making a decision that's hard to undo once a deed is recorded."
+   ]
+  },
+  {
+   "heading": "If you already signed something",
+   "paragraphs": [
+    "If you've already signed and mailed back an unsolicited offer, check the closing timeline before assuming it's final, some transactions include a short window before funds transfer or the deed records where questions can still be raised, though this varies and isn't guaranteed. If you're unsure where things stand, an attorney can review the specific document faster than guessing on your own."
+   ]
+  },
+  {
+   "heading": "What a legitimate buyer does differently",
+   "paragraphs": [
+    "A buyer working in good faith will typically tell you the operator and well their offer is based on, explain roughly how they arrived at the number, and give you a reasonable window to review the paperwork before signing. They will also answer follow-up questions directly rather than deflecting or repeating the same figure. None of that costs them anything if the offer is genuinely fair, which is exactly why its absence is worth noticing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How did this company get my name and address for my Montana minerals?",
+   "answer": "Almost always from county deed or division order records, which are public. That alone isn't a sign of anything shady, most legitimate buyers work the same way."
+  },
+  {
+   "question": "Is it normal for the offer letter to have a deadline?",
+   "answer": "It's common but worth treating skeptically. A short deadline pressuring quick action is one of the more reliable signs a number may be lower than what your interest could actually get with time to compare."
+  },
+  {
+   "question": "Can I get a comparison quote without committing to anything?",
+   "answer": "Yes. Sending your documentation for a review doesn't obligate you to sell, it just gives you a second, documented number to weigh against whatever mailer offer you received."
+  },
+  {
+   "question": "I already signed and sent back an offer. Can I undo it?",
+   "answer": "It depends on where the transaction stands and the specific terms of what you signed. Check whether funds have transferred or the deed has been recorded, and if you're unsure, an attorney can review the document and tell you your options quickly."
+  }
+ ],
+ "wordCount": 870,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightsmontana-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

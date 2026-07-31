@@ -1,0 +1,72 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "status": "written",
+ "metaTitle": "Selling Mineral Rights Through a Montana Estate or Probate",
+ "metaDescription": "Executor handling Montana mineral rights in an estate? A retired operator explains the probate sequence, valuation for the estate, and selling to multiple heirs cleanly.",
+ "heroLead": "An executor's job with mineral rights isn't to guess at a number, it's to get one that holds up when the whole estate gets settled.",
+ "intro": [
+  "If you're serving as executor or personal representative for a Montana estate that includes mineral rights, you're probably dealing with an asset none of the other estate property prepared you for. A house has comparable sales. A brokerage account has a statement balance. Mineral rights have neither, unless there's a current division order and royalty history, and even then the fair value for estate purposes takes some work to establish.",
+  "The good news is the process is well-trodden. Estates with oil and gas interests go through Montana probate courts regularly, especially in the eastern and central counties where mineral ownership is common, and there's a standard sequence for identifying, valuing, and eventually distributing or selling those interests."
+ ],
+ "sections": [
+  {
+   "heading": "Identifying what the estate actually owns",
+   "paragraphs": [
+    "Start with the deceased's records, deeds, division orders, old lease agreements, tax statements referencing oil and gas income. If those aren't complete, the county clerk and recorder's office in the county where the minerals sit can help trace ownership by name search. It's not unusual to find that an estate includes minerals nobody in the family fully remembered, especially if they've been non-producing for years or the deceased inherited them decades ago from their own parents.",
+    "Once identified, each interest needs its legal description, county, township, section, confirmed, along with whatever production or lease status currently applies. This becomes the basis for both the estate inventory and any eventual sale."
+   ]
+  },
+  {
+   "heading": "Valuing minerals for the estate inventory",
+   "paragraphs": [
+    "Montana probate typically requires a fair value for estate assets as of the date of death, which for mineral interests means pricing based on production history, lease status, and nearby activity at that point in time, not necessarily today. This is one area where getting an actual documented offer, even if the estate ultimately doesn't sell, gives the executor a defensible number for the inventory rather than a rough guess.",
+    "If the interest is producing, recent royalty statements around the date of death are the strongest evidence. If it's non-producing, the valuation leans more on lease status and drilling activity in the surrounding area at that time, the same factors I'd use to quote any non-producing tract."
+   ]
+  },
+  {
+   "heading": "Selling through the estate versus distributing to heirs",
+   "paragraphs": [
+    "Depending on the will's instructions and what the heirs want, minerals can either be sold by the estate itself with proceeds distributed among beneficiaries, or the interest can be distributed in kind to heirs who then decide individually whether to keep or sell. Selling through the estate is often simpler when there are multiple heirs who'd rather not become co-owners of a fractional mineral interest together, since it resolves the asset into cash before distribution rather than after.",
+    "If the will specifically directs the minerals to one heir, or if that heir wants to keep the family land connection, distribution in kind followed by an individual decision later makes more sense. Either path is common, and which one applies usually comes down to what's cleanest for that particular estate."
+   ]
+  },
+  {
+   "heading": "Working with an executor on a review",
+   "paragraphs": [
+    "Send whatever estate documentation identifies the minerals, along with any division orders or lease paperwork available. I'll give you a documented, honest valuation you can use for the estate inventory, and if the estate decides to sell, I can walk through that process directly with you as executor, coordinated with whatever your probate attorney needs for the filing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need court approval to sell mineral rights out of an estate?",
+   "answer": "It depends on the specific probate proceeding and what authority the will or the court has granted the personal representative. In many straightforward Montana probates the executor can sell estate property without a separate court order, but your probate attorney can confirm what applies to this specific estate."
+  },
+  {
+   "question": "What if we can't find a division order or any record of the minerals producing?",
+   "answer": "That's common with older or dormant interests. We can still establish the legal description from deed or tax records and value the interest based on nearby activity, even without a production history."
+  },
+  {
+   "question": "Can I get a valuation before the estate is fully through probate?",
+   "answer": "Yes, a documented offer can be requested at any point in the process and used as supporting evidence for the estate inventory, whether or not the sale happens before probate closes."
+  },
+  {
+   "question": "Multiple heirs are set to inherit the same mineral interest. Should the estate sell it first?",
+   "answer": "Many executors find it simpler to sell through the estate and distribute cash proceeds, avoiding multiple heirs becoming co-owners of a small fractional interest. But if an heir wants to keep the family minerals, distributing in kind is equally valid."
+  },
+  {
+   "question": "What if the estate includes minerals in more than one Montana county?",
+   "answer": "Each county has its own clerk and recorder, so title work and any recorded deed of distribution typically need to be handled separately for each legal description. It adds some coordination but is not unusual for larger family estates with land accumulated over multiple generations."
+  }
+ ],
+ "wordCount": 881,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightsmontana-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

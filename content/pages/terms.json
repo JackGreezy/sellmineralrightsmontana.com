@@ -1,0 +1,79 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Sell Montana Mineral Rights",
+ "metaDescription": "The terms governing use of this site and any offers made on Montana mineral rights, including our role as a buyer, not a broker or licensed advisor.",
+ "heroLead": "These terms explain what this site is, what it isn't, and what using it or requesting an offer actually means for you.",
+ "intro": [
+  "This page lays out the practical terms behind this site and the offer process, in plain language rather than dense legal boilerplate. It's worth reading before you send documents or accept an offer, so you know exactly what role I'm playing and what any offer I make actually represents.",
+  "If anything here conflicts with a specific written purchase agreement you eventually sign, the purchase agreement governs that specific transaction."
+ ],
+ "sections": [
+  {
+   "heading": "What This Site Is",
+   "paragraphs": [
+    "This site is operated by a direct buyer of Montana mineral rights. I am not a broker representing you to other buyers, and I am not acting as your agent in any transaction. When I make an offer, I am proposing to purchase your interest directly, on my own behalf, and any resulting transaction is between you and me as buyer and seller, governed by a separate written purchase agreement.",
+    "Nothing on this site constitutes a binding offer until presented to you in writing, specific to your tract, following review of your actual documents."
+   ]
+  },
+  {
+   "heading": "No Legal, Tax, Or Appraisal Advice",
+   "paragraphs": [
+    "I am not a licensed attorney, CPA, or certified appraiser, and nothing on this site or in any conversation with me should be treated as legal, tax, or formal appraisal advice. Explanations of division orders, decline curves, deeds, or tax basics are provided for general understanding based on my operations background, not as a substitute for professional advice specific to your situation.",
+    "Before signing any purchase agreement or making decisions with tax implications, talk to your CPA or attorney, particularly for anything involving heirship, unresolved title, or split estate complications specific to your tract."
+   ]
+  },
+  {
+   "heading": "Accuracy Of Offers And Information",
+   "paragraphs": [
+    "Offers are built from documents and information you provide, along with publicly available county and state production and title records. If information you provide turns out to be inaccurate or incomplete, whether about your ownership, decimal interest, or the condition of title, any resulting offer may need to be revised or withdrawn. Similarly, if my research uncovers something inconsistent with what was represented, I'll raise that directly with you before proceeding.",
+    "Nothing here promises a specific price, return, or outcome. Value discussions on this site reflect general ranges tied to current market activity and are not guarantees of what any specific tract will ultimately sell for."
+   ]
+  },
+  {
+   "heading": "Use Of This Website",
+   "paragraphs": [
+    "Content on this site, including explanations of Montana mineral rights processes, is provided for general informational purposes and reflects general practices, which can vary by county, situation, and change over time. You're free to use this information to better understand your own situation, but reliance on it for a specific decision without independent verification is at your own discretion.",
+    "By contacting this site or submitting information, you're confirming that the information you provide is accurate to the best of your knowledge and that you have the authority to discuss or transact regarding the mineral interest in question."
+   ]
+  },
+  {
+   "heading": "Limitation Of Liability",
+   "paragraphs": [
+    "To the extent permitted by law, this site and its operator are not liable for decisions made based on general information provided here, including value ranges, process explanations, or descriptions of how Montana title and split estate situations typically work. Any actual transaction is governed exclusively by the terms of a specific, signed purchase agreement negotiated directly between you and the buyer, not by anything on this website.",
+    "If you have questions about how any of this applies to your specific circumstances, particularly involving heirship, unresolved title, or tax exposure, that's exactly the kind of question your own attorney or CPA is positioned to answer, and reaching out to one before signing anything is always a reasonable step."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you acting as my broker or agent?",
+   "answer": "No. I purchase mineral interests directly on my own behalf. I am not representing you as a broker or agent in any transaction with a third party."
+  },
+  {
+   "question": "Is anything on this site a binding offer?",
+   "answer": "No. General information and value discussions on this site are educational. A binding offer is only made in writing, specific to your tract, after reviewing your actual documents."
+  },
+  {
+   "question": "Can I get legal or tax advice directly from you?",
+   "answer": "No, I'm not a licensed attorney or CPA. I can explain general mechanics based on my operations background, but you should consult your own attorney or tax advisor for advice specific to your situation."
+  },
+  {
+   "question": "What happens if information I provide turns out to be inaccurate?",
+   "answer": "Any offer may need to be revised or withdrawn if the underlying information about ownership, interest type, or title turns out to be different from what was represented."
+  },
+  {
+   "question": "Is this site liable for value ranges or general information turning out to be wrong for my situation?",
+   "answer": "No, general information here is educational. Any binding transaction is governed by its own signed purchase agreement, and specific questions should go to your own attorney or CPA."
+  }
+ ],
+ "wordCount": 857,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightsmontana-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

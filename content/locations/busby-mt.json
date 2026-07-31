@@ -1,0 +1,58 @@
+{
+ "slug": "busby-mt",
+ "title": "Sell Mineral Rights in Busby, MT",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Big Horn",
+ "group": "Powder River MT",
+ "primaryKeyword": "sell mineral rights busby mt",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Busby, MT",
+ "metaDescription": "Busby sits near the Crow and Northern Cheyenne reservation boundary in Big Horn County. A retired engineer explains why title checks matter most here.",
+ "heroLead": "Busby sits close enough to two reservation boundaries that I never assume anything about ownership status here without a title check first.",
+ "intro": [
+  "Busby sits in Big Horn County near where Crow Reservation land meets the neighboring Northern Cheyenne Reservation, a boundary area where allotment and trust history can get genuinely complicated. I've learned not to guess at ownership status for tracts in this specific location, since the same road can have fee land on one side and tribal trust land on the other."
+ ],
+ "sections": [
+  {
+   "heading": "A Boundary Area Worth Extra Diligence",
+   "paragraphs": [
+    "Whether your family's interest near Busby is Crow trust land, Northern Cheyenne trust land, or fee land patented out of either allotment system decades ago changes both the sale process and which agency's records you'd need to pull. I recommend starting with a courthouse title search in Hardin, and if that doesn't fully resolve it, following up with the relevant tribal BIA agency based on your family's specific history."
+   ]
+  },
+  {
+   "heading": "Limited Development History",
+   "paragraphs": [
+    "This part of the Powder River Basin's western fringe has seen some legacy coalbed methane activity, generally more concentrated toward the Rosebud County line than directly around Busby itself. Most interests here, if they've ever produced at all, are modest and in long-term decline rather than sitting under any current drilling program."
+   ]
+  },
+  {
+   "heading": "How I'd Approach an Offer Near Busby",
+   "paragraphs": [
+    "Title status comes first, always. Once that's clear, I look at any historical production nearby and give an honest range that reflects the quieter development picture in this part of the county, rather than benchmark against the more active CBM areas elsewhere in the basin."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is land near Busby Crow trust land, Northern Cheyenne trust land, or fee land?",
+   "answer": "It genuinely varies by exact parcel, given the proximity to both reservation boundaries. A title search at the Big Horn County Clerk and Recorder in Hardin is the starting point, followed by the relevant BIA agency if trust history is confirmed."
+  },
+  {
+   "question": "Is there current drilling activity near Busby?",
+   "answer": "Limited. Legacy coalbed methane development in this part of the basin has been more concentrated toward the Rosebud County line than directly around Busby, and most production nearby is mature and declining."
+  },
+  {
+   "question": "Why does it matter which tribe's trust land my interest falls under?",
+   "answer": "Each tribe's BIA agency handles its own trust land approvals separately, so knowing whether you're dealing with the Crow Agency or a Northern Cheyenne office determines who you actually need to work with to complete a sale."
+  }
+ ],
+ "status": "written",
+ "wordCount": 438,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-busby-mt.jpg",
+  "alt": "Sell Mineral Rights in Busby, MT location",
+  "width": 1600,
+  "height": 1000
+ }
+}

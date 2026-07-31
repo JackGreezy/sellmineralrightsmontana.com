@@ -1,0 +1,71 @@
+{
+ "slug": "big-horn-county",
+ "title": "Sell Mineral Rights in Big Horn County, MT",
+ "type": "county",
+ "group": "Powder River MT",
+ "primaryKeyword": "big horn county mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Sell Mineral Rights in Big Horn County, MT",
+ "metaDescription": "Mineral owner in Big Horn County, MT near the Crow Reservation? A former engineer explains trust-land title, BIA approval steps, and how offers get built here.",
+ "heroLead": "Big Horn County is the one place in this state where I tell owners to expect their sale to run through two agencies instead of one, because most of the county sits inside the Crow Reservation.",
+ "intro": [
+  "I spent enough years running drilling and workover programs on the Powder River Basin's western edge to know Big Horn County by its paperwork as much as its geology. Hardin is the county seat, the Bighorn River cuts the county roughly in half, and the Crow Indian Reservation covers most of the ground from Crow Agency and Lodge Grass down through Fort Smith and Wyola. That reservation boundary is not a footnote here. It is the single biggest factor in how a mineral sale actually closes.",
+  "Where I'd usually tell a Montana seller the surface is BLM and the minerals were severed off an old homestead patent, Big Horn County flips that script for a large share of owners. A lot of mineral interest in this county traces back to individual Indian allotments made under the Crow Allotment Act, which means the Bureau of Indian Affairs, not only the county clerk, has a hand in who can buy, sell, or lease. If your family's interest came down through an allotment, that changes the timeline and the paperwork, and I'd rather tell you that up front than have you find out three weeks into a deal."
+ ],
+ "sections": [
+  {
+   "heading": "Trust Land, Fee Land, and Why It Matters to Your Sale",
+   "paragraphs": [
+    "Big Horn County's mineral ownership splits into two broad buckets. Fee minerals are owned outright and transfer the way minerals do anywhere else in Montana, by deed, through the clerk and recorder in Hardin. Trust minerals are held in trust for an individual Crow tribal member or the tribe itself, with the BIA holding legal title and the allottee or their heirs holding the beneficial interest. You cannot sell a trust mineral interest with a simple warranty deed. It requires BIA approval of the transaction, often a fair-market-value determination on their end, and a longer clock than a fee sale.",
+    "I've seen owners assume their interest is trust because a grandparent was enrolled Crow, when in fact the interest was patented in fee decades ago and sells like any other Montana mineral estate. I've also seen the reverse, where a family thought they owned fee minerals free and clear and the BIA layer surfaced only when a landman pulled the chain of title. The honest first step is a title check at the courthouse and, if there's any Crow allotment history in the family, a call to the BIA Crow Agency office to confirm whether your specific interest is still trust or was fee-patented out."
+   ]
+  },
+  {
+   "heading": "What's Producing Around Hardin, Crow Agency, and Fort Smith",
+   "paragraphs": [
+    "Big Horn County sits on the far western edge of the Powder River Basin, which is coalbed methane country more than it's a deep shale play. The CBM boom of the late 1990s and 2000s put wells into the Fort Union coals across parts of the county, particularly toward the Rosebud County line, and some of that production is still on the books, aged and shallow-decline. There's older conventional production too, tied to structures along the basin's flank, but nothing here compares to the drilling intensity of the Bakken counties on the state's eastern edge.",
+    "Fort Smith and the Bighorn Canyon National Recreation Area sit at the county's south end near Yellowtail Dam, mostly federal and tribal recreation land with limited oil and gas activity. Most of the interest I get asked to evaluate here is small, fractional, and inherited, split among heirs over two or three generations from an original allotment or homestead patent, producing a modest royalty check off an old well rather than sitting under active drilling."
+   ]
+  },
+  {
+   "heading": "Building a Fair Offer on Big Horn County Minerals",
+   "paragraphs": [
+    "I build an offer here off the same fundamentals I'd use anywhere: what's the well's current decline curve, is there any active permitting nearby, what does your net revenue interest actually calculate to once I've confirmed the recorded chain of title, and whether the tract sits near the CBM-productive belt or out in the quieter reservation interior. Trust status doesn't change the underlying value of the minerals, but it does change the process, the timeline, and sometimes the buyer pool, since not every buyer wants to work through BIA approval.",
+    "I'm candid with owners that anyone quoting you a flat per-acre number sight unseen, before pulling your title or confirming trust status, is guessing. A real number depends on nearby well performance, whether your tract is fee or trust, and current royalty checks if you're already receiving them. I'll tell you plainly if I think your interest is worth more held than sold, particularly if there's active leasing interest nearby."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my Big Horn County minerals are trust or fee?",
+   "answer": "Start at the Big Horn County Clerk and Recorder in Hardin for a title search on the recorded chain. If there's Crow allotment history in your family, the BIA Crow Agency realty office can confirm whether your specific interest is still held in trust or was patented out to fee status at some point."
+  },
+  {
+   "question": "Can trust minerals in the Crow Reservation be sold to a private buyer?",
+   "answer": "Often yes, but it requires BIA approval of the sale, and in many cases a valuation the BIA signs off on before the transaction can close. It's a longer process than a straight fee deed transfer, and not every prospective buyer is set up to work through it."
+  },
+  {
+   "question": "Is there active oil and gas drilling in Big Horn County right now?",
+   "answer": "The county sits on the quieter western flank of the Powder River Basin. There's legacy coalbed methane production and some older conventional wells, but nothing at the drilling pace you'd see in the Bakken counties farther east. Most owners here hold modest, aged, inherited interests rather than sitting under fresh permits."
+  },
+  {
+   "question": "What does a fair offer for Big Horn County mineral rights depend on?",
+   "answer": "Your recorded net revenue interest, whether the tract is fee or BIA trust, current or historical well performance nearby, and any active leasing activity in your section. I'd rather walk through your specific title and royalty history than quote a number before I've seen either."
+  },
+  {
+   "question": "Does the county clerk's office in Hardin handle trust mineral transfers?",
+   "answer": "The clerk and recorder handles fee-title recording, but trust interests are administered separately through the BIA. A courthouse title search will usually show whether the county has any record of the interest at all, which itself is a clue as to whether it's held in trust."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1137,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-big-horn-county-mt.jpg",
+  "alt": "Sell Mineral Rights in Big Horn County, MT location",
+  "width": 1600,
+  "height": 1000
+ }
+}

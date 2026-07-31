@@ -1,0 +1,67 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Selling a Montana Royalty Interest: What Owners Should Know",
+ "metaDescription": "Own a royalty interest in a producing Montana well? A retired operator breaks down how royalty checks are calculated, what deductions mean, and how a sale is valued.",
+ "heroLead": "The royalty check tells you what you were paid last month. It doesn't tell you what the interest is actually worth if you decided to sell it.",
+ "intro": [
+  "A royalty interest is your right to a share of the value of oil or gas produced from a well, free of the costs of drilling and operating it, in exchange for having leased your minerals to the operator. It's the most common way Montana mineral owners actually experience oil and gas income, a monthly or periodic check calculated against your decimal interest and the lease's royalty fraction, typically somewhere in the range operators and mineral owners negotiated when the lease was signed.",
+  "Whether you hold the full mineral estate with a royalty flowing from your own lease, or a royalty carved out separately as an NPRI or ORRI, understanding how that check is actually calculated is the foundation for knowing whether a sale offer is fair."
+ ],
+ "sections": [
+  {
+   "heading": "How your royalty check actually gets calculated",
+   "paragraphs": [
+    "Start with the well's gross production and the price the operator realizes for the oil or gas sold. Multiply that by your decimal interest, your specific ownership fraction within the well's spacing unit, and then by the royalty rate specified in your lease. What often confuses owners is the deduction line, many leases allow the operator to deduct post-production costs, transportation, processing, gathering, before calculating your royalty, which means your net check is smaller than a simple gross calculation would suggest. Reading your own lease's deduction language matters here, since not all leases handle this the same way.",
+    "Your division order should show your exact decimal interest, and your monthly or quarterly royalty statement should itemize gross production, price received, deductions if any, and your net payment. If those numbers look inconsistent month to month, that's usually just normal production decline and price variation, not necessarily an error, though it's always worth checking if something looks clearly wrong."
+   ]
+  },
+  {
+   "heading": "Why royalty value is more than last month's check times some multiple",
+   "paragraphs": [
+    "A common mistake is assuming a royalty interest is worth a fixed multiple of the most recent check, times twelve, times some round number. Real valuation has to account for the well's decline curve, since production and therefore royalty income drops over time, often faster in the first few years than later. A buyer is really estimating the total remaining income stream over the well's productive life, discounted for the fact that money later is worth less than money now, rather than extrapolating last month's number indefinitely.",
+    "This is also why two royalty interests with identical current monthly checks can be worth different amounts, one might be on a well early in a long decline with years of production ahead, the other on a well nearing the end of its economic life. Knowing where your well sits on that curve, which I can usually estimate from a few months of statements, matters more than the current check size alone."
+   ]
+  },
+  {
+   "heading": "Holding versus selling a royalty interest",
+   "paragraphs": [
+    "Holding a royalty interest means continuing to receive income tied to the well's actual production, with all the volatility that involves, price swings, decline, occasional operator delays in payment, but with the potential upside if prices rise or the well outperforms expectations. Selling converts that uncertain future stream into a known amount today, trading potential upside for certainty. Neither is inherently better; it depends on whether you value the ongoing income or the lump sum more, given your own financial situation.",
+    "Some owners split the difference by selling a portion of their royalty interest and keeping the rest, which is worth asking about if you'd like some liquidity without giving up all future income."
+   ]
+  },
+  {
+   "heading": "Getting your royalty interest reviewed",
+   "paragraphs": [
+    "Send your division order and a few recent royalty statements. That's enough for me to estimate where your well sits on its decline curve and give you an honest number for a full or partial sale, explained plainly rather than buried in jargon."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why do post-production deductions reduce my royalty check?",
+   "answer": "Many leases allow the operator to deduct costs like gathering, transportation, and processing before calculating your royalty, depending on the specific lease language. It's normal, but worth understanding since it explains the gap between gross production value and your net check."
+  },
+  {
+   "question": "Can I sell just part of my royalty interest instead of all of it?",
+   "answer": "Yes, partial sales are common. You can sell a portion of your decimal interest or a set number of years of royalty income while retaining the rest, which lets you get some liquidity while keeping ongoing income."
+  },
+  {
+   "question": "My royalty checks have been shrinking every month. Is that normal?",
+   "answer": "Usually yes. Wells naturally decline in production over time, often steeply in the first couple of years and then more gradually. Shrinking checks alone aren't necessarily a red flag, though it's worth reviewing your statements if the drop seems unusually sharp or sudden."
+  },
+  {
+   "question": "How many months of statements do you need to value my royalty interest?",
+   "answer": "Three to six months gives a reasonable read on the decline trend, though even one or two recent statements alongside the division order is enough to start a conversation."
+  }
+ ],
+ "status": "written",
+ "wordCount": 891,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsmontana-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

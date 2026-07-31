@@ -1,0 +1,1 @@
+(()=>{var s=(t,e,o,r)=>{for(let c of t)if(c.type==="childList"&&document.querySelector(o))return e.disconnect(),r()},d=(t,e)=>{let o=document.body,r={childList:!0,subtree:!0};new MutationObserver((n,i)=>s(n,i,t,e)).observe(o,r)};typeof window<"u"&&!window.watcherDOM&&(window.watcherDOM=d);})();

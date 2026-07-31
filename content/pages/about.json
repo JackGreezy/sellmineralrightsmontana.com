@@ -1,0 +1,68 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About | Montana Mineral Rights Buyer",
+ "metaDescription": "A retired E&P engineer explains why he buys Montana mineral rights directly from owners, how he evaluates tracts, and what he won't do.",
+ "heroLead": "I spent the bulk of my career on the operator side before I ever bought a mineral interest, and that's exactly why I do this differently than most buyers you'll talk to.",
+ "intro": [
+  "I worked in oil and gas operations for decades, most of it hands-on with production, spacing units, and the paperwork that governs who gets paid what. Somewhere along the way I started getting calls from mineral owners, often relatives of people I'd worked with, asking what their royalty statements actually meant or whether an offer they'd received was fair. I found myself explaining the same things over and over, and eventually decided to buy interests directly instead of just answering questions from the sidelines.",
+  "This site, and the way I evaluate tracts, comes directly out of that background. I know how a division order gets built, how a decline curve actually behaves on the edge of the Bakken, and how Montana's homestead-era land patterns still complicate title today. Most owners never get anyone with that background to sit down and explain it plainly."
+ ],
+ "sections": [
+  {
+   "heading": "Decades In Montana Oil And Gas Operations",
+   "paragraphs": [
+    "My career was spent on the technical and operations side, working with production data, spacing units, and the mechanics of how oil and gas actually moves from the wellhead to a royalty check. That background means I'm not learning the language of this business as I go, the way some newer buyers are. When I look at your decimal interest or your recent statements, I'm reading them the way I read them for years professionally, not guessing at what the numbers mean.",
+    "It also means I've seen the operator side of nearly every situation an owner brings to me: a stuck division order, an heirship chain that never got cleared, a well that declined faster than anyone expected. None of it is new to me."
+   ]
+  },
+  {
+   "heading": "Why I Buy Instead Of Broker",
+   "paragraphs": [
+    "Brokers market your mineral interest to a pool of investors, take a fee or commission, and often add weeks to the process while your tract gets shopped around. I evaluate your interest directly and make my own offer, which means one point of contact, a faster process, and no commission coming out of what you'd otherwise receive. It also means I have to be accountable for the number I quote, since I'm the one buying, not passing your file along to someone else.",
+    "That directness is the whole reason I set this up this way. I'd rather have one honest conversation with an owner than a broker relationship with three layers between us."
+   ]
+  },
+  {
+   "heading": "How I Look At A Tract",
+   "paragraphs": [
+    "I start with your documents: deed, county location, decimal interest if known, and recent royalty statements if the tract is producing. From there I pull public production and title records for the section, township, and range, and build a number based on actual activity nearby, not a generic Montana-wide range. For non-producing minerals, I look at whether operators are actively leasing in the area and price accordingly, which sometimes means telling an owner the honest answer is that current value is modest until activity picks up.",
+    "Split estate and federal mineral situations get an extra layer of review, since those transfers work differently than straightforward fee minerals, and I'd rather take the extra time upfront than surprise anyone at closing."
+   ]
+  },
+  {
+   "heading": "What I Won't Do",
+   "paragraphs": [
+    "I won't quote a number before reviewing your actual documents, and I won't pressure you to sign within a day or two of a first conversation. If leasing makes more sense for your situation than selling, I'll tell you that even though it means no transaction for me. I'm also not a licensed appraiser, attorney, or CPA, and for anything involving unresolved heirship, complex title, or tax questions, I'll point you toward getting that professional advice rather than pretending I can substitute for it.",
+    "If that sounds like the kind of conversation you want to have about your Montana minerals, reach out and we'll start with what you actually own."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a licensed mineral rights appraiser?",
+   "answer": "No. I evaluate tracts based on decades of operations experience and public production and title records, but for a formal appraisal or legal questions about your interest, I'd point you toward the appropriate licensed professional."
+  },
+  {
+   "question": "Do you only buy in certain Montana counties?",
+   "answer": "I look at interests across the state, though my depth of knowledge is strongest along the Bakken flank counties in eastern Montana and the older producing areas in central and northern Montana."
+  },
+  {
+   "question": "Will you tell me if selling isn't a good idea for my situation?",
+   "answer": "Yes. There are situations, like a tract with strong remaining production and no urgent need for cash, where leasing or simply holding makes more sense, and I'd rather say so than push a sale that isn't right for you."
+  },
+  {
+   "question": "How quickly do you respond after someone reaches out?",
+   "answer": "Typically within a business day or two, and I'll let you know upfront what additional documents, if any, I need to put together a real offer."
+  }
+ ],
+ "wordCount": 864,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightsmontana-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

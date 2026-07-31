@@ -1,0 +1,76 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Montana Mineral Rights Get Appraised",
+ "metaDescription": "How buyers actually value Montana mineral rights, explained by a former operations engineer, covering comparables, decline curves, and federal minerals.",
+ "heroLead": "Appraisal sounds like a formal process with a single right answer. In practice it's an estimate built from a few real inputs, and the inputs matter more than the math.",
+ "intro": [
+  "I spent enough years reading reservoir data professionally to know that any valuation is only as good as what feeds into it, and mineral appraisal is no different. There's no certified, universal appraisal standard for mineral interests the way there is for a house, so different buyers can arrive at different numbers using different assumptions, and it helps to understand the methods behind those numbers.",
+  "Here's what actually goes into an appraisal for a Montana tract, and where the honest uncertainty lives."
+ ],
+ "sections": [
+  {
+   "heading": "The Three Approaches Buyers Actually Use",
+   "paragraphs": [
+    "For producing minerals, the most common method is an income approach: take recent net royalty, apply an assumed decline rate, and discount the resulting stream of future income back to a present value using a rate that reflects the risk involved. For non-producing minerals, buyers lean more on a market or comparable-sales approach, looking at what similar acreage nearby has recently traded for, adjusted for differences in position and lease status. A third approach, cost or replacement value, rarely applies to minerals directly but sometimes factors into how surface and mineral estates are separately valued in a split estate situation.",
+    "Most credible offers blend elements of the first two, weighted toward whichever is more reliable given how much production history actually exists."
+   ]
+  },
+  {
+   "heading": "Why Comparable Sales Are Tricky In Montana",
+   "paragraphs": [
+    "Comparable sales work well in areas with dense, frequent transactions and public reporting, which describes core shale plays in some states better than it describes much of Montana. Mineral sales here aren't always publicly recorded with price detail, and even when they are, a tract on the productive core of the Bakken trend isn't a fair comparable for one out on the flank, even if they're in the same county. Buyers who lean too heavily on loose comparables without adjusting for actual well density and production nearby tend to either overpay or lowball, depending on which direction the comparable skews.",
+    "This is one reason a careful buyer asks about your specific section, township, and range rather than just your county."
+   ]
+  },
+  {
+   "heading": "Decline Curve Math In Plain Terms",
+   "paragraphs": [
+    "For a producing well, the appraisal hinges on how fast production is expected to fall off. Horizontal wells on the Bakken flank typically show a steep initial decline in the first one to two years, followed by a long, shallow tail that can continue producing modestly for a decade or more. Getting the decline rate right matters enormously to the final number, because a slightly steeper assumed decline can meaningfully lower the present value of future royalty, and a slower one raises it.",
+    "This is genuinely more art than science even for people who do it professionally, which is exactly why it's worth asking a buyer to walk you through their assumptions rather than accepting a number without explanation."
+   ]
+  },
+  {
+   "heading": "Where Federal Minerals Complicate Appraisal",
+   "paragraphs": [
+    "Federal minerals, common in parts of Montana where homestead patents reserved the mineral estate to the government, are appraised with an extra layer of uncertainty around leasing timelines and administrative rules that don't apply to fee minerals. A federal lease sale calendar and BLM approval process can delay development well beyond what a comparable fee mineral tract might see, which a careful appraisal has to account for by discounting further for time and regulatory risk.",
+    "None of this makes federal minerals unsellable, it just means the appraisal leans more heavily on patience-adjusted assumptions than a straightforward fee interest would."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there an official, certified appraisal standard for mineral rights?",
+   "answer": "No single universal standard exists the way it does for real estate. Buyers use income and comparable-sales approaches, and the assumptions behind them can vary meaningfully from one buyer to another."
+  },
+  {
+   "question": "Why did two buyers give me different numbers for the same tract?",
+   "answer": "Different decline rate assumptions, different comparable sales, or different discount rates for risk can all produce different valuations from the same underlying facts. Ask each buyer to explain their reasoning."
+  },
+  {
+   "question": "Does an appraisal require a site visit to my mineral tract?",
+   "answer": "Usually not. Most of the relevant information comes from county and state production records, division orders, and royalty statements rather than a physical inspection of the land."
+  },
+  {
+   "question": "How does decline rate affect the final offer number?",
+   "answer": "A faster assumed decline lowers expected future royalty and reduces the present value offered. A slower decline raises it. This is one of the biggest levers in any producing-tract appraisal."
+  },
+  {
+   "question": "Can I get my own independent appraisal before selling?",
+   "answer": "Yes, and for a larger or more complex interest it can be worth the cost, particularly if you want a second opinion independent of any buyer's own number."
+  },
+  {
+   "question": "Why do buyers ask for several years of statements instead of just the latest one?",
+   "answer": "A single month can be skewed by a temporary shut-in, a new well coming online, or a price spike. Several years of history lets a buyer see the actual decline trend rather than reacting to one unusual data point."
+  }
+ ],
+ "wordCount": 873,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsmontana-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

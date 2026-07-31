@@ -1,0 +1,31 @@
+{
+  "domain": "sellmineralrightsmontana.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsmontana.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsmontana.com",
+  "reference": "https://space.indragroup.com/en",
+  "refhost": "space-indragroup-com",
+  "biz": "Sell Mineral Rights Montana",
+  "businessName": "Sell Mineral Rights Montana",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "MONTANA",
+  "city": "Billings",
+  "state": "Montana",
+  "region": "Billings, the Williston Basin, the Powder River Basin, and mineral-producing counties across Montana",
+  "phone": "406-555-1037",
+  "email": "montana@sellmineralrightsmontana.com",
+  "address": "210 N 27th St, Billings, MT 59101",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightsmontana-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsmontana.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Montana Basins", "/basins"],
+    ["Record Guides", "/resources"],
+    ["Montana Areas", "/locations"],
+    ["About", "/about"]
+  ],
+  "cta": ["Request a Montana Review", "/contact#contact-form"]
+}

@@ -1,0 +1,20 @@
+{
+ "domain": "sellmineralrightsmontana.com",
+ "keyword": "sell mineral rights montana",
+ "segment": "montana-state",
+ "intent": "seller",
+ "tier": "Expansion (210 head vol)",
+ "available": true,
+ "voice": "retired-operator: ex-E&P engineer; explains the buyer side candidly",
+ "angle": "MT pillar; split-estate/BLM + Bakken-edge economics honesty",
+ "taxonomyCounts": {
+  "locations": 86,
+  "basins": 2,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 121,
+ "status": "scaffold"
+}

@@ -1,0 +1,67 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "metaTitle": "Working Interests Explained: Montana Owner's Guide",
+ "metaDescription": "Hold a working interest in a Montana well instead of a royalty? A retired operator explains the cost exposure, why it's different from mineral rights, and how it's valued.",
+ "heroLead": "A working interest pays more per barrel than a royalty, and costs you more per dry hole. That tradeoff is the entire story, and a lot of owners only learn it from the cost statement.",
+ "intro": [
+  "A working interest is fundamentally different from the royalty or mineral interests I usually talk about on this site. Where a royalty owner receives their share of production income free of drilling and operating costs, a working interest owner shares in both the production revenue and the actual costs of drilling, completing, and operating the well, proportional to their percentage. That means a bigger potential upside per barrel, but also real exposure if a well underperforms or costs run over.",
+  "Working interests in Montana usually end up in individual hands through a few paths: someone who was directly involved in putting together a drilling deal, an inheritance from a family member who invested in oil and gas operations, or occasionally a small non-operated stake bought as an investment. If you've received a joint interest billing statement, JIB, rather than just a royalty statement, you're dealing with a working interest, not a royalty."
+ ],
+ "sections": [
+  {
+   "heading": "Why working interest income and cost exposure differ from royalty",
+   "paragraphs": [
+    "As a working interest owner, your monthly or periodic statement, the joint interest billing, shows your share of both revenue and your share of costs, drilling, completion, and ongoing lease operating expenses, netted against each other. In a strong-producing well, that can mean meaningfully higher net income than an equivalent royalty percentage would provide, since you're not giving up a royalty fraction to the operator. In a weak or declining well, or if the operator needs to fund a workover or additional completion work, you can actually owe money against your interest rather than receive a check.",
+    "This cost exposure is the single biggest difference from mineral or royalty ownership, and it's worth understanding clearly before deciding whether to hold or sell a working interest. Some owners are comfortable with that risk in exchange for higher potential returns; others would rather trade it for the predictability of a royalty-style payout or a lump sum sale."
+   ]
+  },
+  {
+   "heading": "Operated versus non-operated working interests",
+   "paragraphs": [
+    "Most individual working interest owners hold a non-operated position, meaning another company, the operator, runs day-to-day decisions on the well while you simply share proportionally in the results. You don't typically get a vote on operational decisions unless your interest is unusually large, but you do receive the JIB statements and are contractually obligated for your share of approved costs under the joint operating agreement governing the well.",
+    "Understanding whether your interest is operated by a company with a strong track record in the basin, or a smaller operator with less consistent activity, matters more here than it does for a simple royalty interest, since operator competence directly affects both your revenue and your cost exposure."
+   ]
+  },
+  {
+   "heading": "How working interests get valued for a sale",
+   "paragraphs": [
+    "Valuing a working interest requires looking at both sides of the ledger: expected future revenue based on the well's decline curve and commodity price assumptions, and expected future costs, both ongoing operating expenses and any anticipated capital work like workovers or additional completions. Because of that cost exposure, working interest valuations tend to be more complex than a royalty interest, and a buyer will typically want to see recent JIB statements alongside production data to understand the full net picture rather than gross revenue alone.",
+    "Selling a working interest also transfers your obligation for future costs to the buyer along with the revenue rights, which for some owners is itself a meaningful reason to sell, particularly if a well is aging and facing higher-cost decisions ahead."
+   ]
+  },
+  {
+   "heading": "Getting a working interest reviewed",
+   "paragraphs": [
+    "Send recent joint interest billing statements along with whatever operating agreement or assignment documentation you have. I'll look at both the revenue and cost side honestly and give you a real picture of what the interest is worth and what risk comes with continuing to hold it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I lose money owning a working interest?",
+   "answer": "Yes, that's the key difference from a royalty interest. If a well requires costly workover or completion work, or if operating expenses exceed revenue in a given period, a working interest owner can owe money rather than receive a check."
+  },
+  {
+   "question": "What's a joint interest billing statement?",
+   "answer": "It's the periodic statement showing your share of both the well's revenue and its costs, drilling, completion, and operating expenses, netted against your working interest percentage. It's the working interest equivalent of a royalty statement, but with cost exposure included."
+  },
+  {
+   "question": "If I sell my working interest, do I also transfer the cost obligations?",
+   "answer": "Yes. The buyer takes on both the future revenue rights and the future cost obligations tied to the interest, which is part of why some owners choose to sell aging or high-maintenance working interests rather than continue absorbing that risk."
+  },
+  {
+   "question": "Is a working interest the same thing as a royalty interest?",
+   "answer": "No. A royalty interest receives income free of drilling and operating costs. A working interest shares proportionally in both revenue and costs. They're valued differently and carry very different risk profiles."
+  }
+ ],
+ "status": "written",
+ "wordCount": 883,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellmineralrightsmontana-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

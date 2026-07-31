@@ -1,0 +1,76 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease vs. Sell Your Montana Mineral Rights",
+ "metaDescription": "A retired E&P engineer compares leasing and selling Montana mineral rights honestly, covering what each option actually commits you to long term.",
+ "heroLead": "Owners often treat this as a simple either-or question when really it depends on how much uncertainty you're willing to carry for how long.",
+ "intro": [
+  "I spent my working life on the operator side negotiating leases, and now I buy minerals outright from owners, so I've sat across the table on both kinds of deals. Neither leasing nor selling is the obviously correct choice; they trade different things for different outcomes, and the right answer depends on your specific interest and what you actually need from it.",
+  "This is the comparison I'd walk a family member through, not a pitch for one option over the other."
+ ],
+ "sections": [
+  {
+   "heading": "What Leasing Actually Commits You To",
+   "paragraphs": [
+    "Leasing means you keep ownership of the minerals but grant an operator the right to explore and produce for a set primary term, usually three to five years in Montana, in exchange for a bonus payment upfront and a royalty percentage on anything produced. You retain long-term upside if a well is drilled and performs well, but you also retain the downside: no drilling ever happens, or a well is drilled and declines faster than expected, or you're back to negotiating again once the lease term or held-by-production status runs out.",
+    "Leasing keeps you exposed to commodity price swings and operator decisions for as long as you hold the interest, which some owners want and others find exhausting to track."
+   ]
+  },
+  {
+   "heading": "What Selling Actually Gives Up",
+   "paragraphs": [
+    "Selling converts your interest into a lump sum today and permanently ends your claim to future royalty, whether the tract turns out to be worth far more or far less than expected down the road. You give up all upside from future wells, price increases, or new formations someone eventually figures out how to produce economically. In exchange, you get certainty: a fixed number, no more tracking statements, no more wondering whether a check will arrive next month.",
+    "For a producing tract already on a steep decline curve, that certainty can be worth more than continuing to collect a shrinking royalty for years."
+   ]
+  },
+  {
+   "heading": "Where Montana Owners Get This Wrong",
+   "paragraphs": [
+    "The mistake I see most is owners assuming leasing is always the safer, more conservative choice because they keep ownership. But a lease with no drilling commitment and a distant, uncertain primary term isn't actually safer than a sale, it's just a different kind of uncertainty, one where you're betting on an operator's future plans rather than locking in a known amount. On the flank of the Bakken especially, where drilling activity has been inconsistent year to year, plenty of leases have simply expired with nothing ever drilled.",
+    "On the other side, owners with strong, recently producing tracts sometimes sell too early out of a desire for simplicity, without weighing what years of remaining royalty income might have added up to."
+   ]
+  },
+  {
+   "heading": "A Framework, Not A Formula",
+   "paragraphs": [
+    "If your interest is non-producing and there's no active drilling nearby, leasing costs you little and preserves future option value. If your interest is producing but clearly on the back half of its decline curve, selling often makes more practical sense than holding out for a shrinking royalty. If you need capital now, for a health situation, a debt payoff, an inheritance split among siblings, that need itself is a legitimate factor, not something to feel embarrassed weighing against theoretical future upside.",
+    "There's no universal right answer here, only the one that fits your actual interest and your actual situation, and it's worth getting real numbers on both paths before deciding."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I lease and still sell later?",
+   "answer": "Yes, an unleased or currently leased mineral interest can generally still be sold, though an active lease and any related royalty obligations transfer along with the minerals to the new owner."
+  },
+  {
+   "question": "Is selling always a worse deal than leasing if a well eventually gets drilled?",
+   "answer": "Not necessarily. If the well underperforms or declines quickly, as many do on the edge of the Bakken, a lump sum sale can end up being the better outcome in hindsight, though nobody can know that in advance."
+  },
+  {
+   "question": "What happens to my lease if I decide to sell my minerals?",
+   "answer": "The lease transfers with the mineral interest to the new owner, and the buyer typically factors any existing lease terms into the offer they make you."
+  },
+  {
+   "question": "Does leasing pay anything upfront?",
+   "answer": "Yes, leases typically include an upfront bonus payment per acre, in addition to the royalty percentage on anything eventually produced, though bonus amounts vary with drilling interest in the area."
+  },
+  {
+   "question": "How do I know if my tract is on the back half of its decline curve?",
+   "answer": "Recent royalty statements showing a steady, sustained drop over multiple years, rather than a single-month dip, are the clearest sign the well has moved into its long, low-volume tail."
+  },
+  {
+   "question": "Is there a middle option between leasing and selling everything?",
+   "answer": "Yes, some owners sell a portion of their mineral interest while keeping the rest, or sell royalty on existing production while retaining executive rights on undeveloped acreage. It's worth asking a buyer directly whether a partial arrangement fits your situation."
+  }
+ ],
+ "wordCount": 869,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightsmontana-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

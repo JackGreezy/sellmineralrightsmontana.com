@@ -1,0 +1,68 @@
+{
+ "slug": "divorce-mineral-division",
+ "title": "Mineral Rights in Divorce",
+ "type": "situation",
+ "note": "dividing or liquidating in settlement",
+ "status": "written",
+ "metaTitle": "Mineral Rights in a Montana Divorce Settlement",
+ "metaDescription": "Splitting mineral rights in a Montana divorce is harder than dividing a bank account. A former operator explains valuation, buyouts, and selling as a clean settlement option.",
+ "heroLead": "A bank account splits in half cleanly. Mineral rights don't, and that's usually the whole problem.",
+ "intro": [
+  "I've talked to a fair number of Montana couples working through a divorce where minerals showed up on the marital property list almost as an afterthought, then became the hardest line item to settle. Unlike a house or a retirement account, mineral rights don't have an easy market price. There's no listing service, no comparable sales database most attorneys can pull from, and the value swings with commodity prices, decline curves, and whether the acreage is producing at all. That uncertainty is exactly what stalls a settlement.",
+  "There are really three ways this usually resolves: one spouse keeps the interest and buys the other out, the interest gets divided into two smaller fractional pieces that each spouse holds separately going forward, or both spouses sell and split the cash. Each has real tradeoffs, and which one makes sense depends a lot on whether either of you actually wants to remain a mineral owner after the paperwork is signed."
+ ],
+ "sections": [
+  {
+   "heading": "Why an appraisal alone doesn't settle it",
+   "paragraphs": [
+    "Attorneys sometimes order a reserve report or a formal valuation to put a number on mineral rights for the marital estate. That's useful for the court filing, but a reserve report values future production under assumptions about price and decline that a cash buyer may see differently, and it costs money and weeks to produce. In my experience, getting an actual cash offer alongside any formal appraisal gives both spouses a real, checkable number rather than a theoretical one, and it often moves the settlement forward faster than waiting on paperwork.",
+    "If the interest is small, a few net mineral acres inherited from one spouse's family, the cost of a formal appraisal can eat up a meaningful share of the value itself. In those cases a straightforward buyer quote, backed by the division order and recent royalty history, is usually the more practical path."
+   ]
+  },
+  {
+   "heading": "Splitting the interest versus one spouse keeping it",
+   "paragraphs": [
+    "Dividing the mineral interest itself, so each spouse ends up owning half the decimal interest going forward, is legally simple but practically messy. It means two separate owners each getting their own division order, their own smaller royalty checks, and dealing with the same operator independently for years after the divorce is final. Most people who go this route don't love staying financially connected to an ex through a shared production well, even indirectly.",
+    "A cleaner option is often a buyout: one spouse keeps the full interest and pays the other their share of its value in cash or against other marital assets. That requires agreeing on a number, which is where a real cash offer helps settle the negotiation instead of two competing guesses."
+   ]
+  },
+  {
+   "heading": "Selling outright and splitting proceeds",
+   "paragraphs": [
+    "If neither spouse particularly wants to remain a mineral owner, and this comes up more than people expect, selling the whole interest and splitting the proceeds through the settlement is often the simplest resolution. It converts an illiquid, hard-to-value asset into a fixed number both attorneys can work with, and it avoids either party having to track royalty statements from an ex-spouse's family land for the next decade.",
+    "This route works particularly well when the minerals sit under acreage that's not directly tied to family land either spouse feels emotionally attached to keeping."
+   ]
+  },
+  {
+   "heading": "Where the process starts",
+   "paragraphs": [
+    "Whichever direction makes sense for your settlement, it starts the same way: pull the division order and recent royalty statements so there's a documented, current picture of what's owned and what it's producing. I'm happy to give both spouses and their attorneys an honest number to work from, whether that leads to a buyout, a sale, or just a clearer basis for negotiation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does mineral value in a divorce depend only on whether the well is currently producing?",
+   "answer": "Current production is the biggest factor, but not the only one. A non-producing interest with an active lease and nearby drilling can still carry real value based on what the lease bonus and offset activity suggest, even without a royalty check history yet."
+  },
+  {
+   "question": "Can we get a real offer before the divorce is finalized?",
+   "answer": "Yes. A cash offer can be requested at any point and doesn't obligate either spouse to sell. Many attorneys use a documented offer as a settlement reference point even if the sale itself happens later or not at all."
+  },
+  {
+   "question": "What if the minerals were inherited by only one spouse?",
+   "answer": "Whether inherited minerals count as separate or marital property depends on Montana law and the specifics of the marriage, including whether the interest was commingled with marital assets. That's a question for your attorney, but valuing the interest itself works the same regardless of which side of that line it falls on."
+  },
+  {
+   "question": "Is it faster to split the decimal interest than to sell or buy out?",
+   "answer": "It's faster on paper but often creates more long-term hassle, since both spouses end up as separate owners dealing with the operator independently for years. A buyout or outright sale usually resolves things more completely."
+  }
+ ],
+ "wordCount": 876,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-sellmineralrightsmontana-com.jpg",
+  "alt": "Mineral Rights in Divorce mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

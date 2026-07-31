@@ -1,0 +1,57 @@
+{
+ "slug": "lodge-grass-mt",
+ "title": "Sell Mineral Rights in Lodge Grass, MT",
+ "type": "city",
+ "kind": "city",
+ "county": "Big Horn",
+ "group": "Powder River MT",
+ "primaryKeyword": "sell mineral rights lodge grass mt",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Lodge Grass, MT",
+ "metaDescription": "Lodge Grass, MT sits on the Crow Reservation, where trust-land status and coalbed methane history both shape mineral title. I buy interests here directly.",
+ "heroLead": "Lodge Grass sits within the Crow Reservation along the Little Bighorn, and mineral title here starts with a land-status question before it ever gets to a production question.",
+ "intro": [
+  "Before I talk value with anyone calling from Lodge Grass, I need to know whether their interest is trust land, administered through the Bureau of Indian Affairs on behalf of an individual Crow allottee or the Tribe, or fee land held privately outside that system. Both exist in this part of Big Horn County, sometimes on adjoining parcels, and the sale process is genuinely different for each. On top of that land-status question, this stretch of the reservation saw real coalbed methane leasing interest in the 2000s tied to the western edge of the Powder River Basin, some of which is still active, some of which has lapsed.",
+  "I ask about land status on the very first call, before anything else, because it's the single factor that determines how the rest of the conversation goes."
+ ],
+ "sections": [
+  {
+   "heading": "Trust status changes the whole process",
+   "paragraphs": [
+    "If your interest is trust land, a sale requires BIA review and approval, and I explain that timeline honestly rather than promising a quick close I can't deliver. If it's fee land, the process runs through the Big Horn County Clerk and Recorder in Hardin like anywhere else in the county."
+   ]
+  },
+  {
+   "heading": "Coalbed methane's uneven footprint here",
+   "paragraphs": [
+    "CBM leasing touched parts of the reservation in the 2000s, including ground near Lodge Grass, but development was uneven and some leased acreage was never drilled. I check current lease and production status on your specific parcel before discussing a number."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my Lodge Grass-area interest trust land or fee land?",
+   "answer": "It depends on your family's specific history with the parcel. I confirm this first since it determines the entire sale process."
+  },
+  {
+   "question": "Was there ever coalbed methane leasing near Lodge Grass?",
+   "answer": "Yes, in parts, tied to the western Powder River Basin CBM activity of the 2000s. I check whether your parcel's lease is still active or has lapsed."
+  },
+  {
+   "question": "How long does a trust-land sale take compared to a fee sale?",
+   "answer": "Trust-land sales take longer due to required BIA approval. I lay out the realistic timeline before we start."
+  },
+  {
+   "question": "What if I'm not sure whether my Lodge Grass interest is trust or fee?",
+   "answer": "That's common. I check both BIA and Big Horn County records using your family name and rough parcel description to confirm."
+  }
+ ],
+ "status": "written",
+ "wordCount": 429,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-lodge-grass-mt.jpg",
+  "alt": "Sell Mineral Rights in Lodge Grass, MT location",
+  "width": 1600,
+  "height": 1000
+ }
+}

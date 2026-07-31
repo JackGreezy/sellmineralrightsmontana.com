@@ -1,0 +1,68 @@
+{
+ "slug": "fractional-mineral-interests",
+ "title": "Fractional & Small Interests",
+ "type": "situation",
+ "note": "tiny undivided interests, many heirs",
+ "status": "written",
+ "metaTitle": "Selling a Small Fractional Mineral Interest in Montana",
+ "metaDescription": "Own a tiny undivided percentage of Montana minerals split among heirs? A retired operator explains why fractional interests are worth selling and how the math works.",
+ "heroLead": "A one-sixty-fourth interest sounds too small to matter until you realize it's still yours, and it still pays, or could.",
+ "intro": [
+  "Montana mineral ownership has a way of fracturing over generations. A section that one family owned outright in 1920 might now be split among a dozen grandchildren and great-grandchildren, each holding a decimal interest so small it looks like a rounding error on the division order. I see this constantly, especially on older homestead sections across the eastern and central part of the state where minerals were reserved at patent and never consolidated.",
+  "The instinct a lot of small-interest owners have is that it's not worth the trouble, too small to sell, too small to bother tracking. That's usually wrong. Small doesn't mean worthless, it just means the math has to be done correctly, and a lot of buyers won't bother quoting tiny interests accurately because it's more work per dollar for them. That's exactly where a straightforward review helps."
+ ],
+ "sections": [
+  {
+   "heading": "How a fractional interest actually gets valued",
+   "paragraphs": [
+    "The starting point is always your decimal interest as it appears on the division order or, if you've never received one, as it can be traced through the deed and probate chain. From there, value comes down to the same basic factors as any mineral interest: is the underlying tract producing, what's the well's decline profile, and is there any drilling or leasing activity nearby. A one-thirty-second interest under an actively producing well in a good section can be worth more than a whole undivided interest in a dry, undrilled quarter section elsewhere.",
+    "Where fractional owners get shortchanged is when a buyer quotes off the surface acreage instead of the net mineral acres actually owned. If a section has 640 gross acres and your family's original patent covered 160 of them, and you're one of eight living heirs, your true net mineral acreage is a small fraction of what people assume from the county name alone. Getting that math right, from gross acres down to your actual decimal, is the first thing I do before quoting anyone."
+   ]
+  },
+  {
+   "heading": "Why so many Montana interests ended up this fractured",
+   "paragraphs": [
+    "Homestead-era patents in Montana often reserved or included mineral rights that passed down through wills, and rural families rarely did formal mineral deeds when dividing an estate, they just let the interest pass by inheritance to however many children or grandchildren existed at the time. Multiply that by two or three generations and you get interests measured in the hundredths or thousandths of a percent, owned by heirs scattered across the country who may not even know each other.",
+    "This is common enough in Montana oil and gas counties that operators and title companies deal with it routinely. It's not a sign anything went wrong with your family's paperwork, it's just how mineral ownership naturally dilutes without active consolidation."
+   ]
+  },
+  {
+   "heading": "Consolidating versus selling piecemeal",
+   "paragraphs": [
+    "Some heir groups choose to sell together as a family, combining several small interests into one transaction, which can simplify the paperwork and sometimes gets a slightly better combined number since the buyer is picking up more net mineral acres in one deal. Others sell individually on their own timeline, which works fine too, it just means each heir handles their own title documentation separately.",
+    "Neither approach is wrong. If your siblings or cousins also inherited a share of the same original tract, it's worth a conversation before anyone sells, mainly so everyone understands what the others are doing and nobody's surprised by a new co-owner showing up on the division order."
+   ]
+  },
+  {
+   "heading": "Getting a small interest reviewed properly",
+   "paragraphs": [
+    "Send whatever you have, even if it's an old division order with someone else's name on it or a probate document from a parent's estate. Tracing a fractional interest through inheritance takes a bit more legwork than a straightforward deed, but it's routine work, and I'd rather spend the time getting your actual decimal right than hand you a lowball guess based on a rough estimate."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my interest too small to be worth selling?",
+   "answer": "Almost never. Small decimal interests still carry real value if the underlying well is producing, and buyers who work this space regularly are used to quoting fractional interests down to very small percentages."
+  },
+  {
+   "question": "I don't have a division order, only an old deed with my grandfather's name on it. Can you still figure out my interest?",
+   "answer": "Usually yes. Tracing ownership through a probate or inheritance chain from an original deed is common work, it just takes a bit more research than a current division order does."
+  },
+  {
+   "question": "Should I sell with my siblings together or separately?",
+   "answer": "Either works. Selling together as a group can simplify paperwork and sometimes yields a modest combined advantage, but selling individually on your own timeline is equally valid if that's what works for your family."
+  },
+  {
+   "question": "How small of an interest will actually get a real offer?",
+   "answer": "There's no fixed cutoff. What matters more than the size of the percentage is whether there's production or lease activity to value it against. Send the documentation you have and I'll tell you honestly what's realistic."
+  }
+ ],
+ "wordCount": 879,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-fractional-mineral-interests-sellmineralrightsmontana-com.jpg",
+  "alt": "Fractional & Small Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

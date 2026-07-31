@@ -1,0 +1,80 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell Montana Mineral Rights",
+ "metaDescription": "What paperwork a buyer actually needs to make a real offer on Montana minerals, including split estate and federal surface records, from a former operator.",
+ "heroLead": "Owners lose weeks waiting on paperwork they didn't know they needed. Here is the real list, in the order it usually gets requested.",
+ "intro": [
+  "After years of pulling title on Montana tracts, both as an operator and now as a buyer, I can tell you the offer process moves at the speed of your paperwork, nothing else. Most delays aren't about negotiating price, they're about someone digging through a filing cabinet for a deed that's been misplaced since a parent's estate closed.",
+  "This is the list I actually ask for, roughly in the order it matters, along with why each piece counts."
+ ],
+ "sections": [
+  {
+   "heading": "The Paper Trail A Buyer Needs",
+   "paragraphs": [
+    "Start with your deed or the document that shows how you acquired the mineral interest, whether that's a warranty deed, a mineral deed, or a patent if it traces back to an original federal land grant. Alongside that, a legal description of the tract, meaning the section, township, and range, is what actually identifies the property in county records, not a mailing address or a rough sense of where the land sits.",
+    "If the tract is producing, recent royalty statements and, if you have it, a copy of your division order round out the core package and let a buyer confirm your decimal interest without waiting on a fresh title run."
+   ]
+  },
+  {
+   "heading": "Title And Heirship Documents",
+   "paragraphs": [
+    "If you inherited the interest, whatever settled the estate matters: a probate decree, a will, or an affidavit of heirship if the estate was small enough to bypass formal probate under Montana law. Many Montana families hold minerals that passed down two or three generations without ever being run through a full title update, and a buyer will need to see how ownership moved from the original owner to you specifically before closing.",
+    "If there's any question about who else might share the interest, siblings, cousins, or other heirs, it's worth sorting that out early rather than discovering a co-owner mid-transaction."
+   ]
+  },
+  {
+   "heading": "Split Estate And Federal Surface Records",
+   "paragraphs": [
+    "A fair number of Montana tracts are split estate, meaning the mineral rights and surface rights are owned separately, often because a homestead-era patent reserved minerals to the federal government while granting surface to a private settler, or the reverse happened through a later severance. If your minerals sit under BLM-administered surface, or your interest itself is a federal mineral lease rather than fee minerals, that status shows up in BLM or county records and changes how the transaction is structured.",
+    "It's worth knowing before you start whether you're dealing with fee minerals under private surface, fee minerals under federal surface, or a federal mineral interest outright, since each requires slightly different documentation to transfer cleanly."
+   ]
+  },
+  {
+   "heading": "What To Do If You're Missing Something",
+   "paragraphs": [
+    "Don't let a missing document stop you from starting the conversation. Most gaps, a lost deed, an unresolved heirship, an old legal description that doesn't match a modern survey, can be filled in during the process, often by the buyer's title company rather than you. County clerk and recorder offices keep public records going back generations, and a competent title search usually turns up what's missing faster than you'd expect on your own.",
+    "The one document nobody can manufacture after the fact is your identity as a legitimate owner, so as long as that's clear, the rest is administrative work, not a dealbreaker."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the single most important document to have ready?",
+   "answer": "Your deed or the instrument showing how you acquired the interest, along with a legal description by section, township, and range. That's what identifies the tract in county records."
+  },
+  {
+   "question": "I inherited my minerals but never went through probate. Is that a problem?",
+   "answer": "It can slow things down, but it isn't a dealbreaker. Montana allows affidavits of heirship for smaller estates, and a title company can often help sort out what's needed."
+  },
+  {
+   "question": "What does split estate mean for my paperwork?",
+   "answer": "It means your mineral rights and the surface above them are owned separately, often tracing back to a federal homestead patent. It doesn't block a sale, but the title company needs to know which situation applies to structure the transfer correctly."
+  },
+  {
+   "question": "Do I need a lawyer to gather these documents?",
+   "answer": "Not necessarily to gather them, but for anything involving unresolved heirship, unclear title, or federal mineral status, it's worth talking to an attorney before signing a transfer document."
+  },
+  {
+   "question": "How long does it take to sort out missing paperwork?",
+   "answer": "It varies with the complexity of the title, but straightforward gaps are often resolved within a few weeks once a title search is underway, especially with county records to work from."
+  },
+  {
+   "question": "What if my mineral tract has never had a legal survey?",
+   "answer": "Many older Montana homestead tracts were only ever described by section, township, and range, without a modern survey, and that's typically sufficient for county records and a title company to work with, so it's rarely a reason to delay reaching out."
+  },
+  {
+   "question": "Do I need to gather every document before I make first contact?",
+   "answer": "No, start the conversation with whatever you have on hand, even if it's incomplete. A buyer can usually tell you exactly which specific gaps matter for your tract, which saves you from chasing paperwork you may not actually need."
+  }
+ ],
+ "wordCount": 897,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsmontana-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

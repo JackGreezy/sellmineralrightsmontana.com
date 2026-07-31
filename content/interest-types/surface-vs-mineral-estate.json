@@ -1,0 +1,67 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate in Montana: What Split Estate Means",
+ "metaDescription": "Confused why you own minerals but not the land above them? A retired operator explains Montana split estate, surface use agreements, and how it affects a mineral sale.",
+ "heroLead": "You can own what's under a piece of Montana ground without owning an acre of the ground itself, and that single fact explains most of the confusion I hear from new sellers.",
+ "intro": [
+  "Split estate is the term for land where the surface and the minerals beneath it are owned separately, often by completely different people or families with no relationship to each other. It's extremely common across Montana, tracing back to how the federal government patented homestead land in the early twentieth century, sometimes reserving minerals to the government, sometimes granting minerals but not surface, or the reverse, and later through private sales where a family kept the minerals but sold the surface, or vice versa.",
+  "If you own minerals but not the surface above them, you may never have set foot on the land, and the person farming or ranching it may have no idea a well could someday be drilled there under their pasture. Both facts are normal, and understanding the split explains a lot about how leasing, drilling, and eventually selling your minerals actually works."
+ ],
+ "sections": [
+  {
+   "heading": "How Montana land ended up split this way",
+   "paragraphs": [
+    "A lot of eastern and central Montana was homesteaded under federal land laws that in some cases reserved subsurface mineral rights to the government while granting surface patents to settlers, particularly on land patented under certain acts in the early 1900s. In other cases, private landowners later sold the surface for ranching or farming while retaining the minerals for themselves or their heirs, sometimes explicitly to preserve future oil and gas potential, sometimes almost as an afterthought in the deed language.",
+    "Either way, the result is the same today: county records in oil and gas counties are full of tracts where the surface owner and mineral owner are unrelated parties, and that split has often persisted and further fractured through multiple generations of inheritance on each side independently."
+   ]
+  },
+  {
+   "heading": "Why the mineral estate generally has surface access rights",
+   "paragraphs": [
+    "Montana law treats the mineral estate as dominant, meaning the mineral owner, or more practically their oil and gas lessee once a lease is signed, generally has the right to reasonable use of the surface to explore for and produce the minerals, even without the surface owner's consent, though this is usually worked out through negotiated surface use agreements rather than forced entry. Montana has specific statutes governing notice and compensation to surface owners when drilling activity affects agricultural or grazing land.",
+    "For a mineral owner, this matters less in day-to-day terms and more if a well ever actually gets planned on your specific acreage, at which point the operator, not you personally, typically handles the surface use negotiation with whoever owns that ground."
+   ]
+  },
+  {
+   "heading": "What split estate does and doesn't change about selling minerals",
+   "paragraphs": [
+    "Selling your mineral interest doesn't require any involvement from the surface owner, and it doesn't grant the buyer any surface rights beyond the standard reasonable-access rights that come with mineral ownership generally. The transaction is between you and the mineral buyer, recorded at the county level, entirely separate from whoever farms or ranches the ground above.",
+    "Where split estate does matter for valuation is the same as it does for any mineral tract: whether there's production or drilling potential. It doesn't inherently make your minerals worth more or less than if you also owned the surface, it's simply a separate ownership structure that's extremely normal across this part of the state."
+   ]
+  },
+  {
+   "heading": "Figuring out your specific split",
+   "paragraphs": [
+    "If you're not sure whether your family's minerals were split from the surface, or when, the original patent or deed at the county clerk and recorder's office will usually show the reservation language. Send me what you have and I can help make sense of it and tell you what it means for a lease or sale conversation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If I own minerals but not the surface, can I visit or access the land?",
+   "answer": "Mineral ownership alone doesn't grant general access or recreational rights to the surface; that stays with the surface owner. Your rights are specifically tied to exploring for and producing the minerals, typically exercised through a lessee rather than personally."
+  },
+  {
+   "question": "Does the surface owner get any say in whether I lease or sell my minerals?",
+   "answer": "No. The mineral estate and surface estate are independently owned and transacted. The surface owner is generally notified and compensated if drilling activity affects their land, but they don't have approval rights over your leasing or selling decision."
+  },
+  {
+   "question": "How can I find out if my Montana minerals were split from the surface at some point?",
+   "answer": "The original patent or a subsequent deed in the county clerk's records will typically show the reservation language that created the split, and roughly when it happened."
+  },
+  {
+   "question": "Does owning both surface and minerals make my interest worth more?",
+   "answer": "Not necessarily for the mineral value itself, mineral value is driven by production and drilling potential regardless of who owns the surface. Owning both simply means fewer parties involved if a well is ever planned."
+  }
+ ],
+ "status": "written",
+ "wordCount": 866,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightsmontana-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

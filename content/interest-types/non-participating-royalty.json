@@ -1,0 +1,67 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "NPRI Explained: Montana Non-Participating Royalty Interests",
+ "metaDescription": "Own a non-participating royalty interest in Montana? A retired operator explains what NPRI means, how it differs from mineral rights, and how it's valued for sale.",
+ "heroLead": "You get a royalty check, but you never get a say in the lease. That's exactly what a non-participating royalty interest is, and it confuses a lot of owners the first time they see it on a deed.",
+ "intro": [
+  "A non-participating royalty interest, usually shortened to NPRI, is a carved-out right to a share of production income that does not carry any of the leasing rights that come with owning full mineral rights. You get paid your share of royalty if a well is drilled and produces, but you have no say in negotiating the lease terms, no right to bonus payments if the minerals get leased, and no vote if the mineral owner decides not to lease at all.",
+  "This shows up often in Montana on land where a prior owner sold or reserved the surface and full mineral rights but carved out a royalty percentage for themselves or a family member, sometimes going back to an original homestead transaction. If your deed uses language like 'reserving unto grantor a royalty interest' without mentioning leasing rights, that's almost certainly an NPRI rather than full mineral ownership."
+ ],
+ "sections": [
+  {
+   "heading": "How NPRI differs from owning full minerals",
+   "paragraphs": [
+    "The mineral owner, sometimes called the executive rights holder, controls whether and to whom the minerals get leased, negotiates the bonus payment and royalty fraction, and keeps any bonus money for themselves. As an NPRI holder, you're entitled only to your specified share of production royalty once a well is producing, calculated against your NPRI fraction, not the lease's full royalty rate necessarily, depending on how your interest was originally created.",
+    "This distinction matters a lot when a lease gets negotiated, since you have no input on the deal even though your income depends entirely on it. If the mineral owner negotiates a low royalty rate or delays leasing indefinitely, that directly affects what you receive, with no ability on your part to push back or negotiate separately."
+   ]
+  },
+  {
+   "heading": "How NPRI gets valued for a sale",
+   "paragraphs": [
+    "Valuing an NPRI works much like valuing a royalty interest generally: it comes down to your specific fraction, the well's current or likely production, and the lease terms governing the royalty rate. Because you don't control leasing, buyers also look at who does, is the executive rights holder actively leasing the property, or has it sat unleased for years with no clear path to development, since that affects how likely your NPRI is to ever generate income if it hasn't already.",
+    "If your NPRI is already tied to a producing well, valuation is fairly straightforward from your royalty statement history. If it's tied to unleased or undrilled acreage, the value depends more on whether the mineral owner has shown any recent interest in leasing, which is worth finding out if you can before getting a quote."
+   ]
+  },
+  {
+   "heading": "Common ways NPRIs get created in Montana",
+   "paragraphs": [
+    "Family land transactions historically created a lot of these, a parent selling land to a child but reserving a royalty for their own lifetime, or a seller retaining a royalty interest as part of a larger land sale decades ago while passing full mineral rights, including leasing control, to the buyer. Estate planning also creates NPRIs when a will splits an interest, giving one heir the executive rights and another heir just the royalty benefit.",
+    "If you inherited an NPRI without much explanation of how it came to be, the original deed language, findable at the county clerk's office, usually spells out exactly how the interest was reserved and its specific fraction."
+   ]
+  },
+  {
+   "heading": "Getting an NPRI reviewed",
+   "paragraphs": [
+    "Send your deed or division order, whatever identifies your specific NPRI fraction and the well or lease it's tied to. I'll walk through what it's actually paying, or likely to pay if unleased, and give you an honest number if you're considering a sale."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I lease my own NPRI to an operator directly?",
+   "answer": "No. Leasing authority, called executive rights, belongs to whoever holds the full mineral estate, not the NPRI holder. You collect royalty once a lease is in place and production begins, but you don't negotiate or sign the lease yourself."
+  },
+  {
+   "question": "My NPRI has never paid anything. Is it worth selling?",
+   "answer": "It depends on whether the underlying minerals are leased or likely to be leased. An NPRI tied to unleased acreage with no nearby activity carries more speculative value than one tied to acreage an operator is actively working."
+  },
+  {
+   "question": "How is my NPRI fraction different from the well's overall royalty rate?",
+   "answer": "Your NPRI fraction was set when the interest was originally created and applies against whatever royalty the mineral owner negotiates in the lease. The math can get specific depending on the exact deed language, which is worth reviewing carefully."
+  },
+  {
+   "question": "Why would someone create an NPRI instead of just keeping full mineral rights?",
+   "answer": "It's often used in family land sales or estate planning to give someone royalty income without handing over control of leasing decisions, letting the seller or one heir keep decision-making authority while sharing the financial benefit."
+  }
+ ],
+ "status": "written",
+ "wordCount": 860,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightsmontana-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

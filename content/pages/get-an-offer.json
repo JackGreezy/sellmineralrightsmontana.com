@@ -1,0 +1,79 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get a Montana Mineral Rights Offer",
+ "metaDescription": "Request a no-obligation offer on your Montana mineral rights, built from your actual decimal interest and documents, not a generic per-acre guess.",
+ "heroLead": "A real offer is built from your specific tract, not a number pulled off a statewide average. Here's what I need to put one together honestly.",
+ "intro": [
+  "I put together every offer myself, using your actual documents and public production and title records for your specific section, township, and range. That means the number you get reflects your tract, not a generic Montana-wide range that ignores whether you're on the flank of the Bakken, in older Cut Bank production, or holding non-producing minerals with no nearby activity.",
+  "There's no cost or obligation to request an offer, and you're free to take it to another buyer, an attorney, or simply sit with it before deciding anything."
+ ],
+ "sections": [
+  {
+   "heading": "What I Need To Put A Number Together",
+   "paragraphs": [
+    "At minimum, I need your county and a sense of what you own, mineral rights, royalty interest, or both. If you know your decimal interest or net mineral acres, that speeds things up considerably. For producing tracts, a recent royalty statement lets me confirm current activity rather than estimating it, which usually results in a more accurate offer on the first pass instead of a revised number later.",
+    "If you're not sure what you have, that's fine. Send what you do have, and I'll tell you what else would help before we get to a final number."
+   ]
+  },
+  {
+   "heading": "How I Build The Number",
+   "paragraphs": [
+    "For producing minerals, I look at recent net royalty, apply a decline assumption based on comparable wells in your area, whether that's Bakken-flank production in eastern Montana or older stripper production further west, and build a present-value offer from that. For non-producing minerals, the number reflects how active leasing and drilling actually are in your specific area right now, which varies meaningfully year to year across Montana.",
+    "If your minerals sit under BLM-administered surface or involve a federal lease, that gets factored in too, since federal timelines and rules genuinely change the calculation compared to straightforward fee minerals."
+   ]
+  },
+  {
+   "heading": "Timeline From First Call To Closing",
+   "paragraphs": [
+    "After you send your documents, expect a written offer within a few business days for straightforward, clean-title tracts. If there's an heirship issue, missing legal description, or unclear split estate status, I'll flag that early and explain what it means for timeline rather than letting it surprise you at closing. Once you accept an offer, closing typically involves a purchase agreement, a mineral deed, and recording with the county clerk and recorder, usually completed within a few weeks.",
+    "None of this requires you to travel. Documents are handled by mail or courier with notarization, which works fine for owners living anywhere in the country."
+   ]
+  },
+  {
+   "heading": "No-Obligation, Genuinely",
+   "paragraphs": [
+    "You can request an offer, review it, ask questions, share it with an attorney or family member, and decide not to move forward, all without any cost or consequence. I'd rather you take the time you need than rush into a transaction you're not fully comfortable with, and a legitimate offer holds up under that kind of scrutiny.",
+    "If the timing isn't right, or the number doesn't work for your situation, that's a perfectly fine outcome. Reach out whenever you're ready to take the next step."
+   ]
+  },
+  {
+   "heading": "What Makes A Montana Offer Different",
+   "paragraphs": [
+    "A generic buyer working off a nationwide spreadsheet will often quote a flat per-acre range regardless of whether you're near active drilling on the Bakken flank or sitting on quiet, older Sweetgrass Arch acreage with no recent activity. I don't work that way. My number reflects your county, your recent production if any exists, and the specific land pattern your tract falls into, including whether it's fee or federal minerals.",
+    "That specificity is also why I sometimes ask more questions than other buyers before quoting a figure. It takes a little more time upfront, but it means the number you get the first time is one that actually holds up once we get to closing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long is an offer good for once I receive it?",
+   "answer": "I'll give you real time to review it, generally at least a couple of weeks, rather than an artificial short deadline meant to rush your decision."
+  },
+  {
+   "question": "Do I need a lawyer to review the offer before accepting?",
+   "answer": "It's not required, but it's a reasonable step, particularly for a larger or more complex interest, and I have no issue with an offer being reviewed by your own attorney first."
+  },
+  {
+   "question": "What if I don't know my exact decimal interest?",
+   "answer": "That's common, especially for inherited fractional interests. Send what documents you have, and I can often work out the decimal from your deed and county production records."
+  },
+  {
+   "question": "Can I get an offer on just part of my mineral interest?",
+   "answer": "Yes, partial sales are possible, and I can put together a number for a portion of your interest while you retain the rest."
+  },
+  {
+   "question": "Will the offer change once you've reviewed my documents?",
+   "answer": "It can, if the documents reveal something different from what was initially described, such as a smaller decimal interest or an unresolved title issue. I'll always explain why before adjusting any number."
+  }
+ ],
+ "wordCount": 860,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightsmontana-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

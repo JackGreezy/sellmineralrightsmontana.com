@@ -1,0 +1,156 @@
+/* sellmineralrightsmontana.com — Indra Space-native skin for engine-injected components.
+   Donor tokens: petrol #004254, deep #00303d, footer body #003f50, teal accent #00b0bd,
+   ceramic #e3e0d9, white; ForFuture Sans; square solid petrol buttons, outlined white on dark;
+   notched petrol tiles; em-dash lists on the ceramic "Key features" band. */
+
+/* ---------- Header: transparent white-type over the hero, petrol-on-white on inner pages ---------- */
+html body.rr-native.rr-ref-space-indragroup-com .rr-wordmark{display:inline-flex!important;flex-direction:column!important;justify-content:center!important;text-decoration:none!important;white-space:nowrap!important;line-height:1!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-wordmark .rr-wm-1{font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:17px!important;font-weight:600!important;letter-spacing:.08em!important;line-height:1!important;text-transform:uppercase!important;white-space:nowrap!important;overflow-wrap:normal!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-wordmark .rr-wm-2{margin-top:4px!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:10px!important;font-weight:600!important;letter-spacing:.34em!important;line-height:1!important;text-transform:uppercase!important;white-space:nowrap!important;overflow-wrap:normal!important}
+html body.rr-native.rr-ref-space-indragroup-com header .rr-header-explore-toggle,html body.rr-native.rr-ref-space-indragroup-com header .rr-header-phone{border:0!important;background:none!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:14px!important;font-weight:400!important;letter-spacing:0!important;text-transform:none!important;text-decoration:none!important}
+html body.rr-native.rr-ref-space-indragroup-com header .rr-header-cta{display:inline-flex!important;align-items:center!important;min-height:0!important;padding:10px 18px!important;border:1px solid currentColor!important;border-radius:0!important;background:transparent!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:14px!important;font-weight:600!important;letter-spacing:0!important;line-height:1.2!important;text-transform:none!important;text-decoration:none!important;box-shadow:none!important}
+/* over the hero */
+html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header .rr-wordmark,html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header .rr-wordmark span,html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header .rr-header-explore-toggle,html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header .rr-header-phone,html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header .rr-header-cta{color:#fff!important}
+html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header .rr-header-cta:hover{background:#fff!important;color:#004254!important}
+html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header .rr-burger span{background:#fff!important}
+/* inner pages */
+html body.rr-native.rr-ref-space-indragroup-com .page-content:not(.has-header-transparent) header.header-menu{background:#fff!important;border-bottom:1px solid #e3e0d9!important}
+html body.rr-native.rr-ref-space-indragroup-com .page-content:not(.has-header-transparent) header .rr-wordmark,html body.rr-native.rr-ref-space-indragroup-com .page-content:not(.has-header-transparent) header .rr-wordmark span,html body.rr-native.rr-ref-space-indragroup-com .page-content:not(.has-header-transparent) header .rr-header-explore-toggle,html body.rr-native.rr-ref-space-indragroup-com .page-content:not(.has-header-transparent) header .rr-header-phone{color:#004254!important}
+html body.rr-native.rr-ref-space-indragroup-com .page-content:not(.has-header-transparent) header .rr-header-cta{border-color:#004254!important;background:#004254!important;color:#fff!important}
+html body.rr-native.rr-ref-space-indragroup-com .page-content:not(.has-header-transparent) header .rr-header-cta:hover{background:#00303d!important}
+html body.rr-native.rr-ref-space-indragroup-com .page-content:not(.has-header-transparent) header .rr-burger span{background:#004254!important}
+html body.rr-native.rr-ref-space-indragroup-com header .rr-burger span{height:1.5px!important;border-radius:0!important}
+/* Explore panel */
+html body.rr-native.rr-ref-space-indragroup-com header .rr-header-submenu{padding:10px 0!important;border:0!important;border-top:2px solid #00b0bd!important;border-radius:0!important;background:#fff!important;box-shadow:0 18px 36px rgba(0,48,61,.16)!important}
+html body.rr-native.rr-ref-space-indragroup-com header .rr-header-submenu a{display:block!important;padding:10px 22px!important;border:0!important;background:none!important;color:#004254!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:15px!important;font-weight:400!important;text-transform:none!important;text-decoration:none!important;white-space:nowrap!important}
+html body.rr-native.rr-ref-space-indragroup-com header .rr-header-submenu a:hover{color:#00b0bd!important;background:#f4f2ee!important}
+
+/* ---------- Mobile drawer: the donor's petrol menu ---------- */
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-mobile]{background:#004254!important;color:#fff!important;box-shadow:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-mobile] .rr-m-link{padding:15px 0!important;border:0!important;border-bottom:1px solid rgba(255,255,255,.16)!important;background:none!important;color:#fff!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:19px!important;font-weight:300!important;letter-spacing:0!important;text-transform:none!important;text-decoration:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-mobile] .rr-m-link[href^="/contact"]{display:inline-flex!important;align-self:flex-start!important;margin:20px 0 8px!important;padding:11px 20px!important;border:1px solid #fff!important;font-size:15px!important;font-weight:600!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-mobile] .rr-m-link[href^="tel:"]{border-bottom:0!important;color:#00b0bd!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-mobile] .rr-x{color:#fff!important;background:none!important;border:0!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-scrim{background:rgba(0,48,61,.5)!important}
+
+/* ---------- Donor buttons: square solid petrol ---------- */
+html body.rr-native.rr-ref-space-indragroup-com a.button-link.button-link--primary.rr-view-all{position:relative!important;left:auto!important;display:inline-flex!important;margin:32px 0 0 max(20px,calc((100vw - 1320px)/2 + 20px))!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-carousel-control{width:44px!important;min-width:44px!important;height:44px!important;border:1px solid #004254!important;border-radius:0!important;background:transparent!important;color:#004254!important;box-shadow:none!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-carousel-control:hover{background:#004254!important;color:#fff!important}
+
+/* ---------- Footer: donor petrol footer, full-bleed deep header band ---------- */
+html body.rr-native.rr-ref-space-indragroup-com footer.footer{background:#003f50!important;color:#fff!important}
+html body.rr-native.rr-ref-space-indragroup-com footer.footer>.footer__header{box-sizing:border-box!important;width:100%!important;max-width:none!important;margin:0!important;padding:44px max(20px,calc((100vw - 1320px)/2 + 20px))!important;background:#00303d!important;color:#fff!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:clamp(22px,2.2vw,32px)!important;font-weight:300!important;line-height:1.25!important}
+html body.rr-native.rr-ref-space-indragroup-com footer.footer .footer__title{color:#fff!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:18px!important;font-weight:400!important;text-transform:none!important;letter-spacing:0!important}
+html body.rr-native.rr-ref-space-indragroup-com footer.footer .footer__nav a,html body.rr-native.rr-ref-space-indragroup-com footer.footer .footer__copyright,html body.rr-native.rr-ref-space-indragroup-com footer.footer .footer__bottom a{color:rgba(255,255,255,.82)!important;text-decoration:none!important}
+html body.rr-native.rr-ref-space-indragroup-com footer.footer .footer__nav a:hover{color:#00b0bd!important}
+html body.rr-native.rr-ref-space-indragroup-com footer.footer .footer__bottom{border-top:1px solid rgba(255,255,255,.18)!important}
+html body.rr-native.rr-ref-space-indragroup-com footer.footer .button-link__icon{display:none!important}
+html body.rr-native.rr-ref-space-indragroup-com footer .rr-footer-map{box-sizing:border-box!important;width:min(1280px,calc(100% - 40px))!important;height:260px!important;min-height:260px!important;margin:24px auto 0!important;border:0!important;border-radius:0!important;background:#00303d!important;box-shadow:none!important;filter:grayscale(.3)!important}
+html body.rr-native.rr-ref-space-indragroup-com footer nav.rr-footer-ia{display:flex!important;flex-wrap:wrap!important;gap:8px 22px!important;box-sizing:border-box!important;max-width:1320px!important;margin:0 auto!important;padding:24px 20px 36px!important;background:transparent!important}
+html body.rr-native.rr-ref-space-indragroup-com footer nav.rr-footer-ia a{color:rgba(255,255,255,.72)!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:12px!important;font-weight:400!important;letter-spacing:0!important;text-transform:none!important;text-decoration:none!important}
+html body.rr-native.rr-ref-space-indragroup-com footer nav.rr-footer-ia a:hover{color:#fff!important}
+
+/* ---------- Slug: donor segment page — photo hero with a large light title ---------- */
+html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero{position:relative!important;left:50%!important;display:flex!important;flex-direction:column!important;justify-content:flex-end!important;box-sizing:border-box!important;width:100vw!important;min-width:0!important;min-height:clamp(440px,52vw,640px)!important;height:auto!important;margin:0 0 0 -50vw!important;padding:140px max(20px,calc((100vw - 1320px)/2 + 20px)) 64px!important;background:#00303d!important;border:0!important;box-shadow:none!important;overflow:hidden!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero::before,html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero::after{display:none!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero-media{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;opacity:1!important;filter:none!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero-copy{position:relative!important;z-index:2!important;box-sizing:border-box!important;width:100%!important;max-width:1100px!important;margin:0!important;padding:0!important;background:none!important;border:0!important;box-shadow:none!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero-copy::before{content:""!important;position:absolute!important;z-index:-1!important;left:-50vw!important;right:-50vw!important;top:-240px!important;bottom:-64px!important;background:linear-gradient(180deg,rgba(0,48,61,0) 0,rgba(0,48,61,.45) 45%,rgba(0,48,61,.82) 100%)!important;pointer-events:none!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero-copy h1{margin:0!important;padding:0!important;color:#fff!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:clamp(44px,6.4vw,96px)!important;font-weight:300!important;letter-spacing:-.02em!important;line-height:1.02!important;text-transform:none!important;text-shadow:none!important;background:none!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero-copy .hero__subtitle{max-width:760px!important;margin:22px 0 0!important;color:rgba(255,255,255,.9)!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:18px!important;font-weight:400!important;line-height:1.5!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-taste-prose-shell{position:relative!important;left:50%!important;box-sizing:border-box!important;width:min(1320px,100vw)!important;max-width:none!important;margin:0 0 0 calc(min(1320px,100vw) / -2)!important;padding:88px 20px 96px!important;background:#fff!important;border:0!important;box-shadow:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose]{box-sizing:border-box!important;width:auto!important;max-width:860px!important;margin:0 0 0 max(0px,calc((100% - 860px) / 2 - 120px))!important;padding:0 0 0 40px!important;border-left:1px solid #00b0bd!important;background:none!important;color:#004254!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:17px!important;line-height:1.65!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose]>p,html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose] li{margin:0 0 18px!important;color:#004254!important;font-size:17px!important;line-height:1.65!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose]>p:first-child{font-size:22px!important;font-weight:300!important;line-height:1.45!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose]>h2{margin:48px 0 16px!important;padding:0!important;border:0!important;background:none!important;color:#004254!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:clamp(26px,2.4vw,34px)!important;font-weight:300!important;letter-spacing:-.01em!important;line-height:1.2!important;text-transform:none!important;overflow-wrap:normal!important;word-break:normal!important;hyphens:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose]>h3{margin:28px 0 10px!important;color:#004254!important;font-size:20px!important;font-weight:600!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose] a{color:#00b0bd!important;text-decoration:underline!important}
+
+/* FAQ: the donor "Key features" ceramic band with em-dash rows and a teal divider */
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq]{display:block!important;margin:0!important;padding:88px 0!important;background:#e3e0d9!important;color:#004254!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq]>.container{display:grid!important;grid-template-columns:minmax(0,4fr) minmax(0,7fr)!important;column-gap:64px!important;box-sizing:border-box!important;max-width:1320px!important;margin:0 auto!important;padding:0 20px!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] .section-title__subtitle{grid-column:1!important;margin:0 0 10px!important;color:#004254!important;font-size:13px!important;font-weight:600!important;letter-spacing:0!important;text-transform:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] h2.generic-item{grid-column:1!important;margin:0!important;color:#004254!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:clamp(30px,3vw,44px)!important;font-weight:300!important;line-height:1.15!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] .body-text__container{grid-column:2!important;grid-row:1/4!important;display:block!important;margin:0!important;padding:0 0 0 48px!important;border-left:1px solid #00b0bd!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] .body-text__text>p{margin:0 0 28px!important;color:#004254!important;font-size:16px!important;line-height:1.6!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] ul.generic-item{margin:0!important;padding:0!important;list-style:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] ul.generic-item>li{position:relative!important;margin:0 0 26px!important;padding:0 0 0 40px!important;list-style:none!important;background:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] ul.generic-item>li::before{content:""!important;position:absolute!important;left:0!important;top:.72em!important;display:block!important;width:20px!important;height:1px!important;background:#004254!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] li h3{margin:0 0 6px!important;color:#004254!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:17px!important;font-weight:600!important;line-height:1.4!important;text-transform:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] li p{margin:0 0 6px!important;color:#004254!important;font-size:15px!important;line-height:1.6!important}
+
+/* Related: the donor notched petrol link tiles (text only) */
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related]{display:block!important;margin:0!important;padding:88px 0!important;background:#fff!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related]>.section-title__container{display:block!important;box-sizing:border-box!important;max-width:1320px!important;margin:0 auto!important;padding:0 20px!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related] .section-title__subtitle{margin:0 0 10px!important;color:#004254!important;font-size:13px!important;font-weight:600!important;text-transform:none!important;letter-spacing:0!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related] .section-title__title{margin:0 0 14px!important;color:#00b0bd!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:clamp(30px,3vw,44px)!important;font-weight:300!important;line-height:1.15!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related] .section-title__container>p{max-width:720px!important;margin:0 0 32px!important;color:#004254!important;font-size:16px!important;line-height:1.6!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related] .grid-container__variant3{display:grid!important;grid-template-columns:repeat(auto-fill,minmax(240px,1fr))!important;gap:10px!important;margin:0 0 32px!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related] .grid-container-item{width:auto!important;margin:0!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related] .widget-item-grid-link__link{display:flex!important;align-items:flex-end!important;box-sizing:border-box!important;min-height:120px!important;padding:18px 20px!important;background:#004254!important;color:#fff!important;text-decoration:none!important;clip-path:polygon(0 0,calc(100% - 18px) 0,100% 18px,100% 100%,0 100%)!important;transition:background-color .2s ease!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related] .widget-item-grid-link__link:hover{background:#00303d!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related] .widget-item-grid-link__heading{margin:0!important;color:#fff!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:17px!important;font-weight:400!important;line-height:1.35!important}
+
+/* Closing CTA: the donor footer-header band ("Tech for trust") with an outlined white button */
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta].footer__header{display:block!important;margin:0!important;padding:56px 0!important;background:#00303d!important;color:#fff!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .footer__container{display:grid!important;grid-template-columns:minmax(0,1fr) auto!important;align-items:center!important;gap:12px 40px!important;box-sizing:border-box!important;max-width:1320px!important;margin:0 auto!important;padding:0 20px!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .footer__highlighted{grid-column:1!important;color:#fff!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:clamp(28px,2.8vw,40px)!important;font-weight:300!important;line-height:1.2!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .footer__container>p{grid-column:1!important;max-width:760px!important;margin:0!important;color:rgba(255,255,255,.82)!important;font-size:16px!important;line-height:1.55!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .button-link{grid-column:2!important;grid-row:1!important;justify-self:end!important;display:inline-flex!important;align-items:center!important;padding:12px 22px!important;border:1px solid #fff!important;border-radius:0!important;background:transparent!important;color:#fff!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:15px!important;font-weight:600!important;text-decoration:none!important;white-space:nowrap!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .button-link+.button-link{grid-row:2!important;border-color:transparent!important;padding-right:0!important;color:#00b0bd!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .button-link:first-of-type:hover{background:#fff!important;color:#004254!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .button-link__icon{display:none!important}
+
+/* ---------- Contact: donor form — bold petrol labels, underline fields, square petrol Send ---------- */
+html body.rr-native.rr-ref-space-indragroup-com #contact-form{display:grid!important;grid-template-columns:1fr 1fr!important;gap:28px 32px!important;box-sizing:border-box!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;background:transparent!important;box-shadow:none!important}
+html body.rr-native.rr-ref-space-indragroup-com #contact-form .rr-contact-field{display:flex!important;flex-direction:column!important;gap:6px!important;margin:0!important;padding:0!important;background:none!important;border:0!important}
+html body.rr-native.rr-ref-space-indragroup-com #contact-form .rr-contact-field:nth-child(n+3),html body.rr-native.rr-ref-space-indragroup-com #contact-form>button{grid-column:1/-1!important}
+html body.rr-native.rr-ref-space-indragroup-com #contact-form label{margin:0!important;color:#004254!important;font-family:"ForFuture Sans",system-ui,sans-serif!important;font-size:14px!important;font-weight:700!important;letter-spacing:0!important;text-transform:none!important}
+html body.rr-native.rr-ref-space-indragroup-com #contact-form input,html body.rr-native.rr-ref-space-indragroup-com #contact-form textarea{box-sizing:border-box!important;width:100%!important;padding:8px 0!important;border:0!important;border-bottom:1px solid #9aa7ab!important;border-radius:0!important;background:transparent!important;color:#004254!important;font:16px/1.4 "ForFuture Sans",system-ui,sans-serif!important;box-shadow:none!important;outline:0!important}
+html body.rr-native.rr-ref-space-indragroup-com #contact-form input:focus,html body.rr-native.rr-ref-space-indragroup-com #contact-form textarea:focus{border-bottom-color:#00b0bd!important}
+html body.rr-native.rr-ref-space-indragroup-com #contact-form textarea{min-height:120px!important;resize:vertical!important}
+html body.rr-native.rr-ref-space-indragroup-com #contact-form>button[type=submit]{justify-self:start!important;width:auto!important;min-width:140px!important;margin:8px 0 0!important;padding:15px 28px!important;border:0!important;border-radius:0!important;background:#004254!important;color:#fff!important;font:600 15px/1.2 "ForFuture Sans",system-ui,sans-serif!important;letter-spacing:0!important;text-transform:none!important;cursor:pointer!important;box-shadow:none!important}
+html body.rr-native.rr-ref-space-indragroup-com #contact-form>button[type=submit]:hover{background:#00303d!important}
+html body.rr-native.rr-ref-space-indragroup-com .rr-contact-map{box-sizing:border-box!important;width:100%!important;height:320px!important;margin:0 0 40px!important;border:0!important;border-radius:0!important;background:#e3e0d9!important;box-shadow:none!important}
+
+@media (max-width:900px){
+  html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq]>.container{grid-template-columns:minmax(0,1fr)!important}
+  html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] .body-text__container{grid-column:1!important;grid-row:auto!important;margin-top:28px!important;padding-left:24px!important}
+  html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .footer__container{grid-template-columns:minmax(0,1fr)!important}
+  html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .button-link,html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-cta] .button-link+.button-link{grid-column:1!important;grid-row:auto!important;justify-self:start!important}
+}
+@media (max-width:767px){
+  html body.rr-native.rr-ref-space-indragroup-com header .rr-header-cta,html body.rr-native.rr-ref-space-indragroup-com header .rr-header-phone,html body.rr-native.rr-ref-space-indragroup-com header .rr-header-explore{display:none!important}
+  html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero{min-height:420px!important;padding:120px 20px 40px!important}
+  html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero-copy h1{font-size:44px!important}
+  html body.rr-native.rr-ref-space-indragroup-com .rr-taste-hero-copy .hero__subtitle{font-size:16px!important}
+  html body.rr-native.rr-ref-space-indragroup-com .rr-taste-prose-shell{padding:56px 20px 64px!important}
+  html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose]{margin:0!important;padding-left:18px!important}
+  html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose]>h2{font-size:26px!important}
+  html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-prose]>p:first-child{font-size:19px!important}
+  html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq],html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-related]{padding:56px 0!important}
+  html body.rr-native.rr-ref-space-indragroup-com #contact-form{grid-template-columns:minmax(0,1fr)!important}
+  html body.rr-native.rr-ref-space-indragroup-com a.button-link.button-link--primary.rr-view-all{margin-left:20px!important}
+}
+
+/* Section headings inside relabeled bands sit on the donor 1320px container */
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-band] .section-title__container.container{box-sizing:border-box!important;width:min(1320px,calc(100% - 40px))!important;max-width:1320px!important;margin-left:auto!important;margin-right:auto!important}
+/* Home blurb band: the donor metrics reveal ends visible */
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-band=home_intro] .metrics__description{opacity:1!important;transform:none!important;max-width:760px!important;font-size:22px!important;font-weight:300!important;line-height:1.45!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-band=home_intro] .metrics__list{justify-content:center!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-band=home_intro] .metrics__item{display:flex!important;flex-direction:column!important;align-items:flex-start!important;gap:28px!important;max-width:820px!important;padding:0 0 0 40px!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-band=home_intro] .button-link{display:inline-flex!important;padding:12px 22px!important;border:1px solid #fff!important;background:transparent!important;color:#fff!important;font-size:15px!important;font-weight:600!important;text-decoration:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-band=home_intro] .button-link:hover{background:#fff!important;color:#004254!important}
+/* Header over hero pages: the donor's petrol bar so the white type stays readable while scrolling */
+html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header.header-menu{background:rgba(0,48,61,.9)!important;-webkit-backdrop-filter:blur(8px)!important;backdrop-filter:blur(8px)!important}
+html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header.header-menu::before,html body.rr-native.rr-ref-space-indragroup-com .page-content.has-header-transparent header.header-menu::after{display:none!important}
+/* Situation / basin cards: the donor petrol caption panel */
+html body.rr-native.rr-ref-space-indragroup-com .special-project__content{background:#004254!important}
+/* The donor's group utility bar is gone, so the page header sits at the very top */
+html body.rr-native.rr-ref-space-indragroup-com header.header-menu--page{top:0!important;transform:none!important}
+html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] .body-text__container,html body.rr-native.rr-ref-space-indragroup-com [data-rr-taste-faq] .body-text__text{box-sizing:border-box!important;width:auto!important;min-width:0!important;max-width:none!important;margin-left:0!important;margin-right:0!important;flex:none!important}
+/* Situation/basin card corner icon has no donor mask-image asset (mask-image:none in the bundle),
+   so it renders as a plain solid square; most visible on mobile where it sits over the dark caption
+   fill instead of blending into the photo corner. Hide the empty accent rather than show a blank box. */
+html body.rr-native.rr-ref-space-indragroup-com .special-project__wrapper.is-link:after{background:transparent!important;content:none!important}

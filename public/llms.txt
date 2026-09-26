@@ -2,7 +2,7 @@
 
 > Sell Montana mineral rights with a record-based review of ownership, paid decimal, production, basin context, written terms, and recording.
 
-## Locations
+## Montana Counties and Towns
 - https://sellmineralrightsmontana.com/locations/billings-mt
 - https://sellmineralrightsmontana.com/locations/yellowstone-county
 - https://sellmineralrightsmontana.com/locations/sidney-mt
@@ -90,7 +90,7 @@
 - https://sellmineralrightsmontana.com/locations/worden-mt
 - https://sellmineralrightsmontana.com/locations/wyola-mt
 
-## Situations
+## Owner Situations
 - https://sellmineralrightsmontana.com/situations/inherited-mineral-rights
 - https://sellmineralrightsmontana.com/situations/unsolicited-offer-received
 - https://sellmineralrightsmontana.com/situations/out-of-state-owners
@@ -102,7 +102,7 @@
 - https://sellmineralrightsmontana.com/situations/tax-or-liquidity-pressure
 - https://sellmineralrightsmontana.com/situations/divorce-mineral-division
 
-## Interest Types
+## Mineral Interest Types
 - https://sellmineralrightsmontana.com/interest-types/mineral-rights
 - https://sellmineralrightsmontana.com/interest-types/royalty-interests
 - https://sellmineralrightsmontana.com/interest-types/non-participating-royalty
@@ -110,11 +110,11 @@
 - https://sellmineralrightsmontana.com/interest-types/overriding-royalty-interests
 - https://sellmineralrightsmontana.com/interest-types/working-interests
 
-## Basins
+## Montana Basins
 - https://sellmineralrightsmontana.com/basins/bakken
 - https://sellmineralrightsmontana.com/basins/powder-river-basin
 
-## Resources
+## Record Guides
 - https://sellmineralrightsmontana.com/resources/how-to-sell-mineral-rights
 - https://sellmineralrightsmontana.com/resources/mineral-rights-value-guide
 - https://sellmineralrightsmontana.com/resources/royalty-statements-guide
@@ -126,7 +126,7 @@
 - https://sellmineralrightsmontana.com/resources/taxes-when-selling-minerals
 - https://sellmineralrightsmontana.com/resources/mineral-appraisal-methods
 
-## Investing
+## Mineral Investing in Montana
 - https://sellmineralrightsmontana.com/investing/mineral-rights-as-an-investment
 - https://sellmineralrightsmontana.com/investing/how-to-evaluate-a-mineral-package
 - https://sellmineralrightsmontana.com/investing/producing-vs-nonproducing-for-investors
@@ -138,7 +138,7 @@
 - https://sellmineralrightsmontana.com/investing/inflation-and-mineral-income
 - https://sellmineralrightsmontana.com/investing/minerals-vs-royalty-funds
 
-## Exchange 1031
+## 1031 Exchange Guides
 - https://sellmineralrightsmontana.com/exchange-1031/is-a-1031-right-for-you
 - https://sellmineralrightsmontana.com/exchange-1031/qualified-intermediary-basics
 - https://sellmineralrightsmontana.com/exchange-1031/45-and-180-day-deadlines

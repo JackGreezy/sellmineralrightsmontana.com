@@ -1,0 +1,31 @@
+{
+  "classes": {
+    "#contact-form button[type=submit]": "button-link button-link--primary"
+  },
+  "remove": {
+    "all": [
+      ".hero_cat_m_video .breadcrumb",
+      ".hero_cat_special .breadcrumb"
+    ],
+    "slug": [
+      ".cms-content > section.body-text--featured-text"
+    ]
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "slug_mounts": {
+    "faq": ".cms-content",
+    "related": ".cms-content",
+    "cta": ".cms-content"
+  },
+  "templates": {
+    "faq": "<section class=\"body-text body-text--featured-text body-text--light\"><div class=\"container\"><p class=\"section-title__subtitle\">{kicker}</p><h2 class=\"generic-item\">{heading}</h2><div class=\"body-text__container\"><div class=\"body-text__text\"><p>{intro}</p><ul class=\"generic-item\">{items}</ul></div></div></div></section>",
+    "faq_item": "<li><h3>{q}</h3>{a}</li>",
+    "related": "<section class=\"section-title\"><div class=\"section-title__container container\"><p class=\"section-title__subtitle\">{kicker}</p><div class=\"section-title__content\"><h2 class=\"section-title__title\">{heading}</h2></div><p>{intro}</p><div class=\"grid-container__variant3\">{items}</div><a class=\"button-link button-link--primary\" href=\"{all_href}\">{all_label}</a></div></section>",
+    "related_item": "<div class=\"grid-container-item\"><article class=\"widget-item-grid-link\"><a class=\"widget-item-grid-link__link\" href=\"{href}\"><h3 class=\"widget-item-grid-link__heading\">{name}</h3></a></article></div>",
+    "cta": "<div class=\"footer__header\"><div class=\"footer__container container\"><div class=\"footer__highlighted\">{title}</div><p>{intro}</p><a class=\"button-link button-link--tertiary is-inverse footer__contact\" href=\"{contact_href}\">{label}</a><a class=\"button-link button-link--tertiary is-inverse\" href=\"{tel_href}\">{phone}</a></div></div>"
+  }
+}

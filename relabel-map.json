@@ -71,36 +71,81 @@
         {
           "heading": "Owner Decisions",
           "links": [
-            ["Owner Situations", "/situations"],
-            ["Interest Types", "/interest-types"],
-            ["Montana Basins", "/basins"]
+            [
+              "Owner Situations",
+              "/situations"
+            ],
+            [
+              "Interest Types",
+              "/interest-types"
+            ],
+            [
+              "Montana Basins",
+              "/basins"
+            ]
           ]
         },
         {
           "heading": "Record Guides",
           "links": [
-            ["Owner Resources", "/resources"],
-            ["Mineral Investing", "/investing"],
-            ["1031 Exchange Guides", "/exchange-1031"]
+            [
+              "Owner Resources",
+              "/resources"
+            ],
+            [
+              "Mineral Investing",
+              "/investing"
+            ],
+            [
+              "1031 Exchange Guides",
+              "/exchange-1031"
+            ]
           ]
         },
         {
           "heading": "Montana Records",
           "links": [
-            ["All Montana Areas", "/locations"],
-            ["Billings", "/locations/billings-mt"],
-            ["Yellowstone County", "/locations/yellowstone-county"],
-            ["Richland County", "/locations/richland-county"]
+            [
+              "All Montana Areas",
+              "/locations"
+            ],
+            [
+              "Billings",
+              "/locations/billings-mt"
+            ],
+            [
+              "Yellowstone County",
+              "/locations/yellowstone-county"
+            ],
+            [
+              "Richland County",
+              "/locations/richland-county"
+            ]
           ]
         },
         {
           "heading": "Closing Desk",
           "links": [
-            ["About", "/about"],
-            ["How to Sell", "/resources/how-to-sell-mineral-rights"],
-            ["Request a Review", "/contact#contact-form"],
-            ["Privacy Policy", "/privacy"],
-            ["Terms", "/terms"]
+            [
+              "About",
+              "/about"
+            ],
+            [
+              "How to Sell",
+              "/resources/how-to-sell-mineral-rights"
+            ],
+            [
+              "Request a Review",
+              "/contact#contact-form"
+            ],
+            [
+              "Privacy Policy",
+              "/privacy"
+            ],
+            [
+              "Terms",
+              "/terms"
+            ]
           ]
         }
       ],
@@ -202,13 +247,34 @@
           "selector": ".metrics",
           "action": "relabel",
           "ops": [
-            {"sel": ".metrics__title", "text": "One Tract, Three Evidence Lines"},
-            {"sel": ".metrics__item:nth-child(1) .metrics__numbers", "text": "DEED"},
-            {"sel": ".metrics__item:nth-child(1) .metrics__description", "text": "reservation and ownership chain"},
-            {"sel": ".metrics__item:nth-child(2) .metrics__numbers", "text": "PAY"},
-            {"sel": ".metrics__item:nth-child(2) .metrics__description", "text": "decimal, products, deductions, and tax"},
-            {"sel": ".metrics__item:nth-child(3) .metrics__numbers", "text": "TERMS"},
-            {"sel": ".metrics__item:nth-child(3) .metrics__description", "text": "property, fraction, timing, and recording"}
+            {
+              "sel": ".metrics__title",
+              "text": "One Tract, Three Evidence Lines"
+            },
+            {
+              "sel": ".metrics__item:nth-child(1) .metrics__numbers",
+              "text": "DEED"
+            },
+            {
+              "sel": ".metrics__item:nth-child(1) .metrics__description",
+              "text": "reservation and ownership chain"
+            },
+            {
+              "sel": ".metrics__item:nth-child(2) .metrics__numbers",
+              "text": "PAY"
+            },
+            {
+              "sel": ".metrics__item:nth-child(2) .metrics__description",
+              "text": "decimal, products, deductions, and tax"
+            },
+            {
+              "sel": ".metrics__item:nth-child(3) .metrics__numbers",
+              "text": "TERMS"
+            },
+            {
+              "sel": ".metrics__item:nth-child(3) .metrics__description",
+              "text": "property, fraction, timing, and recording"
+            }
           ]
         },
         {
@@ -227,7 +293,10 @@
             "image": "img",
             "_link_card": true
           },
-          "view_all": ["Compare All Interest Types", "/interest-types"]
+          "view_all": [
+            "Compare All Interest Types",
+            "/interest-types"
+          ]
         },
         {
           "selector": ".cms-content > div:has(.grid-container__variant3.mosaic)",
@@ -245,7 +314,10 @@
             "image": "img",
             "_link_card": true
           },
-          "view_all": ["Open All Record Guides", "/resources"]
+          "view_all": [
+            "Open All Record Guides",
+            "/resources"
+          ]
         },
         {
           "selector": ".related-news-gallery",
@@ -264,7 +336,10 @@
             ".related-news-gallery__date-container",
             ".article-gallery__content-footer"
           ],
-          "view_all": ["Open All Montana Areas", "/locations"]
+          "view_all": [
+            "Open All Montana Areas",
+            "/locations"
+          ]
         },
         {
           "selector": ".special-projects-container",
@@ -282,7 +357,10 @@
             "image": "img",
             "_link_card": true
           },
-          "view_all": ["Review Montana Basins", "/basins"]
+          "view_all": [
+            "Review Montana Basins",
+            "/basins"
+          ]
         },
         {
           "selector": ".metrics",
@@ -293,8 +371,28 @@
           "copy": "home_intro",
           "heading": ".metrics__title",
           "body": ".metrics__description",
-          "strip_in_band": [".metrics__item:nth-child(n+2)"],
-          "link": ["About the Montana Record Desk", "/about"]
+          "strip_in_band": [
+            ".metrics__item:nth-child(n+2)"
+          ],
+          "link": [
+            "About the Montana Record Desk",
+            "/about"
+          ]
+        },
+        {
+          "selector": ".cms-content > .section-title",
+          "action": "relabel",
+          "optional": true,
+          "ops": [
+            {
+              "sel": ".section-title__subtitle",
+              "text": "Record Guides"
+            },
+            {
+              "sel": ".section-title__title",
+              "html": "<span class=\"generic-span\">Owner</span> record guides"
+            }
+          ]
         }
       ],
       "carousels": [
@@ -311,7 +409,10 @@
       "repair_css": ".hero-video{position:relative!important;min-height:clamp(38rem,72vw,57rem)!important;overflow:hidden!important}.hero-video>img.hero__video,.hero-video .hero__video-wrapper>img{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important}.hero-video .container{position:relative!important;z-index:2!important}.hero-video h1.hero__title{display:block!important;max-width:12ch!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important}.special-projects-container,.metrics,#segments,.related-news-gallery{position:relative!important;overflow:visible!important}.related-news-gallery__carousel{display:flex!important;width:100%!important}.related-news-gallery__carousel-slide{min-width:0!important}.related-news-gallery .section-title__controls{display:flex!important}[data-rr-band=home_intro]{min-height:0!important;height:auto!important;padding:clamp(4rem,8vw,7rem) 0!important}[data-rr-band=home_intro] .metrics__container{min-height:0!important;height:auto!important}[data-rr-band=home_intro] .metrics__list{display:block!important;min-height:0!important;height:auto!important;margin-top:clamp(2rem,4vw,4rem)!important}[data-rr-band=home_intro] .metrics__item{display:block!important;min-height:0!important;height:auto!important;padding:2rem!important}[data-rr-band=home_intro] .metrics__description{position:static!important;display:block!important;width:min(46rem,100%)!important;max-width:46rem!important;margin:0 0 2rem!important;color:#fff!important;font-size:clamp(1.15rem,2.2vw,1.65rem)!important;line-height:1.5!important;transform:none!important;translate:none!important}"
     },
     "index": {
-      "signature": [".hero_cat_100bg", ".widget-item-grid-link"],
+      "signature": [
+        ".hero_cat_100bg",
+        ".widget-item-grid-link"
+      ],
       "hero_heading": ".hero_cat_100bg h1.hero__title",
       "hero_image": ".hero_cat_100bg img",
       "intro": {
@@ -325,10 +426,27 @@
         "image": "img",
         "_link_card": true
       },
-      "repair_css": ".hero_cat_100bg{min-height:clamp(26rem,48vw,43rem)!important}.hero_cat_100bg h1.hero__title{display:block!important;white-space:normal!important;word-break:normal!important}.grid-container__variant3{height:auto!important;overflow:visible!important}"
+      "repair_css": ".hero_cat_100bg{min-height:clamp(26rem,48vw,43rem)!important}.hero_cat_100bg h1.hero__title{display:block!important;white-space:normal!important;word-break:normal!important}.grid-container__variant3{height:auto!important;overflow:visible!important}",
+      "sections": [
+        {
+          "selector": ".breadcrumb",
+          "action": "relabel",
+          "optional": true,
+          "ops": [
+            {
+              "sel": ".breadcrumb__item [itemprop=name]",
+              "text": "{tax_title}",
+              "optional": true
+            }
+          ]
+        }
+      ]
     },
     "slug": {
-      "signature": [".hero_cat_special", ".body-text--featured-text"],
+      "signature": [
+        ".hero_cat_special",
+        ".body-text--featured-text"
+      ],
       "title": ".hero_cat_special h1.hero__title",
       "breadcrumb_last": ".hero_cat_special .breadcrumb__item:last-child [itemprop=name]",
       "hero_image": ".hero_cat_special img",
@@ -348,7 +466,11 @@
       "repair_css": ".hero_cat_special{position:relative!important;min-height:clamp(30rem,55vw,48rem)!important;overflow:hidden!important}.hero_cat_special .image-container{position:relative!important;width:100%!important;height:100%!important}.hero_cat_special img{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important}.hero_cat_special h1.hero__title{display:block!important;width:auto!important;max-width:15ch!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important}.body-text--featured-text .body-text__text{display:block!important;width:min(1080px,calc(100vw - 48px))!important;max-width:none!important;margin:0 auto!important;color:#1b123c!important}"
     },
     "about": {
-      "signature": [".hero_cat_m_video", ".body-text--text-image", ".anchor-menu"],
+      "signature": [
+        ".hero_cat_m_video",
+        ".body-text--text-image",
+        ".anchor-menu"
+      ],
       "title": ".hero_cat_m_video h1.hero__title",
       "hero_image": ".hero_cat_m_video img",
       "hero_meta": ".hero_cat_m_video p.generic-item",
@@ -368,7 +490,10 @@
       "repair_css": ".hero_cat_m_video{min-height:clamp(32rem,60vw,52rem)!important}.hero_cat_m_video h1.hero__title{display:block!important;max-width:14ch!important;white-space:normal!important;word-break:normal!important}.body-text--text-image .body-text__container{align-items:center!important}.body-text--text-image img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}"
     },
     "contact": {
-      "signature": ["#contact-page", ".forms--formspage"],
+      "signature": [
+        "#contact-page",
+        ".forms--formspage"
+      ],
       "title": "#contact-page h2.generic-item",
       "intro": "#contact-page .forms__header",
       "strip": [
@@ -377,7 +502,21 @@
         "#contact-page .forms__success",
         "#contact-page .thanks-form"
       ],
-      "repair_css": "#contact-page{display:block!important;min-height:44rem!important;padding:clamp(7rem,11vw,11rem) 0!important;background:#f1eef6!important;color:#1b123c!important}#contact-page>.container{display:block!important;width:min(1180px,calc(100% - 48px))!important;margin:0 auto!important}#contact-page h2{font-size:clamp(3rem,7vw,7rem)!important;line-height:.95!important}"
+      "repair_css": "#contact-page{display:block!important;min-height:44rem!important;padding:clamp(7rem,11vw,11rem) 0!important;background:#fff!important;color:#004254!important}#contact-page>.container{display:block!important;width:min(1180px,calc(100% - 48px))!important;margin:0 auto!important}#contact-page h2{font-size:clamp(3rem,7vw,7rem)!important;line-height:.95!important}",
+      "form_slot": "#contact-page .forms__form",
+      "sections": [
+        {
+          "selector": "#contact-page .grid-container__variant6",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".grid-container-item",
+              "nth": 0,
+              "html": "<p class=\"section-title__subtitle\">Contact us</p><h2 class=\"section-title__title\"><span class=\"generic-span\">Start with</span> the record packet in hand</h2><p>A deed, royalty statement, division order, lease, probate paper, or legal description can identify the next useful check. Share the county, owner name, interest type, and producing status, and the review starts with the records already available.</p>"
+            }
+          ]
+        }
+      ]
     }
   }
 }

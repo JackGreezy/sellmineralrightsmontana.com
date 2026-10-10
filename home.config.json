@@ -63,5 +63,567 @@
     "/ours/situations/mineral-rights-situations-fractional-mineral-interests-sellmineralrightsmontana-com.jpg": "/ours/situations/mineral-title-review.png",
     "/images/situations/mineral-rights-situations-fractional-mineral-interests-sellmineralrightsmontana-com.jpg": "/ours/situations/mineral-title-review.png"
   },
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/richland-county": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/sheridan-county": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/fallon-county": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/powder-river-county": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/rosebud-county": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/carbon-county": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/lockwood-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/colstrip-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/poplar-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/broadus-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/forsyth-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/red-lodge-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/culbertson-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/fairview-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/savage-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/bainville-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/froid-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/reserve-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/acton-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/antelope-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/ashland-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/ballantine-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/bearcreek-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/biddle-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/birney-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/boyd-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/camp-three-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/crane-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/custer-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/edgar-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/flat-willow-colony-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/fort-smith-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/fox-lake-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/fox-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/homestead-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/huntley-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/joliet-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/kilby-butte-colony-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/lame-deer-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/luther-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/melstone-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/montaqua-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/mountain-view-colony-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/muddy-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/musselshell-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/plevna-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/pryor-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/redstone-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/rockvale-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/roscoe-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/rosebud-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/shepherd-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/silesia-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/worden-mt": {
+      "src": "/ours/locations/regional-baker-mt.jpg",
+      "alt": "Regional view: Baker, Montana",
+      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Montana",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+    },
+    "/locations/billings-mt": {
+      "src": "/ours/locations/sell-mineral-rights-billings-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Billings, MT"
+    },
+    "/locations/yellowstone-county": {
+      "src": "/ours/locations/sell-mineral-rights-yellowstone-county-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Yellowstone County, MT"
+    },
+    "/locations/sidney-mt": {
+      "src": "/ours/locations/sell-mineral-rights-sidney-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Sidney, MT"
+    },
+    "/locations/roosevelt-county": {
+      "src": "/ours/locations/sell-mineral-rights-roosevelt-county-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Roosevelt County, MT"
+    },
+    "/locations/baker-mt": {
+      "src": "/ours/locations/sell-mineral-rights-baker-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Baker, MT"
+    },
+    "/locations/big-horn-county": {
+      "src": "/ours/locations/sell-mineral-rights-big-horn-county-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Big Horn County, MT"
+    },
+    "/locations/musselshell-county": {
+      "src": "/ours/locations/sell-mineral-rights-musselshell-county-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Musselshell County, MT"
+    },
+    "/locations/wibaux-county": {
+      "src": "/ours/locations/sell-mineral-rights-wibaux-county-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wibaux County, MT"
+    },
+    "/locations/laurel-mt": {
+      "src": "/ours/locations/sell-mineral-rights-laurel-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Laurel, MT"
+    },
+    "/locations/roundup-mt": {
+      "src": "/ours/locations/sell-mineral-rights-roundup-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Roundup, MT"
+    },
+    "/locations/hardin-mt": {
+      "src": "/ours/locations/sell-mineral-rights-hardin-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hardin, MT"
+    },
+    "/locations/wolf-point-mt": {
+      "src": "/ours/locations/sell-mineral-rights-wolf-point-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wolf Point, MT"
+    },
+    "/locations/plentywood-mt": {
+      "src": "/ours/locations/sell-mineral-rights-plentywood-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Plentywood, MT"
+    },
+    "/locations/medicine-lake-mt": {
+      "src": "/ours/locations/sell-mineral-rights-medicine-lake-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Medicine Lake, MT"
+    },
+    "/locations/outlook-mt": {
+      "src": "/ours/locations/sell-mineral-rights-outlook-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Outlook, MT"
+    },
+    "/locations/westby-mt": {
+      "src": "/ours/locations/sell-mineral-rights-westby-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Westby, MT"
+    },
+    "/locations/wibaux-mt": {
+      "src": "/ours/locations/sell-mineral-rights-wibaux-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wibaux, MT"
+    },
+    "/locations/belfry-mt": {
+      "src": "/ours/locations/sell-mineral-rights-belfry-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Belfry, MT"
+    },
+    "/locations/bridger-mt": {
+      "src": "/ours/locations/sell-mineral-rights-bridger-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bridger, MT"
+    },
+    "/locations/broadview-mt": {
+      "src": "/ours/locations/sell-mineral-rights-broadview-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Broadview, MT"
+    },
+    "/locations/brockton-mt": {
+      "src": "/ours/locations/sell-mineral-rights-brockton-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Brockton, MT"
+    },
+    "/locations/busby-mt": {
+      "src": "/ours/locations/sell-mineral-rights-busby-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Busby, MT"
+    },
+    "/locations/crow-agency-mt": {
+      "src": "/ours/locations/sell-mineral-rights-crow-agency-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Crow Agency, MT"
+    },
+    "/locations/forty-mile-colony-mt": {
+      "src": "/ours/locations/sell-mineral-rights-forty-mile-colony-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Forty Mile Colony, MT"
+    },
+    "/locations/fromberg-mt": {
+      "src": "/ours/locations/sell-mineral-rights-fromberg-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fromberg, MT"
+    },
+    "/locations/klein-mt": {
+      "src": "/ours/locations/sell-mineral-rights-klein-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Klein, MT"
+    },
+    "/locations/lodge-grass-mt": {
+      "src": "/ours/locations/sell-mineral-rights-lodge-grass-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lodge Grass, MT"
+    },
+    "/locations/nibbe-mt": {
+      "src": "/ours/locations/sell-mineral-rights-nibbe-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Nibbe, MT"
+    },
+    "/locations/pompeys-pillar-mt": {
+      "src": "/ours/locations/sell-mineral-rights-pompeys-pillar-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Pompeys Pillar, MT"
+    },
+    "/locations/roberts-mt": {
+      "src": "/ours/locations/sell-mineral-rights-roberts-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Roberts, MT"
+    },
+    "/locations/st-xavier-mt": {
+      "src": "/ours/locations/sell-mineral-rights-st-xavier-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in St. Xavier, MT"
+    },
+    "/locations/wyola-mt": {
+      "src": "/ours/locations/sell-mineral-rights-wyola-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wyola, MT"
+    }
+  }
 }

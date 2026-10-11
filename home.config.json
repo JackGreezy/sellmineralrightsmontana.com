@@ -66,436 +66,544 @@
   "brand_logo_variant": "",
   "location_hero_images": {
     "/locations/richland-county": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/sheridan-county": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/fallon-county": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/powder-river-county": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/rosebud-county": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/carbon-county": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/lockwood-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/colstrip-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/poplar-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/broadus-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/forsyth-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/red-lodge-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/culbertson-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/fairview-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/savage-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/bainville-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/froid-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/reserve-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/acton-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/antelope-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/ashland-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/ballantine-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/bearcreek-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/biddle-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/birney-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/boyd-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/camp-three-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/crane-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/custer-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/edgar-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/flat-willow-colony-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/fort-smith-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/fox-lake-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/fox-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/homestead-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/huntley-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/joliet-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/kilby-butte-colony-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/lame-deer-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/luther-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/melstone-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/montaqua-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/mountain-view-colony-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/muddy-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/musselshell-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/plevna-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/pryor-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/redstone-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/rockvale-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/roscoe-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/rosebud-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/shepherd-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/silesia-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/worden-mt": {
-      "src": "/ours/locations/regional-baker-mt.jpg",
-      "alt": "Regional view: Baker, Montana",
-      "credit": "Baker, Montana. Regional Montana photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg\" rel=\"noopener\">J.B. Chandler / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-terry-badlands-mt.jpg",
+      "alt": "Terry Badlands, Montana landscape",
       "regional": true,
       "region": "Montana",
-      "source": "https://commons.wikimedia.org/wiki/File%3ABaker_MT_Library.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Terry_Badlands_in_Montana_(20086888614).jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Montana view: Terry Badlands, Montana."
     },
     "/locations/billings-mt": {
       "src": "/ours/locations/sell-mineral-rights-billings-mt.jpg",
